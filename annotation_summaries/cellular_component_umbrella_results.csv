@@ -1,0 +1,1218 @@
+GO Annotation ID,GO Annotation Name,Umbrella Annotation Names,Count of OGs with Annotation,Proportion of OGs with Annotation
+GO:0005634,nucleus,"organelle,cellular anatomical entity",5943,0.22379966108077576
+GO:0016021,integral component of membrane,cellular anatomical entity,3985,0.15006590096027114
+GO:0005829,cytosol,cellular anatomical entity,3881,0.14614950103558652
+GO:0005886,plasma membrane,"cellular anatomical entity,membrane",3776,0.1421954434193184
+GO:0005737,cytoplasm,cellular anatomical entity,3632,0.13677273583129354
+GO:0009507,chloroplast,"organelle,cellular anatomical entity",2302,0.08668800602523065
+GO:0005739,mitochondrion,"organelle,cellular anatomical entity",2080,0.07832799849369233
+GO:0009506,plasmodesma,"cell junction,cellular anatomical entity",1266,0.047674637544718505
+GO:0005794,Golgi apparatus,"organelle,cellular anatomical entity",1146,0.0431557145546978
+GO:0005783,endoplasmic reticulum,"organelle,cellular anatomical entity",1113,0.0419130107324421
+GO:0016020,membrane,cellular anatomical entity,980,0.03690453775183581
+GO:0009536,plastid,"organelle,cellular anatomical entity",910,0.034268499340990397
+GO:0005576,extracellular region,cellular anatomical entity,883,0.03325174166823574
+GO:0009570,chloroplast stroma,cellular anatomical entity,788,0.029674260967802672
+GO:0005789,endoplasmic reticulum membrane,"cellular anatomical entity,membrane",764,0.028770476369798532
+GO:0005730,nucleolus,"organelle,cellular anatomical entity",711,0.026774618715872715
+GO:0005654,nucleoplasm,cellular anatomical entity,696,0.02620975334212013
+GO:0005773,vacuole,"organelle,cellular anatomical entity",693,0.02609678026736961
+GO:0009941,chloroplast envelope,"envelope,cellular anatomical entity",657,0.024741103370363397
+GO:0005774,vacuolar membrane,"membrane,cellular anatomical entity",632,0.023799661080775747
+GO:0043231,intracellular membrane-bounded organelle,"organelle,cellular anatomical entity",625,0.023536057239691207
+GO:0005618,cell wall,cellular anatomical entity,587,0.022105064959517983
+GO:0000139,Golgi membrane,"membrane,cellular anatomical entity",587,0.022105064959517983
+GO:0005623,obsolete cell,none,522,0.019657315006590095
+GO:0009535,chloroplast thylakoid membrane,"membrane,cellular anatomical entity",507,0.019092449632837506
+GO:0005768,endosome,"organelle,cellular anatomical entity",461,0.017360195819996233
+GO:0048046,apoplast,"extracellular region,cellular anatomical entity",435,0.01638109583882508
+GO:0005802,trans-Golgi network,cellular anatomical entity,383,0.014422895876482772
+GO:0005777,peroxisome,"organelle,cellular anatomical entity",322,0.01212577668988891
+GO:0005874,microtubule,"supramolecular complex,cellular anatomical entity",283,0.010657126718132178
+GO:0009534,chloroplast thylakoid,cellular anatomical entity,237,0.008924872905290905
+GO:0031969,chloroplast membrane,"membrane,cellular anatomical entity",233,0.008774242138956882
+GO:0009505,plant-type cell wall,cellular anatomical entity,218,0.008209376765204293
+GO:0009579,thylakoid,cellular anatomical entity,218,0.008209376765204293
+GO:0016607,nuclear speck,cellular anatomical entity,215,0.008096403690453776
+GO:0010008,endosome membrane,"membrane,cellular anatomical entity",202,0.007606853699868198
+GO:0005840,ribosome,"organelle,cellular anatomical entity",198,0.007456222933534175
+GO:0012505,endomembrane system,cellular anatomical entity,192,0.007230276784033139
+GO:0005743,mitochondrial inner membrane,"membrane,cellular anatomical entity",188,0.007079646017699115
+GO:0042025,host cell nucleus,cellular anatomical entity,175,0.006590096027113538
+GO:0009524,phragmoplast,cellular anatomical entity,168,0.006326492186028996
+GO:0005856,cytoskeleton,"organelle,cellular anatomical entity",167,0.006288834494445491
+GO:0005615,extracellular space,cellular anatomical entity,165,0.006213519111278478
+GO:0005887,integral component of plasma membrane,cellular anatomical entity,160,0.006025230653360949
+GO:0048471,perinuclear region of cytoplasm,cellular anatomical entity,160,0.006025230653360949
+GO:0022626,cytosolic ribosome,"organelle,cellular anatomical entity",159,0.005987572961777443
+GO:0070062,extracellular exosome,"organelle,cellular anatomical entity",159,0.005987572961777443
+GO:0099503,secretory vesicle,"organelle,cellular anatomical entity",155,0.00583694219544342
+GO:0009705,plant-type vacuole membrane,"membrane,cellular anatomical entity",153,0.005761626812276407
+GO:0031225,anchored component of membrane,cellular anatomical entity,153,0.005761626812276407
+GO:0046658,anchored component of plasma membrane,cellular anatomical entity,152,0.005723969120692902
+GO:0031965,nuclear membrane,"cellular anatomical entity,membrane",145,0.00546036527960836
+GO:0005635,nuclear envelope,"cellular anatomical entity,envelope",141,0.005309734513274336
+GO:0005681,spliceosomal complex,protein-containing complex,138,0.005196761438523818
+GO:1990904,ribonucleoprotein complex,protein-containing complex,136,0.005121446055356807
+GO:0032991,protein-containing complex,protein-containing complex,134,0.0050461306721897945
+GO:0009706,chloroplast inner membrane,"membrane,cellular anatomical entity",131,0.004933157597439277
+GO:0005759,mitochondrial matrix,"membrane-enclosed lumen,cellular anatomical entity",130,0.004895499905855771
+GO:0005819,spindle,"organelle,cellular anatomical entity",122,0.004594238373187723
+GO:0005871,kinesin complex,protein-containing complex,117,0.004405949915270194
+GO:0000785,chromatin,cellular anatomical entity,116,0.004368292223686688
+GO:0022625,cytosolic large ribosomal subunit,protein-containing complex,115,0.004330634532103182
+GO:0000932,P-body,"supramolecular complex,organelle,cellular anatomical entity",114,0.004292976840519676
+GO:0000790,chromatin,cellular anatomical entity,108,0.004067030691018641
+GO:0005694,chromosome,"organelle,cellular anatomical entity",104,0.003916399924684617
+GO:0000138,Golgi trans cisterna,cellular anatomical entity,103,0.003878742233101111
+GO:0010287,plastoglobule,cellular anatomical entity,102,0.003841084541517605
+GO:0031902,late endosome membrane,"membrane,cellular anatomical entity",101,0.003803426849934099
+GO:0030176,integral component of endoplasmic reticulum membrane,cellular anatomical entity,96,0.0036151383920165693
+GO:0019898,extrinsic component of membrane,cellular anatomical entity,93,0.0035021653172660518
+GO:0031410,cytoplasmic vesicle,"organelle,cellular anatomical entity",93,0.0035021653172660518
+GO:0080008,Cul4-RING E3 ubiquitin ligase complex,protein-containing complex,91,0.00342684993409904
+GO:0005769,early endosome,"organelle,cellular anatomical entity",91,0.00342684993409904
+GO:0090406,pollen tube,cellular anatomical entity,90,0.0033891922425155338
+GO:0005770,late endosome,"organelle,cellular anatomical entity",90,0.0033891922425155338
+GO:0009707,chloroplast outer membrane,"membrane,cellular anatomical entity",90,0.0033891922425155338
+GO:0000325,plant-type vacuole,"organelle,cellular anatomical entity",84,0.003163246093014498
+GO:0005741,mitochondrial outer membrane,"membrane,cellular anatomical entity",84,0.003163246093014498
+GO:0042788,polysomal ribosome,"organelle,cellular anatomical entity",80,0.0030126153266804745
+GO:0005797,Golgi medial cisterna,cellular anatomical entity,79,0.0029749576350969684
+GO:0071013,catalytic step 2 spliceosome,protein-containing complex,79,0.0029749576350969684
+GO:0031966,mitochondrial membrane,"cellular anatomical entity,membrane",77,0.0028996422519299565
+GO:0005764,lysosome,"organelle,cellular anatomical entity",76,0.002861984560346451
+GO:0022627,cytosolic small ribosomal subunit,protein-containing complex,76,0.002861984560346451
+GO:0016592,mediator complex,protein-containing complex,72,0.002711353794012427
+GO:0005643,nuclear pore,protein-containing complex,72,0.002711353794012427
+GO:0005788,endoplasmic reticulum lumen,"membrane-enclosed lumen,cellular anatomical entity",71,0.002673696102428921
+GO:0016604,nuclear body,cellular anatomical entity,71,0.002673696102428921
+GO:0010319,stromule,cellular anatomical entity,71,0.002673696102428921
+GO:0005938,cell cortex,"cellular anatomical entity,cytoplasm",68,0.0025607230276784034
+GO:0032040,small-subunit processome,protein-containing complex,68,0.0025607230276784034
+GO:0042644,chloroplast nucleoid,"nucleoid,organelle,cellular anatomical entity",66,0.0024854076445113915
+GO:0019005,SCF ubiquitin ligase complex,protein-containing complex,65,0.0024477499529278854
+GO:0000502,proteasome complex,protein-containing complex,65,0.0024477499529278854
+GO:0005765,lysosomal membrane,"membrane,cellular anatomical entity",64,0.0024100922613443797
+GO:0005778,peroxisomal membrane,"membrane,organelle,cellular anatomical entity",62,0.002334776878177368
+GO:0005811,lipid droplet,"organelle,cellular anatomical entity",60,0.002259461495010356
+GO:0005813,centrosome,cellular anatomical entity,60,0.002259461495010356
+GO:0009523,photosystem II,protein-containing complex,59,0.00222180380342685
+GO:0031982,vesicle,"cellular anatomical entity,organelle",57,0.002146488420259838
+GO:0009504,cell plate,cellular anatomical entity,57,0.002146488420259838
+GO:0000151,ubiquitin ligase complex,protein-containing complex,57,0.002146488420259838
+GO:0010494,cytoplasmic stress granule,"supramolecular complex,organelle,cellular anatomical entity",56,0.0021088307286763323
+GO:0009986,cell surface,cellular anatomical entity,55,0.002071173037092826
+GO:0031977,thylakoid lumen,cellular anatomical entity,54,0.0020335153455093204
+GO:0000775,"chromosome, centromeric region",cellular anatomical entity,54,0.0020335153455093204
+GO:0009501,amyloplast,"organelle,cellular anatomical entity",53,0.0019958576539258143
+GO:0045202,synapse,"cell junction,cellular anatomical entity",52,0.0019581999623423086
+GO:0015629,actin cytoskeleton,"organelle,cellular anatomical entity",51,0.0019205422707588024
+GO:0009543,chloroplast thylakoid lumen,cellular anatomical entity,51,0.0019205422707588024
+GO:0030659,cytoplasmic vesicle membrane,"membrane,cellular anatomical entity",50,0.0018828845791752965
+GO:0016324,apical plasma membrane,"cellular anatomical entity,membrane",48,0.0018075691960082847
+GO:0030425,dendrite,cellular anatomical entity,46,0.0017322538128412728
+GO:0000922,spindle pole,cellular anatomical entity,46,0.0017322538128412728
+GO:0000307,cyclin-dependent protein kinase holoenzyme complex,protein-containing complex,45,0.0016945961212577669
+GO:0042651,thylakoid membrane,"cellular anatomical entity,membrane",44,0.001656938429674261
+GO:0030424,axon,cellular anatomical entity,44,0.001656938429674261
+GO:0032153,cell division site,cellular anatomical entity,44,0.001656938429674261
+GO:0009522,photosystem I,protein-containing complex,42,0.001581623046507249
+GO:0000137,Golgi cis cisterna,cellular anatomical entity,41,0.0015439653549237432
+GO:0000784,"chromosome, telomeric region",cellular anatomical entity,40,0.0015063076633402373
+GO:0031901,early endosome membrane,"membrane,cellular anatomical entity",40,0.0015063076633402373
+GO:0030173,integral component of Golgi membrane,cellular anatomical entity,39,0.0014686499717567313
+GO:0000145,exocyst,protein-containing complex,39,0.0014686499717567313
+GO:0030136,clathrin-coated vesicle,"organelle,cellular anatomical entity",39,0.0014686499717567313
+GO:0031201,SNARE complex,protein-containing complex,38,0.0014309922801732254
+GO:0005925,focal adhesion,"cell junction,cellular anatomical entity",37,0.0013933345885897195
+GO:0005815,microtubule organizing center,cellular anatomical entity,37,0.0013933345885897195
+GO:0005793,endoplasmic reticulum-Golgi intermediate compartment,"organelle,cellular anatomical entity",37,0.0013933345885897195
+GO:0000786,nucleosome,protein-containing complex,37,0.0013933345885897195
+GO:0048226,Casparian strip,cellular anatomical entity,36,0.0013556768970062136
+GO:0000781,"chromosome, telomeric region",cellular anatomical entity,35,0.0013180192054227076
+GO:0005747,mitochondrial respiratory chain complex I,protein-containing complex,34,0.0012803615138392017
+GO:0071944,cell periphery,cellular anatomical entity,34,0.0012803615138392017
+GO:0030687,"preribosome, large subunit precursor",protein-containing complex,34,0.0012803615138392017
+GO:0015935,small ribosomal subunit,protein-containing complex,34,0.0012803615138392017
+GO:0030496,midbody,cellular anatomical entity,34,0.0012803615138392017
+GO:0005844,polysome,protein-containing complex,33,0.0012427038222556958
+GO:0071011,precatalytic spliceosome,protein-containing complex,33,0.0012427038222556958
+GO:0000228,nuclear chromosome,"organelle,cellular anatomical entity",32,0.0012050461306721898
+GO:0005667,transcription regulator complex,protein-containing complex,32,0.0012050461306721898
+GO:0005771,multivesicular body,"organelle,cellular anatomical entity",31,0.001167388439088684
+GO:0008540,"proteasome regulatory particle, base subcomplex",protein-containing complex,31,0.001167388439088684
+GO:0000159,protein phosphatase type 2A complex,protein-containing complex,30,0.001129730747505178
+GO:0071004,U2-type prespliceosome,protein-containing complex,30,0.001129730747505178
+GO:0031012,extracellular matrix,cellular anatomical entity,30,0.001129730747505178
+GO:0016363,nuclear matrix,cellular anatomical entity,30,0.001129730747505178
+GO:0055028,cortical microtubule,"supramolecular complex,cellular anatomical entity",30,0.001129730747505178
+GO:0070469,respirasome,cellular anatomical entity,30,0.001129730747505178
+GO:0062023,collagen-containing extracellular matrix,cellular anatomical entity,30,0.001129730747505178
+GO:0035861,site of double-strand break,cellular anatomical entity,30,0.001129730747505178
+GO:0009654,photosystem II oxygen evolving complex,protein-containing complex,29,0.001092073055921672
+GO:0043025,neuronal cell body,cellular anatomical entity,29,0.001092073055921672
+GO:0015934,large ribosomal subunit,protein-containing complex,29,0.001092073055921672
+GO:0071007,U2-type catalytic step 2 spliceosome,protein-containing complex,29,0.001092073055921672
+GO:0005758,mitochondrial intermembrane space,"membrane-enclosed lumen,cellular anatomical entity",29,0.001092073055921672
+GO:0032580,Golgi cisterna membrane,"membrane,cellular anatomical entity",28,0.0010544153643381661
+GO:0005666,RNA polymerase III complex,protein-containing complex,28,0.0010544153643381661
+GO:0009514,glyoxysome,"organelle,cellular anatomical entity",28,0.0010544153643381661
+GO:0009532,plastid stroma,cellular anatomical entity,28,0.0010544153643381661
+GO:0000326,protein storage vacuole,"organelle,cellular anatomical entity",28,0.0010544153643381661
+GO:0009508,plastid chromosome,"organelle,cellular anatomical entity",27,0.0010167576727546602
+GO:0005776,autophagosome,"organelle,cellular anatomical entity",27,0.0010167576727546602
+GO:0098978,glutamatergic synapse,"cell junction,cellular anatomical entity,synapse",27,0.0010167576727546602
+GO:0046540,U4/U6 x U5 tri-snRNP complex,protein-containing complex,26,0.0009790999811711543
+GO:0005905,clathrin-coated pit,"cellular anatomical entity,membrane",26,0.0009790999811711543
+GO:0000419,RNA polymerase V complex,protein-containing complex,26,0.0009790999811711543
+GO:0000776,kinetochore,"supramolecular complex,organelle,cellular anatomical entity",26,0.0009790999811711543
+GO:0045335,phagocytic vesicle,"organelle,cellular anatomical entity",26,0.0009790999811711543
+GO:0000794,condensed nuclear chromosome,"organelle,cellular anatomical entity",26,0.0009790999811711543
+GO:0072686,mitotic spindle,"organelle,cellular anatomical entity",26,0.0009790999811711543
+GO:0015030,Cajal body,cellular anatomical entity,26,0.0009790999811711543
+GO:0032300,mismatch repair complex,protein-containing complex,26,0.0009790999811711543
+GO:0009898,cytoplasmic side of plasma membrane,cellular anatomical entity,25,0.0009414422895876483
+GO:0001650,fibrillar center,cellular anatomical entity,25,0.0009414422895876483
+GO:0055037,recycling endosome,"organelle,cellular anatomical entity",25,0.0009414422895876483
+GO:0070971,endoplasmic reticulum exit site,cellular anatomical entity,25,0.0009414422895876483
+GO:0009897,external side of plasma membrane,cellular anatomical entity,25,0.0009414422895876483
+GO:0005795,Golgi stack,cellular anatomical entity,25,0.0009414422895876483
+GO:0030015,CCR4-NOT core complex,protein-containing complex,25,0.0009414422895876483
+GO:0033290,eukaryotic 48S preinitiation complex,protein-containing complex,25,0.0009414422895876483
+GO:0000407,phagophore assembly site,cellular anatomical entity,25,0.0009414422895876483
+GO:0030133,transport vesicle,"organelle,cellular anatomical entity",25,0.0009414422895876483
+GO:0030686,90S preribosome,protein-containing complex,25,0.0009414422895876483
+GO:0032586,protein storage vacuole membrane,"membrane,cellular anatomical entity",25,0.0009414422895876483
+GO:0005657,replication fork,cellular anatomical entity,24,0.0009037845980041423
+GO:0009574,preprophase band,cellular anatomical entity,24,0.0009037845980041423
+GO:0016282,eukaryotic 43S preinitiation complex,protein-containing complex,24,0.0009037845980041423
+GO:0005669,transcription factor TFIID complex,protein-containing complex,24,0.0009037845980041423
+GO:0034399,nuclear periphery,cellular anatomical entity,24,0.0009037845980041423
+GO:0014069,postsynaptic density,"organelle,cellular anatomical entity",24,0.0009037845980041423
+GO:0005876,spindle microtubule,"supramolecular complex,cellular anatomical entity",23,0.0008661269064206364
+GO:0031359,integral component of chloroplast outer membrane,cellular anatomical entity,23,0.0008661269064206364
+GO:0000123,histone acetyltransferase complex,protein-containing complex,23,0.0008661269064206364
+GO:0017119,Golgi transport complex,protein-containing complex,23,0.0008661269064206364
+GO:0031514,motile cilium,"organelle,cellular anatomical entity",23,0.0008661269064206364
+GO:0005685,U1 snRNP,protein-containing complex,23,0.0008661269064206364
+GO:0005875,microtubule associated complex,protein-containing complex,23,0.0008661269064206364
+GO:0015630,microtubule cytoskeleton,"organelle,cellular anatomical entity",23,0.0008661269064206364
+GO:0031305,integral component of mitochondrial inner membrane,cellular anatomical entity,22,0.0008284692148371305
+GO:0030126,COPI vesicle coat,protein-containing complex,22,0.0008284692148371305
+GO:0000777,condensed chromosome kinetochore,"supramolecular complex,organelle,cellular anatomical entity",22,0.0008284692148371305
+GO:0035267,NuA4 histone acetyltransferase complex,protein-containing complex,22,0.0008284692148371305
+GO:0005801,cis-Golgi network,"organelle,cellular anatomical entity",22,0.0008284692148371305
+GO:0016323,basolateral plasma membrane,"cellular anatomical entity,membrane",22,0.0008284692148371305
+GO:0000974,Prp19 complex,protein-containing complex,22,0.0008284692148371305
+GO:0005665,"RNA polymerase II, core complex",protein-containing complex,22,0.0008284692148371305
+GO:0030127,COPII vesicle coat,protein-containing complex,22,0.0008284692148371305
+GO:0046930,pore complex,protein-containing complex,21,0.0007908115232536246
+GO:0016605,PML body,cellular anatomical entity,21,0.0007908115232536246
+GO:0035097,histone methyltransferase complex,protein-containing complex,21,0.0007908115232536246
+GO:0005852,eukaryotic translation initiation factor 3 complex,protein-containing complex,21,0.0007908115232536246
+GO:0016459,myosin complex,protein-containing complex,21,0.0007908115232536246
+GO:0042470,melanosome,"organelle,cellular anatomical entity",21,0.0007908115232536246
+GO:0000118,histone deacetylase complex,protein-containing complex,21,0.0007908115232536246
+GO:0000347,THO complex,protein-containing complex,20,0.0007531538316701186
+GO:0000124,SAGA complex,protein-containing complex,20,0.0007531538316701186
+GO:0030054,cell junction,cellular anatomical entity,20,0.0007531538316701186
+GO:0045211,postsynaptic membrane,"membrane,cellular anatomical entity",20,0.0007531538316701186
+GO:0031594,neuromuscular junction,"cell junction,cellular anatomical entity,synapse",20,0.0007531538316701186
+GO:0030014,CCR4-NOT complex,protein-containing complex,19,0.0007154961400866127
+GO:0005686,U2 snRNP,protein-containing complex,19,0.0007154961400866127
+GO:0071005,U2-type precatalytic spliceosome,protein-containing complex,19,0.0007154961400866127
+GO:0005930,axoneme,cellular anatomical entity,19,0.0007154961400866127
+GO:0030134,COPII-coated ER to Golgi transport vesicle,"organelle,cellular anatomical entity",19,0.0007154961400866127
+GO:0042995,cell projection,cellular anatomical entity,19,0.0007154961400866127
+GO:0030688,"preribosome, small subunit precursor",protein-containing complex,18,0.0006778384485031068
+GO:0071458,integral component of cytoplasmic side of endoplasmic reticulum membrane,cellular anatomical entity,18,0.0006778384485031068
+GO:0036064,ciliary basal body,cellular anatomical entity,18,0.0006778384485031068
+GO:0005929,cilium,"organelle,cellular anatomical entity",18,0.0006778384485031068
+GO:0043186,P granule,"supramolecular complex,organelle,cellular anatomical entity",18,0.0006778384485031068
+GO:0032588,trans-Golgi network membrane,"membrane,cellular anatomical entity",18,0.0006778384485031068
+GO:0032585,multivesicular body membrane,"membrane,cellular anatomical entity",18,0.0006778384485031068
+GO:0012510,trans-Golgi network transport vesicle membrane,"membrane,cellular anatomical entity",18,0.0006778384485031068
+GO:0005736,RNA polymerase I complex,protein-containing complex,18,0.0006778384485031068
+GO:0005814,centriole,"organelle,cellular anatomical entity",17,0.0006401807569196008
+GO:0000418,RNA polymerase IV complex,protein-containing complex,17,0.0006401807569196008
+GO:0005884,actin filament,"supramolecular complex,cellular anatomical entity",17,0.0006401807569196008
+GO:0043204,perikaryon,cellular anatomical entity,17,0.0006401807569196008
+GO:0000148,"1,3-beta-D-glucan synthase complex",protein-containing complex,17,0.0006401807569196008
+GO:0098794,postsynapse,cellular anatomical entity,17,0.0006401807569196008
+GO:0005682,U5 snRNP,protein-containing complex,17,0.0006401807569196008
+GO:0012507,ER to Golgi transport vesicle membrane,"membrane,cellular anatomical entity",17,0.0006401807569196008
+GO:0005689,U12-type spliceosomal complex,protein-containing complex,17,0.0006401807569196008
+GO:0043005,neuron projection,cellular anatomical entity,17,0.0006401807569196008
+GO:0045121,membrane raft,"cellular anatomical entity,membrane",16,0.0006025230653360949
+GO:0030018,Z disc,cellular anatomical entity,16,0.0006025230653360949
+GO:0005834,heterotrimeric G-protein complex,protein-containing complex,16,0.0006025230653360949
+GO:0005839,proteasome core complex,protein-containing complex,16,0.0006025230653360949
+GO:0031464,Cul4A-RING E3 ubiquitin ligase complex,protein-containing complex,16,0.0006025230653360949
+GO:0031090,organelle membrane,"cellular anatomical entity,membrane",16,0.0006025230653360949
+GO:0000176,nuclear exosome (RNase complex),protein-containing complex,16,0.0006025230653360949
+GO:0034045,phagophore assembly site membrane,"cellular anatomical entity,membrane",16,0.0006025230653360949
+GO:0045261,"proton-transporting ATP synthase complex, catalytic core F(1)",protein-containing complex,16,0.0006025230653360949
+GO:0005719,euchromatin,"cellular anatomical entity,chromatin",15,0.000564865373752589
+GO:0031307,integral component of mitochondrial outer membrane,cellular anatomical entity,15,0.000564865373752589
+GO:0010330,cellulose synthase complex,protein-containing complex,15,0.000564865373752589
+GO:0045177,apical part of cell,cellular anatomical entity,15,0.000564865373752589
+GO:0030904,retromer complex,protein-containing complex,15,0.000564865373752589
+GO:0000427,plastid-encoded plastid RNA polymerase complex,protein-containing complex,15,0.000564865373752589
+GO:0019897,extrinsic component of plasma membrane,cellular anatomical entity,15,0.000564865373752589
+GO:0035619,root hair tip,cellular anatomical entity,15,0.000564865373752589
+GO:0005663,DNA replication factor C complex,protein-containing complex,15,0.000564865373752589
+GO:0005762,mitochondrial large ribosomal subunit,protein-containing complex,15,0.000564865373752589
+GO:0000930,gamma-tubulin complex,protein-containing complex,15,0.000564865373752589
+GO:0071014,post-mRNA release spliceosomal complex,protein-containing complex,15,0.000564865373752589
+GO:0005680,anaphase-promoting complex,protein-containing complex,15,0.000564865373752589
+GO:0031011,Ino80 complex,protein-containing complex,15,0.000564865373752589
+GO:0051286,cell tip,cellular anatomical entity,15,0.000564865373752589
+GO:0042383,sarcolemma,"cellular anatomical entity,membrane",14,0.0005272076821690831
+GO:0009925,basal plasma membrane,"cellular anatomical entity,membrane",14,0.0005272076821690831
+GO:0009368,endopeptidase Clp complex,protein-containing complex,14,0.0005272076821690831
+GO:0000793,condensed chromosome,"organelle,cellular anatomical entity",14,0.0005272076821690831
+GO:0030427,site of polarized growth,cellular anatomical entity,14,0.0005272076821690831
+GO:0005677,chromatin silencing complex,protein-containing complex,14,0.0005272076821690831
+GO:0000329,fungal-type vacuole membrane,"membrane,cellular anatomical entity",14,0.0005272076821690831
+GO:0032541,cortical endoplasmic reticulum,cellular anatomical entity,14,0.0005272076821690831
+GO:0071561,nucleus-vacuole junction,cellular anatomical entity,14,0.0005272076821690831
+GO:0030665,clathrin-coated vesicle membrane,"membrane,cellular anatomical entity",14,0.0005272076821690831
+GO:0034707,chloride channel complex,protein-containing complex,14,0.0005272076821690831
+GO:0010598,NAD(P)H dehydrogenase complex (plastoquinone),protein-containing complex,14,0.0005272076821690831
+GO:0090404,pollen tube tip,cellular anatomical entity,14,0.0005272076821690831
+GO:0000792,heterochromatin,"cellular anatomical entity,chromatin",14,0.0005272076821690831
+GO:0042645,mitochondrial nucleoid,"nucleoid,organelle,cellular anatomical entity",14,0.0005272076821690831
+GO:0042555,MCM complex,protein-containing complex,14,0.0005272076821690831
+GO:0000243,commitment complex,protein-containing complex,13,0.0004895499905855771
+GO:0016514,SWI/SNF complex,protein-containing complex,13,0.0004895499905855771
+GO:0030915,Smc5-Smc6 complex,protein-containing complex,13,0.0004895499905855771
+GO:0044297,cell body,cellular anatomical entity,13,0.0004895499905855771
+GO:0034451,centriolar satellite,cellular anatomical entity,13,0.0004895499905855771
+GO:0071782,endoplasmic reticulum tubular network,cellular anatomical entity,13,0.0004895499905855771
+GO:0005779,integral component of peroxisomal membrane,cellular anatomical entity,13,0.0004895499905855771
+GO:0005750,mitochondrial respiratory chain complex III,protein-containing complex,13,0.0004895499905855771
+GO:0000812,Swr1 complex,protein-containing complex,13,0.0004895499905855771
+GO:0043596,nuclear replication fork,cellular anatomical entity,13,0.0004895499905855771
+GO:0042597,periplasmic space,cellular anatomical entity,13,0.0004895499905855771
+GO:0005720,heterochromatin,"cellular anatomical entity,chromatin",13,0.0004895499905855771
+GO:0034663,endoplasmic reticulum chaperone complex,protein-containing complex,13,0.0004895499905855771
+GO:0009526,plastid envelope,"cellular anatomical entity,envelope",13,0.0004895499905855771
+GO:0031931,TORC1 complex,protein-containing complex,13,0.0004895499905855771
+GO:0045271,respiratory chain complex I,protein-containing complex,13,0.0004895499905855771
+GO:0098793,presynapse,cellular anatomical entity,13,0.0004895499905855771
+GO:0031972,chloroplast intermembrane space,"membrane-enclosed lumen,cellular anatomical entity",13,0.0004895499905855771
+GO:0043197,dendritic spine,cellular anatomical entity,13,0.0004895499905855771
+GO:0043657,host cell,cellular anatomical entity,13,0.0004895499905855771
+GO:0031597,cytosolic proteasome complex,protein-containing complex,13,0.0004895499905855771
+GO:0030897,HOPS complex,protein-containing complex,12,0.00045189229900207117
+GO:0030027,lamellipodium,cellular anatomical entity,12,0.00045189229900207117
+GO:0008250,oligosaccharyltransferase complex,protein-containing complex,12,0.00045189229900207117
+GO:0033116,endoplasmic reticulum-Golgi intermediate compartment membrane,"membrane,cellular anatomical entity",12,0.00045189229900207117
+GO:0005960,glycine cleavage complex,protein-containing complex,12,0.00045189229900207117
+GO:0009509,chromoplast,"organelle,cellular anatomical entity",12,0.00045189229900207117
+GO:0000421,autophagosome membrane,"membrane,cellular anatomical entity",12,0.00045189229900207117
+GO:0044732,mitotic spindle pole body,cellular anatomical entity,12,0.00045189229900207117
+GO:1990316,Atg1/ULK1 kinase complex,protein-containing complex,12,0.00045189229900207117
+GO:0044611,nuclear pore inner ring,protein-containing complex,12,0.00045189229900207117
+GO:0005732,sno(s)RNA-containing ribonucleoprotein complex,protein-containing complex,12,0.00045189229900207117
+GO:0005881,cytoplasmic microtubule,"supramolecular complex,cellular anatomical entity",12,0.00045189229900207117
+GO:0070847,core mediator complex,protein-containing complex,12,0.00045189229900207117
+GO:0030426,growth cone,cellular anatomical entity,12,0.00045189229900207117
+GO:0030132,clathrin coat of coated pit,protein-containing complex,12,0.00045189229900207117
+GO:0099080,supramolecular complex,cellular anatomical entity,12,0.00045189229900207117
+GO:0009517,PSII associated light-harvesting complex II,protein-containing complex,12,0.00045189229900207117
+GO:0030139,endocytic vesicle,"organelle,cellular anatomical entity",12,0.00045189229900207117
+GO:0034388,Pwp2p-containing subcomplex of 90S preribosome,protein-containing complex,12,0.00045189229900207117
+GO:0005911,cell-cell junction,"cell junction,cellular anatomical entity",12,0.00045189229900207117
+GO:0033263,CORVET complex,protein-containing complex,12,0.00045189229900207117
+GO:0031252,cell leading edge,cellular anatomical entity,12,0.00045189229900207117
+GO:0033588,elongator holoenzyme complex,protein-containing complex,12,0.00045189229900207117
+GO:0031461,cullin-RING ubiquitin ligase complex,protein-containing complex,12,0.00045189229900207117
+GO:0005740,mitochondrial envelope,"cellular anatomical entity,envelope",12,0.00045189229900207117
+GO:0071556,integral component of lumenal side of endoplasmic reticulum membrane,cellular anatomical entity,12,0.00045189229900207117
+GO:0000178,exosome (RNase complex),protein-containing complex,12,0.00045189229900207117
+GO:0030131,clathrin adaptor complex,protein-containing complex,12,0.00045189229900207117
+GO:0072546,EMC complex,protein-containing complex,12,0.00045189229900207117
+GO:0090694,Scc2-Scc4 cohesin loading complex,protein-containing complex,11,0.00041423460741856524
+GO:0055035,plastid thylakoid membrane,"membrane,cellular anatomical entity",11,0.00041423460741856524
+GO:0031519,PcG protein complex,protein-containing complex,11,0.00041423460741856524
+GO:0005885,Arp2/3 protein complex,protein-containing complex,11,0.00041423460741856524
+GO:0016328,lateral plasma membrane,cellular anatomical entity,11,0.00041423460741856524
+GO:0034515,proteasome storage granule,"organelle,cellular anatomical entity",11,0.00041423460741856524
+GO:0035102,PRC1 complex,protein-containing complex,11,0.00041423460741856524
+GO:0005675,transcription factor TFIIH holo complex,protein-containing complex,11,0.00041423460741856524
+GO:0009840,chloroplastic endopeptidase Clp complex,protein-containing complex,11,0.00041423460741856524
+GO:0000796,condensin complex,protein-containing complex,11,0.00041423460741856524
+GO:0044613,nuclear pore central transport channel,protein-containing complex,11,0.00041423460741856524
+GO:0009317,acetyl-CoA carboxylase complex,protein-containing complex,11,0.00041423460741856524
+GO:0005782,peroxisomal matrix,"membrane-enclosed lumen,cellular anatomical entity",11,0.00041423460741856524
+GO:0008278,cohesin complex,protein-containing complex,11,0.00041423460741856524
+GO:0030008,TRAPP complex,protein-containing complex,11,0.00041423460741856524
+GO:0000815,ESCRT III complex,protein-containing complex,11,0.00041423460741856524
+GO:0005832,chaperonin-containing T-complex,protein-containing complex,11,0.00041423460741856524
+GO:0032301,MutSalpha complex,protein-containing complex,11,0.00041423460741856524
+GO:0071006,U2-type catalytic step 1 spliceosome,protein-containing complex,11,0.00041423460741856524
+GO:0034098,VCP-NPL4-UFD1 AAA ATPase complex,protein-containing complex,11,0.00041423460741856524
+GO:0071339,MLL1 complex,protein-containing complex,11,0.00041423460741856524
+GO:0031298,replication fork protection complex,protein-containing complex,11,0.00041423460741856524
+GO:0005604,basement membrane,cellular anatomical entity,11,0.00041423460741856524
+GO:0062091,Ycf2/FtsHi complex,protein-containing complex,10,0.0003765769158350593
+GO:0016593,Cdc73/Paf1 complex,protein-containing complex,10,0.0003765769158350593
+GO:0000177,cytoplasmic exosome (RNase complex),protein-containing complex,10,0.0003765769158350593
+GO:0031932,TORC2 complex,protein-containing complex,10,0.0003765769158350593
+GO:0005763,mitochondrial small ribosomal subunit,protein-containing complex,10,0.0003765769158350593
+GO:0031080,nuclear pore outer ring,protein-containing complex,10,0.0003765769158350593
+GO:0098807,chloroplast thylakoid membrane protein complex,protein-containing complex,10,0.0003765769158350593
+GO:0030130,clathrin coat of trans-Golgi network vesicle,protein-containing complex,10,0.0003765769158350593
+GO:0005847,mRNA cleavage and polyadenylation specificity factor complex,protein-containing complex,10,0.0003765769158350593
+GO:0008021,synaptic vesicle,"organelle,cellular anatomical entity",10,0.0003765769158350593
+GO:0042406,extrinsic component of endoplasmic reticulum membrane,cellular anatomical entity,10,0.0003765769158350593
+GO:0016035,zeta DNA polymerase complex,protein-containing complex,10,0.0003765769158350593
+GO:0009538,photosystem I reaction center,protein-containing complex,10,0.0003765769158350593
+GO:0005849,mRNA cleavage factor complex,protein-containing complex,10,0.0003765769158350593
+GO:0010369,chromocenter,"organelle,cellular anatomical entity",10,0.0003765769158350593
+GO:0008180,COP9 signalosome,protein-containing complex,10,0.0003765769158350593
+GO:0031380,nuclear RNA-directed RNA polymerase complex,protein-containing complex,10,0.0003765769158350593
+GO:0101031,chaperone complex,protein-containing complex,10,0.0003765769158350593
+GO:0019774,"proteasome core complex, beta-subunit complex",protein-containing complex,10,0.0003765769158350593
+GO:0005749,"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",protein-containing complex,10,0.0003765769158350593
+GO:0031672,A band,cellular anatomical entity,10,0.0003765769158350593
+GO:0016529,sarcoplasmic reticulum,"organelle,cellular anatomical entity",10,0.0003765769158350593
+GO:0030430,host cell cytoplasm,cellular anatomical entity,9,0.0003389192242515534
+GO:1904115,axon cytoplasm,"cytoplasm,cellular anatomical entity",9,0.0003389192242515534
+GO:0030122,AP-2 adaptor complex,protein-containing complex,9,0.0003389192242515534
+GO:0016281,eukaryotic translation initiation factor 4F complex,protein-containing complex,9,0.0003389192242515534
+GO:0000778,condensed nuclear chromosome kinetochore,"supramolecular complex,organelle,cellular anatomical entity",9,0.0003389192242515534
+GO:0031093,platelet alpha granule lumen,"membrane-enclosed lumen,cellular anatomical entity",9,0.0003389192242515534
+GO:0008541,"proteasome regulatory particle, lid subcomplex",protein-containing complex,9,0.0003389192242515534
+GO:0045273,respiratory chain complex II,protein-containing complex,9,0.0003389192242515534
+GO:0000923,equatorial microtubule organizing center,cellular anatomical entity,9,0.0003389192242515534
+GO:0036449,microtubule minus-end,cellular anatomical entity,9,0.0003389192242515534
+GO:0016461,unconventional myosin complex,protein-containing complex,9,0.0003389192242515534
+GO:0031430,M band,cellular anatomical entity,9,0.0003389192242515534
+GO:0009533,chloroplast stromal thylakoid,cellular anatomical entity,9,0.0003389192242515534
+GO:0016442,RISC complex,protein-containing complex,9,0.0003389192242515534
+GO:0043229,intracellular organelle,cellular anatomical entity,9,0.0003389192242515534
+GO:0005912,adherens junction,"cell junction,cellular anatomical entity",9,0.0003389192242515534
+GO:0043078,polar nucleus,"organelle,cellular anatomical entity",9,0.0003389192242515534
+GO:0089701,U2AF complex,protein-containing complex,9,0.0003389192242515534
+GO:0035098,ESC/E(Z) complex,protein-containing complex,9,0.0003389192242515534
+GO:0005664,nuclear origin of replication recognition complex,protein-containing complex,9,0.0003389192242515534
+GO:0031428,box C/D RNP complex,protein-containing complex,9,0.0003389192242515534
+GO:0000275,"mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)",protein-containing complex,9,0.0003389192242515534
+GO:0098685,Schaffer collateral - CA1 synapse,"cell junction,cellular anatomical entity,synapse",9,0.0003389192242515534
+GO:0043194,axon initial segment,cellular anatomical entity,9,0.0003389192242515534
+GO:0005880,nuclear microtubule,"supramolecular complex,cellular anatomical entity",9,0.0003389192242515534
+GO:0030286,dynein complex,protein-containing complex,9,0.0003389192242515534
+GO:0005851,eukaryotic translation initiation factor 2B complex,protein-containing complex,9,0.0003389192242515534
+GO:0000938,GARP complex,protein-containing complex,9,0.0003389192242515534
+GO:0005744,TIM23 mitochondrial import inner membrane translocase complex,protein-containing complex,9,0.0003389192242515534
+GO:0016471,vacuolar proton-transporting V-type ATPase complex,protein-containing complex,9,0.0003389192242515534
+GO:0018444,translation release factor complex,protein-containing complex,9,0.0003389192242515534
+GO:0005684,U2-type spliceosomal complex,protein-containing complex,9,0.0003389192242515534
+GO:0048188,Set1C/COMPASS complex,protein-containing complex,9,0.0003389192242515534
+GO:0016272,prefoldin complex,protein-containing complex,8,0.00030126153266804746
+GO:0000808,origin recognition complex,protein-containing complex,8,0.00030126153266804746
+GO:0046861,glyoxysomal membrane,"membrane,organelle,cellular anatomical entity",8,0.00030126153266804746
+GO:0005786,"signal recognition particle, endoplasmic reticulum targeting",protein-containing complex,8,0.00030126153266804746
+GO:0055087,Ski complex,protein-containing complex,8,0.00030126153266804746
+GO:0005658,alpha DNA polymerase:primase complex,protein-containing complex,8,0.00030126153266804746
+GO:0000791,euchromatin,"cellular anatomical entity,chromatin",8,0.00030126153266804746
+GO:0001726,ruffle,cellular anatomical entity,8,0.00030126153266804746
+GO:0000015,phosphopyruvate hydratase complex,protein-containing complex,8,0.00030126153266804746
+GO:0070652,HAUS complex,protein-containing complex,8,0.00030126153266804746
+GO:0016235,aggresome,cellular anatomical entity,8,0.00030126153266804746
+GO:0005637,nuclear inner membrane,"membrane,cellular anatomical entity",8,0.00030126153266804746
+GO:0035577,azurophil granule membrane,"membrane,cellular anatomical entity",8,0.00030126153266804746
+GO:0035145,exon-exon junction complex,protein-containing complex,8,0.00030126153266804746
+GO:0031463,Cul3-RING ubiquitin ligase complex,protein-containing complex,8,0.00030126153266804746
+GO:0012511,monolayer-surrounded lipid storage body,"organelle,cellular anatomical entity",8,0.00030126153266804746
+GO:0009295,nucleoid,cellular anatomical entity,8,0.00030126153266804746
+GO:0035618,root hair,cellular anatomical entity,8,0.00030126153266804746
+GO:0045263,"proton-transporting ATP synthase complex, coupling factor F(o)",protein-containing complex,8,0.00030126153266804746
+GO:0071540,"eukaryotic translation initiation factor 3 complex, eIF3e",protein-containing complex,8,0.00030126153266804746
+GO:0005923,bicellular tight junction,"cell junction,cellular anatomical entity",8,0.00030126153266804746
+GO:0045171,intercellular bridge,cellular anatomical entity,8,0.00030126153266804746
+GO:0034271,"phosphatidylinositol 3-kinase complex, class III, type I",protein-containing complex,8,0.00030126153266804746
+GO:0034272,"phosphatidylinositol 3-kinase complex, class III, type II",protein-containing complex,8,0.00030126153266804746
+GO:0031314,extrinsic component of mitochondrial inner membrane,cellular anatomical entity,8,0.00030126153266804746
+GO:0036464,cytoplasmic ribonucleoprotein granule,"supramolecular complex,organelle,cellular anatomical entity",8,0.00030126153266804746
+GO:0019773,"proteasome core complex, alpha-subunit complex",protein-containing complex,8,0.00030126153266804746
+GO:0030660,Golgi-associated vesicle membrane,"membrane,cellular anatomical entity",8,0.00030126153266804746
+GO:0009360,DNA polymerase III complex,protein-containing complex,8,0.00030126153266804746
+GO:0000798,nuclear cohesin complex,protein-containing complex,8,0.00030126153266804746
+GO:0034455,t-UTP complex,protein-containing complex,8,0.00030126153266804746
+GO:0005828,kinetochore microtubule,"supramolecular complex,cellular anatomical entity",8,0.00030126153266804746
+GO:0005775,vacuolar lumen,"membrane-enclosed lumen,cellular anatomical entity",8,0.00030126153266804746
+GO:0035327,transcriptionally active chromatin,"cellular anatomical entity,chromatin",8,0.00030126153266804746
+GO:0010445,nuclear dicing body,cellular anatomical entity,8,0.00030126153266804746
+GO:0009331,glycerol-3-phosphate dehydrogenase complex,protein-containing complex,8,0.00030126153266804746
+GO:0005662,DNA replication factor A complex,protein-containing complex,8,0.00030126153266804746
+GO:0090575,RNA polymerase II transcription regulator complex,protein-containing complex,8,0.00030126153266804746
+GO:0043202,lysosomal lumen,"membrane-enclosed lumen,cellular anatomical entity",8,0.00030126153266804746
+GO:0005971,ribonucleoside-diphosphate reductase complex,protein-containing complex,8,0.00030126153266804746
+GO:0030141,secretory granule,"organelle,cellular anatomical entity",8,0.00030126153266804746
+GO:0020002,host cell plasma membrane,cellular anatomical entity,8,0.00030126153266804746
+GO:1990578,perinuclear endoplasmic reticulum membrane,"cellular anatomical entity,membrane",8,0.00030126153266804746
+GO:0031234,extrinsic component of cytoplasmic side of plasma membrane,cellular anatomical entity,8,0.00030126153266804746
+GO:0036126,sperm flagellum,"organelle,cellular anatomical entity",8,0.00030126153266804746
+GO:0032993,protein-DNA complex,protein-containing complex,8,0.00030126153266804746
+GO:0005577,fibrinogen complex,protein-containing complex,7,0.00026360384108454154
+GO:0042807,central vacuole,"organelle,cellular anatomical entity",7,0.00026360384108454154
+GO:0097526,spliceosomal tri-snRNP complex,protein-containing complex,7,0.00026360384108454154
+GO:0005703,polytene chromosome puff,cellular anatomical entity,7,0.00026360384108454154
+GO:0034657,GID complex,protein-containing complex,7,0.00026360384108454154
+GO:0014731,spectrin-associated cytoskeleton,"organelle,cellular anatomical entity",7,0.00026360384108454154
+GO:0030875,rDNA protrusion,cellular anatomical entity,7,0.00026360384108454154
+GO:0070209,ASTRA complex,protein-containing complex,7,0.00026360384108454154
+GO:0031261,DNA replication preinitiation complex,protein-containing complex,7,0.00026360384108454154
+GO:0030017,sarcomere,cellular anatomical entity,7,0.00026360384108454154
+GO:0016602,CCAAT-binding factor complex,protein-containing complex,7,0.00026360384108454154
+GO:0090734,site of DNA damage,cellular anatomical entity,7,0.00026360384108454154
+GO:0014704,intercalated disc,"cell junction,cellular anatomical entity",7,0.00026360384108454154
+GO:0000813,ESCRT I complex,protein-containing complex,7,0.00026360384108454154
+GO:0017053,transcription repressor complex,protein-containing complex,7,0.00026360384108454154
+GO:0005753,mitochondrial proton-transporting ATP synthase complex,protein-containing complex,7,0.00026360384108454154
+GO:0030658,transport vesicle membrane,"membrane,cellular anatomical entity",7,0.00026360384108454154
+GO:0000445,THO complex part of transcription export complex,protein-containing complex,7,0.00026360384108454154
+GO:0031209,SCAR complex,protein-containing complex,7,0.00026360384108454154
+GO:0008023,transcription elongation factor complex,protein-containing complex,7,0.00026360384108454154
+GO:0032127,dense core granule membrane,"membrane,cellular anatomical entity",7,0.00026360384108454154
+GO:0046695,SLIK (SAGA-like) complex,protein-containing complex,7,0.00026360384108454154
+GO:0030532,small nuclear ribonucleoprotein complex,protein-containing complex,7,0.00026360384108454154
+GO:0005687,U4 snRNP,protein-containing complex,7,0.00026360384108454154
+GO:0034719,SMN-Sm protein complex,protein-containing complex,7,0.00026360384108454154
+GO:0005956,protein kinase CK2 complex,protein-containing complex,7,0.00026360384108454154
+GO:0008622,epsilon DNA polymerase complex,protein-containing complex,7,0.00026360384108454154
+GO:0097431,mitotic spindle pole,cellular anatomical entity,7,0.00026360384108454154
+GO:0042765,GPI-anchor transamidase complex,protein-containing complex,7,0.00026360384108454154
+GO:0033018,sarcoplasmic reticulum lumen,"membrane-enclosed lumen,cellular anatomical entity",7,0.00026360384108454154
+GO:0005845,mRNA cap binding complex,protein-containing complex,7,0.00026360384108454154
+GO:0043614,multi-eIF complex,protein-containing complex,7,0.00026360384108454154
+GO:0035578,azurophil granule lumen,"membrane-enclosed lumen,cellular anatomical entity",7,0.00026360384108454154
+GO:0034245,mitochondrial DNA-directed RNA polymerase complex,protein-containing complex,7,0.00026360384108454154
+GO:0005656,nuclear pre-replicative complex,protein-containing complex,7,0.00026360384108454154
+GO:0032302,MutSbeta complex,protein-containing complex,7,0.00026360384108454154
+GO:0030428,cell septum,cellular anatomical entity,7,0.00026360384108454154
+GO:0000311,plastid large ribosomal subunit,protein-containing complex,7,0.00026360384108454154
+GO:1904813,ficolin-1-rich granule lumen,"membrane-enclosed lumen,cellular anatomical entity",7,0.00026360384108454154
+GO:0032154,cleavage furrow,"cellular anatomical entity,membrane",7,0.00026360384108454154
+GO:1990745,EARP complex,protein-containing complex,7,0.00026360384108454154
+GO:0072562,blood microparticle,cellular anatomical entity,7,0.00026360384108454154
+GO:0051233,spindle midzone,cellular anatomical entity,7,0.00026360384108454154
+GO:0030479,actin cortical patch,cellular anatomical entity,7,0.00026360384108454154
+GO:0005628,prospore membrane,"cellular anatomical entity,membrane",7,0.00026360384108454154
+GO:0005652,nuclear lamina,cellular anatomical entity,7,0.00026360384108454154
+GO:0071439,clathrin complex,protein-containing complex,7,0.00026360384108454154
+GO:0001669,acrosomal vesicle,"organelle,cellular anatomical entity",7,0.00026360384108454154
+GO:0030956,glutamyl-tRNA(Gln) amidotransferase complex,protein-containing complex,6,0.00022594614950103558
+GO:0000799,condensin complex,protein-containing complex,6,0.00022594614950103558
+GO:0042721,TIM22 mitochondrial import inner membrane insertion complex,protein-containing complex,6,0.00022594614950103558
+GO:0005798,Golgi-associated vesicle,"organelle,cellular anatomical entity",6,0.00022594614950103558
+GO:0090543,Flemming body,cellular anatomical entity,6,0.00022594614950103558
+GO:0019013,viral nucleocapsid,none,6,0.00022594614950103558
+GO:0030140,trans-Golgi network transport vesicle,"organelle,cellular anatomical entity",6,0.00022594614950103558
+GO:0085042,periarbuscular membrane,cellular anatomical entity,6,0.00022594614950103558
+GO:0000408,EKC/KEOPS complex,protein-containing complex,6,0.00022594614950103558
+GO:0031227,intrinsic component of endoplasmic reticulum membrane,cellular anatomical entity,6,0.00022594614950103558
+GO:0030125,clathrin vesicle coat,protein-containing complex,6,0.00022594614950103558
+GO:0010168,ER body,"organelle,cellular anatomical entity",6,0.00022594614950103558
+GO:0055044,symplast,cellular anatomical entity,6,0.00022594614950103558
+GO:0032432,actin filament bundle,cellular anatomical entity,6,0.00022594614950103558
+GO:0033180,"proton-transporting V-type ATPase, V1 domain",protein-containing complex,6,0.00022594614950103558
+GO:0000126,transcription factor TFIIIB complex,protein-containing complex,6,0.00022594614950103558
+GO:0033597,mitotic checkpoint complex,protein-containing complex,6,0.00022594614950103558
+GO:0001673,male germ cell nucleus,"organelle,cellular anatomical entity",6,0.00022594614950103558
+GO:0099055,integral component of postsynaptic membrane,cellular anatomical entity,6,0.00022594614950103558
+GO:0031207,Sec62/Sec63 complex,protein-containing complex,6,0.00022594614950103558
+GO:0005854,nascent polypeptide-associated complex,protein-containing complex,6,0.00022594614950103558
+GO:0005863,striated muscle myosin thick filament,"supramolecular complex,cellular anatomical entity",6,0.00022594614950103558
+GO:0030315,T-tubule,cellular anatomical entity,6,0.00022594614950103558
+GO:0031618,pericentric heterochromatin,"cellular anatomical entity,chromatin",6,0.00022594614950103558
+GO:0030981,cortical microtubule cytoskeleton,"organelle,cellular anatomical entity",6,0.00022594614950103558
+GO:0030175,filopodium,cellular anatomical entity,6,0.00022594614950103558
+GO:0005787,signal peptidase complex,protein-containing complex,6,0.00022594614950103558
+GO:0099738,cell cortex region,"cytoplasm,cellular anatomical entity",6,0.00022594614950103558
+GO:0070531,BRCA1-A complex,protein-containing complex,6,0.00022594614950103558
+GO:0005700,polytene chromosome,"organelle,cellular anatomical entity",6,0.00022594614950103558
+GO:0070776,MOZ/MORF histone acetyltransferase complex,protein-containing complex,6,0.00022594614950103558
+GO:0009528,plastid inner membrane,"membrane,cellular anatomical entity",6,0.00022594614950103558
+GO:0009783,photosystem II antenna complex,protein-containing complex,6,0.00022594614950103558
+GO:0030870,Mre11 complex,protein-containing complex,6,0.00022594614950103558
+GO:0000795,synaptonemal complex,cellular anatomical entity,6,0.00022594614950103558
+GO:0009511,plasmodesmatal endoplasmic reticulum,"organelle,cellular anatomical entity",6,0.00022594614950103558
+GO:0071541,"eukaryotic translation initiation factor 3 complex, eIF3m",protein-containing complex,6,0.00022594614950103558
+GO:0032587,ruffle membrane,"membrane,cellular anatomical entity",6,0.00022594614950103558
+GO:0030864,cortical actin cytoskeleton,"organelle,cellular anatomical entity",6,0.00022594614950103558
+GO:0000164,protein phosphatase type 1 complex,protein-containing complex,6,0.00022594614950103558
+GO:0000220,"vacuolar proton-transporting V-type ATPase, V0 domain",protein-containing complex,6,0.00022594614950103558
+GO:0032044,DSIF complex,protein-containing complex,6,0.00022594614950103558
+GO:1990112,RQC complex,protein-containing complex,6,0.00022594614950103558
+GO:0000943,retrotransposon nucleocapsid,cellular anatomical entity,6,0.00022594614950103558
+GO:0000839,Hrd1p ubiquitin ligase ERAD-L complex,protein-containing complex,6,0.00022594614950103558
+GO:0008274,gamma-tubulin ring complex,protein-containing complex,6,0.00022594614950103558
+GO:0031313,extrinsic component of endosome membrane,cellular anatomical entity,6,0.00022594614950103558
+GO:0005967,mitochondrial pyruvate dehydrogenase complex,protein-containing complex,6,0.00022594614950103558
+GO:1990429,peroxisomal importomer complex,protein-containing complex,6,0.00022594614950103558
+GO:0005846,nuclear cap binding complex,protein-containing complex,6,0.00022594614950103558
+GO:0008352,katanin complex,protein-containing complex,6,0.00022594614950103558
+GO:0051285,cell cortex of cell tip,"cytoplasm,cellular anatomical entity",6,0.00022594614950103558
+GO:0071563,Myo2p-Vac17p-Vac8p transport complex,protein-containing complex,6,0.00022594614950103558
+GO:0097550,transcription preinitiation complex,protein-containing complex,6,0.00022594614950103558
+GO:0001401,SAM complex,protein-containing complex,6,0.00022594614950103558
+GO:0030123,AP-3 adaptor complex,protein-containing complex,5,0.00018828845791752966
+GO:0098572,stromal side of plastid thylakoid membrane,cellular anatomical entity,5,0.00018828845791752966
+GO:0042641,actomyosin,cellular anatomical entity,5,0.00018828845791752966
+GO:0005697,telomerase holoenzyme complex,protein-containing complex,5,0.00018828845791752966
+GO:0035808,meiotic recombination initiation complex,protein-containing complex,5,0.00018828845791752966
+GO:0000127,transcription factor TFIIIC complex,protein-containing complex,5,0.00018828845791752966
+GO:0071008,U2-type post-mRNA release spliceosomal complex,protein-containing complex,5,0.00018828845791752966
+GO:0042646,plastid nucleoid,"nucleoid,organelle,cellular anatomical entity",5,0.00018828845791752966
+GO:0034715,pICln-Sm protein complex,protein-containing complex,5,0.00018828845791752966
+GO:0016234,inclusion body,cellular anatomical entity,5,0.00018828845791752966
+GO:0009527,plastid outer membrane,"membrane,cellular anatomical entity",5,0.00018828845791752966
+GO:0035649,Nrd1 complex,protein-containing complex,5,0.00018828845791752966
+GO:0032807,DNA ligase IV complex,protein-containing complex,5,0.00018828845791752966
+GO:0043196,varicosity,cellular anatomical entity,5,0.00018828845791752966
+GO:0030667,secretory granule membrane,"membrane,cellular anatomical entity",5,0.00018828845791752966
+GO:0042170,plastid membrane,"cellular anatomical entity,membrane",5,0.00018828845791752966
+GO:0032039,integrator complex,protein-containing complex,5,0.00018828845791752966
+GO:0036020,endolysosome membrane,"membrane,cellular anatomical entity",5,0.00018828845791752966
+GO:0031226,intrinsic component of plasma membrane,cellular anatomical entity,5,0.00018828845791752966
+GO:0005868,cytoplasmic dynein complex,protein-containing complex,5,0.00018828845791752966
+GO:0070545,PeBoW complex,protein-containing complex,5,0.00018828845791752966
+GO:0045252,oxoglutarate dehydrogenase complex,protein-containing complex,5,0.00018828845791752966
+GO:0033179,"proton-transporting V-type ATPase, V0 domain",protein-containing complex,5,0.00018828845791752966
+GO:0031429,box H/ACA snoRNP complex,protein-containing complex,5,0.00018828845791752966
+GO:0005790,smooth endoplasmic reticulum,"organelle,cellular anatomical entity",5,0.00018828845791752966
+GO:0120105,"mitotic actomyosin contractile ring, intermediate layer",cellular anatomical entity,5,0.00018828845791752966
+GO:0070822,Sin3-type complex,protein-containing complex,5,0.00018828845791752966
+GO:0005872,minus-end kinesin complex,protein-containing complex,5,0.00018828845791752966
+GO:0070852,cell body fiber,cellular anatomical entity,5,0.00018828845791752966
+GO:0009569,chloroplast starch grain,cellular anatomical entity,5,0.00018828845791752966
+GO:0000779,"condensed chromosome, centromeric region",cellular anatomical entity,5,0.00018828845791752966
+GO:0043625,delta DNA polymerase complex,protein-containing complex,5,0.00018828845791752966
+GO:0005784,Sec61 translocon complex,protein-containing complex,5,0.00018828845791752966
+GO:0044615,nuclear pore nuclear basket,protein-containing complex,5,0.00018828845791752966
+GO:0010005,"cortical microtubule, transverse to long axis","supramolecular complex,cellular anatomical entity",5,0.00018828845791752966
+GO:0000324,fungal-type vacuole,"organelle,cellular anatomical entity",5,0.00018828845791752966
+GO:0005622,intracellular anatomical structure,cellular anatomical entity,5,0.00018828845791752966
+GO:0005688,U6 snRNP,protein-containing complex,5,0.00018828845791752966
+GO:0070390,transcription export complex 2,protein-containing complex,5,0.00018828845791752966
+GO:0070382,exocytic vesicle,"organelle,cellular anatomical entity",5,0.00018828845791752966
+GO:0043240,Fanconi anaemia nuclear complex,protein-containing complex,5,0.00018828845791752966
+GO:0008024,cyclin/CDK positive transcription elongation factor complex,protein-containing complex,5,0.00018828845791752966
+GO:0043661,peribacteroid membrane,"membrane,cellular anatomical entity",5,0.00018828845791752966
+GO:0055038,recycling endosome membrane,"membrane,cellular anatomical entity",5,0.00018828845791752966
+GO:0031357,integral component of chloroplast inner membrane,cellular anatomical entity,5,0.00018828845791752966
+GO:0000323,lytic vacuole,"organelle,cellular anatomical entity",5,0.00018828845791752966
+GO:1904724,tertiary granule lumen,"membrane-enclosed lumen,cellular anatomical entity",5,0.00018828845791752966
+GO:0030124,AP-4 adaptor complex,protein-containing complex,5,0.00018828845791752966
+GO:0030121,AP-1 adaptor complex,protein-containing complex,5,0.00018828845791752966
+GO:0035838,growing cell tip,cellular anatomical entity,5,0.00018828845791752966
+GO:0005791,rough endoplasmic reticulum,"organelle,cellular anatomical entity",5,0.00018828845791752966
+GO:0033063,Rad51B-Rad51C-Rad51D-XRCC2 complex,protein-containing complex,5,0.00018828845791752966
+GO:0031499,TRAMP complex,protein-containing complex,5,0.00018828845791752966
+GO:0032391,photoreceptor connecting cilium,cellular anatomical entity,5,0.00018828845791752966
+GO:0017087,mitochondrial processing peptidase complex,protein-containing complex,5,0.00018828845791752966
+GO:0043073,germ cell nucleus,"organelle,cellular anatomical entity",5,0.00018828845791752966
+GO:0009531,secondary cell wall,cellular anatomical entity,5,0.00018828845791752966
+GO:0000783,nuclear telomere cap complex,protein-containing complex,5,0.00018828845791752966
+GO:0019012,virion,virion,5,0.00018828845791752966
+GO:0009575,chromoplast stroma,cellular anatomical entity,5,0.00018828845791752966
+GO:0034426,etioplast membrane,"membrane,cellular anatomical entity",5,0.00018828845791752966
+GO:0000500,RNA polymerase I upstream activating factor complex,protein-containing complex,5,0.00018828845791752966
+GO:0031465,Cul4B-RING E3 ubiquitin ligase complex,protein-containing complex,4,0.00015063076633402373
+GO:0009578,etioplast stroma,cellular anatomical entity,4,0.00015063076633402373
+GO:0000125,PCAF complex,protein-containing complex,4,0.00015063076633402373
+GO:0010007,magnesium chelatase complex,protein-containing complex,4,0.00015063076633402373
+GO:0032545,CURI complex,protein-containing complex,4,0.00015063076633402373
+GO:0044614,nuclear pore cytoplasmic filaments,protein-containing complex,4,0.00015063076633402373
+GO:0009328,phenylalanine-tRNA ligase complex,protein-containing complex,4,0.00015063076633402373
+GO:0032578,aleurone grain membrane,"membrane,cellular anatomical entity",4,0.00015063076633402373
+GO:0097504,Gemini of coiled bodies,cellular anatomical entity,4,0.00015063076633402373
+GO:0031304,intrinsic component of mitochondrial inner membrane,cellular anatomical entity,4,0.00015063076633402373
+GO:0031941,filamentous actin,protein-containing complex,4,0.00015063076633402373
+GO:0070939,Dsl1/NZR complex,protein-containing complex,4,0.00015063076633402373
+GO:0048556,microsporocyte nucleus,"organelle,cellular anatomical entity",4,0.00015063076633402373
+GO:0097452,GAIT complex,protein-containing complex,4,0.00015063076633402373
+GO:0097386,glial cell projection,cellular anatomical entity,4,0.00015063076633402373
+GO:0000110,nucleotide-excision repair factor 1 complex,protein-containing complex,4,0.00015063076633402373
+GO:0072494,host multivesicular body,cellular anatomical entity,4,0.00015063076633402373
+GO:0005952,cAMP-dependent protein kinase complex,protein-containing complex,4,0.00015063076633402373
+GO:0048555,generative cell nucleus,"organelle,cellular anatomical entity",4,0.00015063076633402373
+GO:0070821,tertiary granule membrane,"membrane,cellular anatomical entity",4,0.00015063076633402373
+GO:0031897,Tic complex,protein-containing complex,4,0.00015063076633402373
+GO:0030692,Noc4p-Nop14p complex,protein-containing complex,4,0.00015063076633402373
+GO:0070761,pre-snoRNP complex,protein-containing complex,4,0.00015063076633402373
+GO:0031985,Golgi cisterna,cellular anatomical entity,4,0.00015063076633402373
+GO:0097344,Rix1 complex,protein-containing complex,4,0.00015063076633402373
+GO:0016591,"RNA polymerase II, holoenzyme",protein-containing complex,4,0.00015063076633402373
+GO:0043527,tRNA methyltransferase complex,protein-containing complex,4,0.00015063076633402373
+GO:0008287,protein serine/threonine phosphatase complex,protein-containing complex,4,0.00015063076633402373
+GO:0000417,HIR complex,protein-containing complex,4,0.00015063076633402373
+GO:0044545,NSL complex,protein-containing complex,4,0.00015063076633402373
+GO:1990726,Lsm1-7-Pat1 complex,protein-containing complex,4,0.00015063076633402373
+GO:0035579,specific granule membrane,"membrane,cellular anatomical entity",4,0.00015063076633402373
+GO:0034774,secretory granule lumen,"membrane-enclosed lumen,cellular anatomical entity",4,0.00015063076633402373
+GO:0090695,Wpl/Pds5 cohesin loading/unloading complex,protein-containing complex,4,0.00015063076633402373
+GO:0043680,filiform apparatus,cellular anatomical entity,4,0.00015063076633402373
+GO:0031390,Ctf18 RFC-like complex,protein-containing complex,4,0.00015063076633402373
+GO:0030863,cortical cytoskeleton,"organelle,cellular anatomical entity",4,0.00015063076633402373
+GO:0098556,cytoplasmic side of rough endoplasmic reticulum membrane,cellular anatomical entity,4,0.00015063076633402373
+GO:1990879,CST complex,protein-containing complex,4,0.00015063076633402373
+GO:0008275,gamma-tubulin small complex,protein-containing complex,4,0.00015063076633402373
+GO:0034709,methylosome,protein-containing complex,4,0.00015063076633402373
+GO:0043235,receptor complex,protein-containing complex,4,0.00015063076633402373
+GO:0070451,cell hair,cellular anatomical entity,4,0.00015063076633402373
+GO:0030119,AP-type membrane coat adaptor complex,protein-containing complex,4,0.00015063076633402373
+GO:0033276,transcription factor TFTC complex,protein-containing complex,4,0.00015063076633402373
+GO:0001750,photoreceptor outer segment,cellular anatomical entity,4,0.00015063076633402373
+GO:0030137,COPI-coated vesicle,"organelle,cellular anatomical entity",4,0.00015063076633402373
+GO:0005742,mitochondrial outer membrane translocase complex,protein-containing complex,4,0.00015063076633402373
+GO:0033268,node of Ranvier,cellular anatomical entity,4,0.00015063076633402373
+GO:0033281,TAT protein transport complex,protein-containing complex,4,0.00015063076633402373
+GO:0000506,glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex,protein-containing complex,4,0.00015063076633402373
+GO:0009330,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex",protein-containing complex,4,0.00015063076633402373
+GO:0031674,I band,cellular anatomical entity,4,0.00015063076633402373
+GO:0030016,myofibril,"supramolecular complex,organelle,cellular anatomical entity",4,0.00015063076633402373
+GO:0030117,membrane coat,protein-containing complex,4,0.00015063076633402373
+GO:0097708,intracellular vesicle,"organelle,cellular anatomical entity",4,0.00015063076633402373
+GO:0045178,basal part of cell,cellular anatomical entity,4,0.00015063076633402373
+GO:0005902,microvillus,cellular anatomical entity,4,0.00015063076633402373
+GO:0000814,ESCRT II complex,protein-containing complex,4,0.00015063076633402373
+GO:0032421,stereocilium bundle,cellular anatomical entity,4,0.00015063076633402373
+GO:0097165,nuclear stress granule,"supramolecular complex,organelle,cellular anatomical entity",4,0.00015063076633402373
+GO:0048476,Holliday junction resolvase complex,protein-containing complex,4,0.00015063076633402373
+GO:0005869,dynactin complex,protein-containing complex,4,0.00015063076633402373
+GO:0072687,meiotic spindle,"organelle,cellular anatomical entity",4,0.00015063076633402373
+GO:0000789,chromatin,cellular anatomical entity,4,0.00015063076633402373
+GO:0061927,TOC-TIC supercomplex I,protein-containing complex,4,0.00015063076633402373
+GO:0031981,nuclear lumen,"membrane-enclosed lumen,cellular anatomical entity",4,0.00015063076633402373
+GO:0001725,stress fiber,cellular anatomical entity,4,0.00015063076633402373
+GO:0000152,nuclear ubiquitin ligase complex,protein-containing complex,4,0.00015063076633402373
+GO:0008623,CHRAC,protein-containing complex,4,0.00015063076633402373
+GO:0005835,fatty acid synthase complex,protein-containing complex,4,0.00015063076633402373
+GO:0097224,sperm connecting piece,cellular anatomical entity,4,0.00015063076633402373
+GO:0030914,STAGA complex,protein-containing complex,4,0.00015063076633402373
+GO:0000439,transcription factor TFIIH core complex,protein-containing complex,4,0.00015063076633402373
+GO:0030673,axolemma,"membrane,cellular anatomical entity",4,0.00015063076633402373
+GO:0017101,aminoacyl-tRNA synthetase multienzyme complex,protein-containing complex,4,0.00015063076633402373
+GO:0043195,terminal bouton,cellular anatomical entity,4,0.00015063076633402373
+GO:0034456,UTP-C complex,protein-containing complex,4,0.00015063076633402373
+GO:0005731,nucleolus organizer region,cellular anatomical entity,4,0.00015063076633402373
+GO:0045025,mitochondrial degradosome,protein-containing complex,4,0.00015063076633402373
+GO:0033186,CAF-1 complex,protein-containing complex,4,0.00015063076633402373
+GO:1990071,TRAPPII protein complex,protein-containing complex,4,0.00015063076633402373
+GO:0070772,PAS complex,protein-containing complex,4,0.00015063076633402373
+GO:0030690,Noc1p-Noc2p complex,protein-containing complex,4,0.00015063076633402373
+GO:0000836,Hrd1p ubiquitin ligase complex,protein-containing complex,4,0.00015063076633402373
+GO:0000306,extrinsic component of vacuolar membrane,cellular anatomical entity,4,0.00015063076633402373
+GO:0030874,nucleolar chromatin,cellular anatomical entity,4,0.00015063076633402373
+GO:0030891,VCB complex,protein-containing complex,4,0.00015063076633402373
+GO:0101003,ficolin-1-rich granule membrane,"membrane,cellular anatomical entity",4,0.00015063076633402373
+GO:0000172,ribonuclease MRP complex,protein-containing complex,4,0.00015063076633402373
+GO:0061574,ASAP complex,protein-containing complex,4,0.00015063076633402373
+GO:0005816,spindle pole body,cellular anatomical entity,4,0.00015063076633402373
+GO:0030289,protein phosphatase 4 complex,protein-containing complex,4,0.00015063076633402373
+GO:1905103,integral component of lysosomal membrane,cellular anatomical entity,4,0.00015063076633402373
+GO:0070985,transcription factor TFIIK complex,protein-containing complex,4,0.00015063076633402373
+GO:0000811,GINS complex,protein-containing complex,4,0.00015063076633402373
+GO:0033270,paranode region of axon,cellular anatomical entity,4,0.00015063076633402373
+GO:0036501,UFD1-NPL4 complex,protein-containing complex,4,0.00015063076633402373
+GO:0036513,Derlin-1 retrotranslocation complex,protein-containing complex,4,0.00015063076633402373
+GO:0099053,activating signal cointegrator 1 complex,protein-containing complex,4,0.00015063076633402373
+GO:0033095,aleurone grain,"organelle,cellular anatomical entity",3,0.00011297307475051779
+GO:0001405,"PAM complex, Tim23 associated import motor",protein-containing complex,3,0.00011297307475051779
+GO:0005968,Rab-protein geranylgeranyltransferase complex,protein-containing complex,3,0.00011297307475051779
+GO:0000242,pericentriolar material,cellular anatomical entity,3,0.00011297307475051779
+GO:0043291,RAVE complex,protein-containing complex,3,0.00011297307475051779
+GO:0009930,longitudinal side of cell surface,cellular anatomical entity,3,0.00011297307475051779
+GO:0055120,striated muscle dense body,cellular anatomical entity,3,0.00011297307475051779
+GO:0099033,anchored component of postsynaptic recycling endosome membrane,cellular anatomical entity,3,0.00011297307475051779
+GO:0005850,eukaryotic translation initiation factor 2 complex,protein-containing complex,3,0.00011297307475051779
+GO:0099031,anchored component of postsynaptic density membrane,cellular anatomical entity,3,0.00011297307475051779
+GO:0030684,preribosome,protein-containing complex,3,0.00011297307475051779
+GO:0045281,succinate dehydrogenase complex,protein-containing complex,3,0.00011297307475051779
+GO:0045298,tubulin complex,protein-containing complex,3,0.00011297307475051779
+GO:0070552,BRISC complex,protein-containing complex,3,0.00011297307475051779
+GO:0009544,chloroplast ATP synthase complex,protein-containing complex,3,0.00011297307475051779
+GO:0034066,Ric1-Rgp1 guanyl-nucleotide exchange factor complex,protein-containing complex,3,0.00011297307475051779
+GO:1903561,extracellular vesicle,"organelle,cellular anatomical entity",3,0.00011297307475051779
+GO:0009512,cytochrome b6f complex,protein-containing complex,3,0.00011297307475051779
+GO:0035448,extrinsic component of thylakoid membrane,cellular anatomical entity,3,0.00011297307475051779
+GO:0071942,XPC complex,protein-containing complex,3,0.00011297307475051779
+GO:0000111,nucleotide-excision repair factor 2 complex,protein-containing complex,3,0.00011297307475051779
+GO:0000333,telomerase catalytic core complex,protein-containing complex,3,0.00011297307475051779
+GO:0043292,contractile fiber,"supramolecular complex,organelle,cellular anatomical entity",3,0.00011297307475051779
+GO:0043198,dendritic shaft,cellular anatomical entity,3,0.00011297307475051779
+GO:0035658,Mon1-Ccz1 complex,protein-containing complex,3,0.00011297307475051779
+GO:0045111,intermediate filament cytoskeleton,"organelle,cellular anatomical entity",3,0.00011297307475051779
+GO:0019034,viral replication complex,cellular anatomical entity,3,0.00011297307475051779
+GO:0030672,synaptic vesicle membrane,"membrane,cellular anatomical entity",3,0.00011297307475051779
+GO:0097255,R2TP complex,protein-containing complex,3,0.00011297307475051779
+GO:0019008,molybdopterin synthase complex,protein-containing complex,3,0.00011297307475051779
+GO:0009921,auxin efflux carrier complex,protein-containing complex,3,0.00011297307475051779
+GO:0034457,Mpp10 complex,protein-containing complex,3,0.00011297307475051779
+GO:0098966,perisynaptic extracellular matrix,cellular anatomical entity,3,0.00011297307475051779
+GO:0097440,apical dendrite,cellular anatomical entity,3,0.00011297307475051779
+GO:1990298,bub1-bub3 complex,protein-containing complex,3,0.00011297307475051779
+GO:0035371,microtubule plus-end,cellular anatomical entity,3,0.00011297307475051779
+GO:0098992,neuronal dense core vesicle,"organelle,cellular anatomical entity",3,0.00011297307475051779
+GO:0035061,interchromatin granule,cellular anatomical entity,3,0.00011297307475051779
+GO:0034693,U11/U12 snRNP,protein-containing complex,3,0.00011297307475051779
+GO:0030681,multimeric ribonuclease P complex,protein-containing complex,3,0.00011297307475051779
+GO:0020005,symbiont-containing vacuole membrane,cellular anatomical entity,3,0.00011297307475051779
+GO:0055036,virion membrane,"membrane,cellular anatomical entity",3,0.00011297307475051779
+GO:0012506,vesicle membrane,"cellular anatomical entity,membrane",3,0.00011297307475051779
+GO:0032299,ribonuclease H2 complex,protein-containing complex,3,0.00011297307475051779
+GO:0031436,BRCA1-BARD1 complex,protein-containing complex,3,0.00011297307475051779
+GO:0005882,intermediate filament,"supramolecular complex,cellular anatomical entity",3,0.00011297307475051779
+GO:0044214,spanning component of plasma membrane,cellular anatomical entity,3,0.00011297307475051779
+GO:0043667,pollen wall,cellular anatomical entity,3,0.00011297307475051779
+GO:0031526,brush border membrane,"membrane,cellular anatomical entity",3,0.00011297307475051779
+GO:0031083,BLOC-1 complex,protein-containing complex,3,0.00011297307475051779
+GO:0005951,carbamoyl-phosphate synthase complex,protein-containing complex,3,0.00011297307475051779
+GO:1990023,mitotic spindle midzone,cellular anatomical entity,3,0.00011297307475051779
+GO:0033553,rDNA heterochromatin,"cellular anatomical entity,chromatin",3,0.00011297307475051779
+GO:0042643,"obsolete actomyosin, actin portion",none,3,0.00011297307475051779
+GO:0044218,other organism cell membrane,none,3,0.00011297307475051779
+GO:0030896,checkpoint clamp complex,protein-containing complex,3,0.00011297307475051779
+GO:0000112,nucleotide-excision repair factor 3 complex,protein-containing complex,3,0.00011297307475051779
+GO:0030906,"retromer, cargo-selective complex",protein-containing complex,3,0.00011297307475051779
+GO:0033017,sarcoplasmic reticulum membrane,"membrane,cellular anatomical entity",3,0.00011297307475051779
+GO:0005903,brush border,cellular anatomical entity,3,0.00011297307475051779
+GO:0035452,extrinsic component of plastid membrane,cellular anatomical entity,3,0.00011297307475051779
+GO:0001917,photoreceptor inner segment,cellular anatomical entity,3,0.00011297307475051779
+GO:1990752,microtubule end,cellular anatomical entity,3,0.00011297307475051779
+GO:0033097,amyloplast membrane,"membrane,cellular anatomical entity",3,0.00011297307475051779
+GO:0043253,chloroplast ribosome,"organelle,cellular anatomical entity",3,0.00011297307475051779
+GO:0031616,spindle pole centrosome,cellular anatomical entity,3,0.00011297307475051779
+GO:0032281,AMPA glutamate receptor complex,protein-containing complex,3,0.00011297307475051779
+GO:0098982,GABA-ergic synapse,"cell junction,cellular anatomical entity,synapse",3,0.00011297307475051779
+GO:0005655,nucleolar ribonuclease P complex,protein-containing complex,3,0.00011297307475051779
+GO:0030093,chloroplast photosystem I,protein-containing complex,3,0.00011297307475051779
+GO:0090498,extrinsic component of Golgi membrane,cellular anatomical entity,3,0.00011297307475051779
+GO:0030691,Noc2p-Noc3p complex,protein-containing complex,3,0.00011297307475051779
+GO:0097546,ciliary base,cellular anatomical entity,3,0.00011297307475051779
+GO:0031303,integral component of endosome membrane,cellular anatomical entity,3,0.00011297307475051779
+GO:0031262,Ndc80 complex,protein-containing complex,3,0.00011297307475051779
+GO:0043190,ATP-binding cassette (ABC) transporter complex,protein-containing complex,3,0.00011297307475051779
+GO:0043332,mating projection tip,cellular anatomical entity,3,0.00011297307475051779
+GO:0036409,histone H3-K14 acetyltransferase complex,protein-containing complex,3,0.00011297307475051779
+GO:0000109,nucleotide-excision repair complex,protein-containing complex,3,0.00011297307475051779
+GO:0061827,sperm head,cellular anatomical entity,3,0.00011297307475051779
+GO:0031091,platelet alpha granule,"organelle,cellular anatomical entity",3,0.00011297307475051779
+GO:0009341,beta-galactosidase complex,protein-containing complex,3,0.00011297307475051779
+GO:0031372,UBC13-MMS2 complex,protein-containing complex,3,0.00011297307475051779
+GO:0030288,outer membrane-bounded periplasmic space,cellular anatomical entity,3,0.00011297307475051779
+GO:0072380,TRC complex,protein-containing complex,3,0.00011297307475051779
+GO:0020023,kinetoplast,cellular anatomical entity,3,0.00011297307475051779
+GO:0005673,transcription factor TFIIE complex,protein-containing complex,3,0.00011297307475051779
+GO:0005614,interstitial matrix,cellular anatomical entity,3,0.00011297307475051779
+GO:0031595,nuclear proteasome complex,protein-containing complex,3,0.00011297307475051779
+GO:0052718,tRNA-specific adenosine-34 deaminase complex,protein-containing complex,3,0.00011297307475051779
+GO:0043209,myelin sheath,cellular anatomical entity,3,0.00011297307475051779
+GO:0005671,Ada2/Gcn5/Ada3 transcription activator complex,protein-containing complex,3,0.00011297307475051779
+GO:0044295,axonal growth cone,cellular anatomical entity,3,0.00011297307475051779
+GO:0097218,sieve plate,cellular anatomical entity,3,0.00011297307475051779
+GO:0009551,secondary plasmodesma,"cell junction,cellular anatomical entity",3,0.00011297307475051779
+GO:0005826,actomyosin contractile ring,cellular anatomical entity,3,0.00011297307475051779
+GO:0032797,SMN complex,protein-containing complex,3,0.00011297307475051779
+GO:0043224,nuclear SCF ubiquitin ligase complex,protein-containing complex,3,0.00011297307475051779
+GO:0072357,PTW/PP1 phosphatase complex,protein-containing complex,3,0.00011297307475051779
+GO:0045334,clathrin-coated endocytic vesicle,"organelle,cellular anatomical entity",3,0.00011297307475051779
+GO:1990072,TRAPPIII protein complex,protein-containing complex,3,0.00011297307475051779
+GO:0005947,mitochondrial alpha-ketoglutarate dehydrogenase complex,protein-containing complex,3,0.00011297307475051779
+GO:0009353,mitochondrial oxoglutarate dehydrogenase complex,protein-containing complex,2,7.531538316701187e-05
+GO:1990794,basolateral part of cell,cellular anatomical entity,2,7.531538316701187e-05
+GO:0034674,integrin alpha5-beta1 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0032592,integral component of mitochondrial membrane,cellular anatomical entity,2,7.531538316701187e-05
+GO:0045169,fusome,cellular anatomical entity,2,7.531538316701187e-05
+GO:0000153,cytoplasmic ubiquitin ligase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0005918,septate junction,"cell junction,cellular anatomical entity",2,7.531538316701187e-05
+GO:0016327,apicolateral plasma membrane,"cellular anatomical entity,membrane",2,7.531538316701187e-05
+GO:0140268,endoplasmic reticulum-plasma membrane contact site,cellular anatomical entity,2,7.531538316701187e-05
+GO:0034667,integrin alpha3-beta1 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0042734,presynaptic membrane,"membrane,cellular anatomical entity",2,7.531538316701187e-05
+GO:0034681,integrin alpha11-beta1 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0048786,presynaptic active zone,cellular anatomical entity,2,7.531538316701187e-05
+GO:0044232,organelle membrane contact site,cellular anatomical entity,2,7.531538316701187e-05
+GO:0070449,elongin complex,protein-containing complex,2,7.531538316701187e-05
+GO:0044233,mitochondria-associated endoplasmic reticulum membrane,cellular anatomical entity,2,7.531538316701187e-05
+GO:0016589,NURF complex,protein-containing complex,2,7.531538316701187e-05
+GO:0032116,SMC loading complex,protein-containing complex,2,7.531538316701187e-05
+GO:0010370,perinucleolar chromocenter,"organelle,cellular anatomical entity",2,7.531538316701187e-05
+GO:0035859,Seh1-associated complex,protein-containing complex,2,7.531538316701187e-05
+GO:0071819,DUBm complex,protein-containing complex,2,7.531538316701187e-05
+GO:0000214,tRNA-intron endonuclease complex,protein-containing complex,2,7.531538316701187e-05
+GO:0071020,post-spliceosomal complex,protein-containing complex,2,7.531538316701187e-05
+GO:0048500,signal recognition particle,protein-containing complex,2,7.531538316701187e-05
+GO:0005746,mitochondrial respirasome,cellular anatomical entity,2,7.531538316701187e-05
+GO:0035101,FACT complex,protein-containing complex,2,7.531538316701187e-05
+GO:0005853,eukaryotic translation elongation factor 1 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0005901,caveola,"membrane,cellular anatomical entity",2,7.531538316701187e-05
+GO:0070765,gamma-secretase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0005584,collagen type I trimer,protein-containing complex,2,7.531538316701187e-05
+GO:0005586,collagen type III trimer,protein-containing complex,2,7.531538316701187e-05
+GO:0034678,integrin alpha8-beta1 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0043220,Schmidt-Lanterman incisure,cellular anatomical entity,2,7.531538316701187e-05
+GO:0035749,myelin sheath adaxonal region,cellular anatomical entity,2,7.531538316701187e-05
+GO:0036396,RNA N6-methyladenosine methyltransferase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0034665,integrin alpha1-beta1 complex,protein-containing complex,2,7.531538316701187e-05
+GO:1990667,PCSK9-AnxA2 complex,protein-containing complex,2,7.531538316701187e-05
+GO:1990665,AnxA2-p11 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0035770,ribonucleoprotein granule,"supramolecular complex,organelle,cellular anatomical entity",2,7.531538316701187e-05
+GO:0000221,"vacuolar proton-transporting V-type ATPase, V1 domain",protein-containing complex,2,7.531538316701187e-05
+GO:0034677,integrin alpha7-beta1 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0016222,procollagen-proline 4-dioxygenase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0070876,SOSS complex,protein-containing complex,2,7.531538316701187e-05
+GO:0030142,COPI-coated Golgi to ER transport vesicle,"organelle,cellular anatomical entity",2,7.531538316701187e-05
+GO:0008290,F-actin capping protein complex,protein-containing complex,2,7.531538316701187e-05
+GO:0030670,phagocytic vesicle membrane,"membrane,cellular anatomical entity",2,7.531538316701187e-05
+GO:0034666,integrin alpha2-beta1 complex,protein-containing complex,2,7.531538316701187e-05
+GO:1904423,dehydrodolichyl diphosphate synthase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0033185,dolichol-phosphate-mannose synthase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0035748,myelin sheath abaxonal region,cellular anatomical entity,2,7.531538316701187e-05
+GO:0043626,PCNA complex,protein-containing complex,2,7.531538316701187e-05
+GO:0009344,nitrite reductase complex [NAD(P)H],protein-containing complex,2,7.531538316701187e-05
+GO:0000837,Doa10p ubiquitin ligase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0031523,Myb complex,protein-containing complex,2,7.531538316701187e-05
+GO:0099013,neuronal dense core vesicle lumen,"membrane-enclosed lumen,cellular anatomical entity",2,7.531538316701187e-05
+GO:0031510,SUMO activating enzyme complex,protein-containing complex,2,7.531538316701187e-05
+GO:0009277,fungal-type cell wall,cellular anatomical entity,2,7.531538316701187e-05
+GO:0098554,cytoplasmic side of endoplasmic reticulum membrane,cellular anatomical entity,2,7.531538316701187e-05
+GO:0016460,myosin II complex,protein-containing complex,2,7.531538316701187e-05
+GO:0034680,integrin alpha10-beta1 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0097513,myosin II filament,"supramolecular complex,cellular anatomical entity",2,7.531538316701187e-05
+GO:0033065,Rad51C-XRCC3 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0034751,aryl hydrocarbon receptor complex,protein-containing complex,2,7.531538316701187e-05
+GO:0031021,interphase microtubule organizing center,cellular anatomical entity,2,7.531538316701187e-05
+GO:0097225,sperm midpiece,cellular anatomical entity,2,7.531538316701187e-05
+GO:0071438,obsolete invadopodium membrane,none,2,7.531538316701187e-05
+GO:0033176,proton-transporting V-type ATPase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0032433,filopodium tip,cellular anatomical entity,2,7.531538316701187e-05
+GO:0005672,transcription factor TFIIA complex,protein-containing complex,2,7.531538316701187e-05
+GO:0032593,insulin-responsive compartment,"organelle,cellular anatomical entity",2,7.531538316701187e-05
+GO:0071821,FANCM-MHF complex,protein-containing complex,2,7.531538316701187e-05
+GO:0009513,etioplast,"organelle,cellular anatomical entity",2,7.531538316701187e-05
+GO:0099699,integral component of synaptic membrane,cellular anatomical entity,2,7.531538316701187e-05
+GO:0031520,plasma membrane of cell tip,"cellular anatomical entity,membrane",2,7.531538316701187e-05
+GO:0071595,Nem1-Spo7 phosphatase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0097038,perinuclear endoplasmic reticulum,cellular anatomical entity,2,7.531538316701187e-05
+GO:1903293,phosphatase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0031361,integral component of thylakoid membrane,cellular anatomical entity,2,7.531538316701187e-05
+GO:0034506,"chromosome, centromeric core domain",cellular anatomical entity,2,7.531538316701187e-05
+GO:0031415,NatA complex,protein-containing complex,2,7.531538316701187e-05
+GO:0033565,ESCRT-0 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0005965,protein farnesyltransferase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0043034,costamere,cellular anatomical entity,2,7.531538316701187e-05
+GO:0043668,exine,cellular anatomical entity,2,7.531538316701187e-05
+GO:0042565,RNA nuclear export complex,protein-containing complex,2,7.531538316701187e-05
+GO:0034705,potassium channel complex,protein-containing complex,2,7.531538316701187e-05
+GO:0032783,super elongation complex,protein-containing complex,2,7.531538316701187e-05
+GO:0033106,cis-Golgi network membrane,"membrane,cellular anatomical entity",2,7.531538316701187e-05
+GO:0044666,MLL3/4 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0030894,replisome,protein-containing complex,2,7.531538316701187e-05
+GO:0030666,endocytic vesicle membrane,"membrane,cellular anatomical entity",2,7.531538316701187e-05
+GO:0005883,neurofilament,"supramolecular complex,cellular anatomical entity",2,7.531538316701187e-05
+GO:1990816,vacuole-mitochondrion membrane contact site,cellular anatomical entity,2,7.531538316701187e-05
+GO:0070461,SAGA-type complex,protein-containing complex,2,7.531538316701187e-05
+GO:0043033,isoamylase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0070187,shelterin complex,protein-containing complex,2,7.531538316701187e-05
+GO:0031515,tRNA (m1A) methyltransferase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0043564,Ku70:Ku80 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0005642,annulate lamellae,"cellular anatomical entity,membrane",2,7.531538316701187e-05
+GO:0035839,non-growing cell tip,cellular anatomical entity,2,7.531538316701187e-05
+GO:0035840,old growing cell tip,cellular anatomical entity,2,7.531538316701187e-05
+GO:1990423,RZZ complex,protein-containing complex,2,7.531538316701187e-05
+GO:0005683,U7 snRNP,protein-containing complex,2,7.531538316701187e-05
+GO:0097433,dense body,cellular anatomical entity,2,7.531538316701187e-05
+GO:0005751,mitochondrial respiratory chain complex IV,protein-containing complex,2,7.531538316701187e-05
+GO:0033178,"proton-transporting two-sector ATPase complex, catalytic domain",protein-containing complex,2,7.531538316701187e-05
+GO:0098686,hippocampal mossy fiber to CA3 synapse,"cell junction,synapse,cellular anatomical entity",2,7.531538316701187e-05
+GO:0031045,dense core granule,"organelle,cellular anatomical entity",2,7.531538316701187e-05
+GO:0099523,presynaptic cytosol,cellular anatomical entity,2,7.531538316701187e-05
+GO:0097268,cytoophidium,cellular anatomical entity,2,7.531538316701187e-05
+GO:1990635,proximal dendrite,cellular anatomical entity,2,7.531538316701187e-05
+GO:0097361,CIA complex,protein-containing complex,2,7.531538316701187e-05
+GO:0005935,cellular bud neck,cellular anatomical entity,2,7.531538316701187e-05
+GO:0000935,division septum,cellular anatomical entity,2,7.531538316701187e-05
+GO:0060076,excitatory synapse,"cell junction,cellular anatomical entity,synapse",2,7.531538316701187e-05
+GO:0043529,GET complex,protein-containing complex,2,7.531538316701187e-05
+GO:0042720,mitochondrial inner membrane peptidase complex,protein-containing complex,2,7.531538316701187e-05
+GO:1990604,IRE1-TRAF2-ASK1 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0031417,NatC complex,protein-containing complex,2,7.531538316701187e-05
+GO:0000131,incipient cellular bud site,protein-containing complex,2,7.531538316701187e-05
+GO:0000780,"condensed chromosome, centromeric region",cellular anatomical entity,2,7.531538316701187e-05
+GO:0098687,chromosomal region,cellular anatomical entity,2,7.531538316701187e-05
+GO:0032133,chromosome passenger complex,protein-containing complex,2,7.531538316701187e-05
+GO:0005848,mRNA cleavage stimulating factor complex,protein-containing complex,2,7.531538316701187e-05
+GO:0010368,chloroplast isoamylase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0035580,specific granule lumen,"membrane-enclosed lumen,cellular anatomical entity",2,7.531538316701187e-05
+GO:0032777,Piccolo NuA4 histone acetyltransferase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0009516,leucoplast,"organelle,cellular anatomical entity",2,7.531538316701187e-05
+GO:0043601,nuclear replisome,protein-containing complex,2,7.531538316701187e-05
+GO:0030663,COPI-coated vesicle membrane,"membrane,cellular anatomical entity",2,7.531538316701187e-05
+GO:0071683,sensory dendrite,cellular anatomical entity,2,7.531538316701187e-05
+GO:0098839,postsynaptic density membrane,"membrane,cellular anatomical entity",2,7.531538316701187e-05
+GO:0045254,pyruvate dehydrogenase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0005950,anthranilate synthase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0033557,Slx1-Slx4 complex,protein-containing complex,2,7.531538316701187e-05
+GO:0031143,pseudopodium,cellular anatomical entity,2,7.531538316701187e-05
+GO:0005712,chiasma,cellular anatomical entity,2,7.531538316701187e-05
+GO:0000797,condensin complex,protein-containing complex,2,7.531538316701187e-05
+GO:0009515,granal stacked thylakoid,cellular anatomical entity,2,7.531538316701187e-05
+GO:0031416,NatB complex,protein-containing complex,2,7.531538316701187e-05
+GO:0042405,nuclear inclusion body,cellular anatomical entity,2,7.531538316701187e-05
+GO:0032389,MutLalpha complex,protein-containing complex,2,7.531538316701187e-05
+GO:0031391,Elg1 RFC-like complex,protein-containing complex,2,7.531538316701187e-05
+GO:0016581,NuRD complex,protein-containing complex,2,7.531538316701187e-05
+GO:0005953,CAAX-protein geranylgeranyltransferase complex,protein-containing complex,2,7.531538316701187e-05
+GO:0097196,Shu complex,protein-containing complex,1,3.765769158350593e-05
+GO:0035339,SPOTS complex,protein-containing complex,1,3.765769158350593e-05
+GO:0031422,RecQ family helicase-topoisomerase III complex,protein-containing complex,1,3.765769158350593e-05
+GO:0030057,desmosome,"cell junction,cellular anatomical entity",1,3.765769158350593e-05
+GO:0097447,dendritic tree,cellular anatomical entity,1,3.765769158350593e-05
+GO:0042764,ascospore-type prospore,cellular anatomical entity,1,3.765769158350593e-05
+GO:1904511,cytoplasmic microtubule plus-end,cellular anatomical entity,1,3.765769158350593e-05
+GO:0071957,old mitotic spindle pole body,cellular anatomical entity,1,3.765769158350593e-05
+GO:0061496,half bridge of mitotic spindle pole body,cellular anatomical entity,1,3.765769158350593e-05
+GO:0000113,nucleotide-excision repair factor 4 complex,protein-containing complex,1,3.765769158350593e-05
+GO:0061497,inner plaque of mitotic spindle pole body,cellular anatomical entity,1,3.765769158350593e-05
+GO:0099078,BORC complex,protein-containing complex,1,3.765769158350593e-05
+GO:0099070,static microtubule bundle,cellular anatomical entity,1,3.765769158350593e-05
+GO:0001772,immunological synapse,cellular anatomical entity,1,3.765769158350593e-05
+GO:0042582,azurophil granule,"cellular anatomical entity,organelle",1,3.765769158350593e-05
+GO:0001891,phagocytic cup,cellular anatomical entity,1,3.765769158350593e-05
+GO:0061836,intranuclear rod,"supramolecular complex,cellular anatomical entity",1,3.765769158350593e-05
+GO:0002189,ribose phosphate diphosphokinase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0071818,BAT3 complex,protein-containing complex,1,3.765769158350593e-05
+GO:0120103,centriolar subdistal appendage,protein-containing complex,1,3.765769158350593e-05
+GO:0031588,nucleotide-activated protein kinase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0032010,phagolysosome,"cellular anatomical entity,organelle",1,3.765769158350593e-05
+GO:1903600,glutaminase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0060187,cell pole,cellular anatomical entity,1,3.765769158350593e-05
+GO:0005958,DNA-dependent protein kinase-DNA ligase 4 complex,protein-containing complex,1,3.765769158350593e-05
+GO:1990070,TRAPPI protein complex,protein-containing complex,1,3.765769158350593e-05
+GO:0009279,cell outer membrane,"cellular anatomical entity,membrane",1,3.765769158350593e-05
+GO:0010009,cytoplasmic side of endosome membrane,cellular anatomical entity,1,3.765769158350593e-05
+GO:0034708,methyltransferase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0097524,sperm plasma membrane,"cellular anatomical entity,membrane",1,3.765769158350593e-05
+GO:0000276,"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)",protein-containing complex,1,3.765769158350593e-05
+GO:0043540,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex",protein-containing complex,1,3.765769158350593e-05
+GO:0000818,nuclear MIS12/MIND complex,protein-containing complex,1,3.765769158350593e-05
+GO:0005934,cellular bud tip,cellular anatomical entity,1,3.765769158350593e-05
+GO:0031500,Tea1 cell-end complex,protein-containing complex,1,3.765769158350593e-05
+GO:0032009,early phagosome,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0001931,uropod,cellular anatomical entity,1,3.765769158350593e-05
+GO:0000940,condensed chromosome outer kinetochore,protein-containing complex,1,3.765769158350593e-05
+GO:0071682,endocytic vesicle lumen,"membrane-enclosed lumen,cellular anatomical entity",1,3.765769158350593e-05
+GO:0043674,columella,cellular anatomical entity,1,3.765769158350593e-05
+GO:0008043,intracellular ferritin complex,protein-containing complex,1,3.765769158350593e-05
+GO:0019185,snRNA-activating protein complex,protein-containing complex,1,3.765769158350593e-05
+GO:0042719,mitochondrial intermembrane space protein transporter complex,protein-containing complex,1,3.765769158350593e-05
+GO:0097441,basal dendrite,cellular anatomical entity,1,3.765769158350593e-05
+GO:1902377,rDNA heterochromatin,"cellular anatomical entity,chromatin",1,3.765769158350593e-05
+GO:0097512,cardiac myofibril,"organelle,supramolecular complex,cellular anatomical entity",1,3.765769158350593e-05
+GO:0044754,autolysosome,"cellular anatomical entity,organelle",1,3.765769158350593e-05
+GO:0005589,collagen type VI trimer,protein-containing complex,1,3.765769158350593e-05
+GO:0045095,keratin filament,"supramolecular complex,cellular anatomical entity",1,3.765769158350593e-05
+GO:0005724,obsolete nuclear telomeric heterochromatin,none,1,3.765769158350593e-05
+GO:0043245,extraorganismal space,cellular anatomical entity,1,3.765769158350593e-05
+GO:0000262,mitochondrial chromosome,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0033391,chromatoid body,"supramolecular complex,organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0031258,lamellipodium membrane,"membrane,cellular anatomical entity",1,3.765769158350593e-05
+GO:0000235,astral microtubule,"supramolecular complex,cellular anatomical entity",1,3.765769158350593e-05
+GO:0005859,muscle myosin complex,protein-containing complex,1,3.765769158350593e-05
+GO:0031205,endoplasmic reticulum Sec complex,protein-containing complex,1,3.765769158350593e-05
+GO:0031904,endosome lumen,"membrane-enclosed lumen,cellular anatomical entity",1,3.765769158350593e-05
+GO:0097487,"multivesicular body, internal vesicle","organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0031088,platelet dense granule membrane,"membrane,cellular anatomical entity",1,3.765769158350593e-05
+GO:0097060,synaptic membrane,"cellular anatomical entity,membrane",1,3.765769158350593e-05
+GO:0042612,MHC class I protein complex,protein-containing complex,1,3.765769158350593e-05
+GO:0035686,sperm fibrous sheath,cellular anatomical entity,1,3.765769158350593e-05
+GO:0030992,intraciliary transport particle B,protein-containing complex,1,3.765769158350593e-05
+GO:0042587,glycogen granule,cellular anatomical entity,1,3.765769158350593e-05
+GO:0110085,mitotic actomyosin contractile ring,cellular anatomical entity,1,3.765769158350593e-05
+GO:0098654,CENP-A recruiting complex,protein-containing complex,1,3.765769158350593e-05
+GO:0044185,host cell late endosome membrane,cellular anatomical entity,1,3.765769158350593e-05
+GO:0030095,chloroplast photosystem II,protein-containing complex,1,3.765769158350593e-05
+GO:0019028,viral capsid,none,1,3.765769158350593e-05
+GO:0039617,T=3 icosahedral viral capsid,none,1,3.765769158350593e-05
+GO:0097542,ciliary tip,cellular anatomical entity,1,3.765769158350593e-05
+GO:0032045,guanyl-nucleotide exchange factor complex,protein-containing complex,1,3.765769158350593e-05
+GO:0031362,anchored component of external side of plasma membrane,cellular anatomical entity,1,3.765769158350593e-05
+GO:0030485,smooth muscle contractile fiber,"supramolecular complex,organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0046581,intercellular canaliculus,"cell junction,cellular anatomical entity",1,3.765769158350593e-05
+GO:0005921,gap junction,"cell junction,cellular anatomical entity",1,3.765769158350593e-05
+GO:1990913,sperm head plasma membrane,"cellular anatomical entity,membrane",1,3.765769158350593e-05
+GO:0044294,dendritic growth cone,cellular anatomical entity,1,3.765769158350593e-05
+GO:1990565,HSP90-CDC37 chaperone complex,protein-containing complex,1,3.765769158350593e-05
+GO:1990917,ooplasm,"cellular anatomical entity,cytoplasm",1,3.765769158350593e-05
+GO:0032839,dendrite cytoplasm,"cytoplasm,cellular anatomical entity",1,3.765769158350593e-05
+GO:0020003,symbiont-containing vacuole,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0099061,integral component of postsynaptic density membrane,cellular anatomical entity,1,3.765769158350593e-05
+GO:0005640,nuclear outer membrane,"membrane,cellular anatomical entity",1,3.765769158350593e-05
+GO:0098871,postsynaptic actin cytoskeleton,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0042642,"actomyosin, myosin complex part",protein-containing complex,1,3.765769158350593e-05
+GO:0032426,stereocilium tip,cellular anatomical entity,1,3.765769158350593e-05
+GO:0032420,stereocilium,cellular anatomical entity,1,3.765769158350593e-05
+GO:0009530,primary cell wall,cellular anatomical entity,1,3.765769158350593e-05
+GO:1990124,messenger ribonucleoprotein complex,protein-containing complex,1,3.765769158350593e-05
+GO:0005892,acetylcholine-gated channel complex,protein-containing complex,1,3.765769158350593e-05
+GO:0045120,pronucleus,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0044220,host cell perinuclear region of cytoplasm,cellular anatomical entity,1,3.765769158350593e-05
+GO:0033644,host cell membrane,cellular anatomical entity,1,3.765769158350593e-05
+GO:0044665,MLL1/2 complex,protein-containing complex,1,3.765769158350593e-05
+GO:0005704,polytene chromosome band,cellular anatomical entity,1,3.765769158350593e-05
+GO:0098888,extrinsic component of presynaptic membrane,cellular anatomical entity,1,3.765769158350593e-05
+GO:0048788,cytoskeleton of presynaptic active zone,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0072534,perineuronal net,cellular anatomical entity,1,3.765769158350593e-05
+GO:0090443,FAR/SIN/STRIPAK complex,protein-containing complex,1,3.765769158350593e-05
+GO:0097486,multivesicular body lumen,"membrane-enclosed lumen,cellular anatomical entity",1,3.765769158350593e-05
+GO:0042584,chromaffin granule membrane,"membrane,cellular anatomical entity",1,3.765769158350593e-05
+GO:0042581,specific granule,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0098674,extrinsic component of neuronal dense core vesicle membrane,cellular anatomical entity,1,3.765769158350593e-05
+GO:0030446,hyphal cell wall,cellular anatomical entity,1,3.765769158350593e-05
+GO:0030445,yeast-form cell wall,cellular anatomical entity,1,3.765769158350593e-05
+GO:0043679,axon terminus,cellular anatomical entity,1,3.765769158350593e-05
+GO:0097631,integral component of omegasome membrane,cellular anatomical entity,1,3.765769158350593e-05
+GO:0031224,intrinsic component of membrane,cellular anatomical entity,1,3.765769158350593e-05
+GO:1901588,dendritic microtubule,"supramolecular complex,cellular anatomical entity",1,3.765769158350593e-05
+GO:0035060,brahma complex,protein-containing complex,1,3.765769158350593e-05
+GO:0036266,Cdc48p-Npl4p-Vms1p AAA ATPase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0002144,cytosolic tRNA wobble base thiouridylase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0042575,DNA polymerase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0061673,mitotic spindle astral microtubule,"supramolecular complex,cellular anatomical entity",1,3.765769158350593e-05
+GO:0150001,primary dendrite,cellular anatomical entity,1,3.765769158350593e-05
+GO:0070274,RES complex,protein-containing complex,1,3.765769158350593e-05
+GO:0009782,photosystem I antenna complex,protein-containing complex,1,3.765769158350593e-05
+GO:0044307,dendritic branch,cellular anatomical entity,1,3.765769158350593e-05
+GO:0033203,DNA helicase A complex,protein-containing complex,1,3.765769158350593e-05
+GO:0070013,intracellular organelle lumen,"membrane-enclosed lumen,cellular anatomical entity",1,3.765769158350593e-05
+GO:0097197,tetraspanin-enriched microdomain,cellular anatomical entity,1,3.765769158350593e-05
+GO:0043227,membrane-bounded organelle,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0034998,oligosaccharyltransferase I complex,protein-containing complex,1,3.765769158350593e-05
+GO:0071564,npBAF complex,protein-containing complex,1,3.765769158350593e-05
+GO:1902554,serine/threonine protein kinase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0005668,RNA polymerase transcription factor SL1 complex,protein-containing complex,1,3.765769158350593e-05
+GO:0070860,RNA polymerase I core factor complex,protein-containing complex,1,3.765769158350593e-05
+GO:0071958,new mitotic spindle pole body,cellular anatomical entity,1,3.765769158350593e-05
+GO:0044599,AP-5 adaptor complex,protein-containing complex,1,3.765769158350593e-05
+GO:0071204,histone pre-mRNA 3'end processing complex,protein-containing complex,1,3.765769158350593e-05
+GO:0070937,CRD-mediated mRNA stability complex,protein-containing complex,1,3.765769158350593e-05
+GO:0017177,glucosidase II complex,protein-containing complex,1,3.765769158350593e-05
+GO:0061908,phagophore,cellular anatomical entity,1,3.765769158350593e-05
+GO:0009349,riboflavin synthase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0071627,integral component of fungal-type vacuolar membrane,cellular anatomical entity,1,3.765769158350593e-05
+GO:0010282,senescence-associated vacuole,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0071021,U2-type post-spliceosomal complex,protein-containing complex,1,3.765769158350593e-05
+GO:0000346,transcription export complex,protein-containing complex,1,3.765769158350593e-05
+GO:1990923,PET complex,protein-containing complex,1,3.765769158350593e-05
+GO:0001652,granular component,cellular anatomical entity,1,3.765769158350593e-05
+GO:0005785,signal recognition particle receptor complex,protein-containing complex,1,3.765769158350593e-05
+GO:1990529,glycosylphosphatidylinositol-mannosyltransferase I complex,protein-containing complex,1,3.765769158350593e-05
+GO:0010006,Toc complex,protein-containing complex,1,3.765769158350593e-05
+GO:0097442,CA3 pyramidal cell dendrite,cellular anatomical entity,1,3.765769158350593e-05
+GO:0033100,NuA3 histone acetyltransferase complex,protein-containing complex,1,3.765769158350593e-05
+GO:1990467,NuA3a histone acetyltransferase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0005933,cellular bud,cellular anatomical entity,1,3.765769158350593e-05
+GO:0098831,presynaptic active zone cytoplasmic component,"cytoplasm,cellular anatomical entity",1,3.765769158350593e-05
+GO:0098826,endoplasmic reticulum tubular network membrane,"cellular anatomical entity,membrane",1,3.765769158350593e-05
+GO:0097014,ciliary plasm,"cytoplasm,cellular anatomical entity",1,3.765769158350593e-05
+GO:0034704,calcium channel complex,protein-containing complex,1,3.765769158350593e-05
+GO:0043541,UDP-N-acetylglucosamine transferase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0070418,DNA-dependent protein kinase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0000312,plastid small ribosomal subunit,protein-containing complex,1,3.765769158350593e-05
+GO:0044568,secondary cell wall cellulose synthase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0042564,NLS-dependent protein nuclear import complex,protein-containing complex,1,3.765769158350593e-05
+GO:0000274,"mitochondrial proton-transporting ATP synthase, stator stalk",protein-containing complex,1,3.765769158350593e-05
+GO:1990026,hippocampal mossy fiber expansion,cellular anatomical entity,1,3.765769158350593e-05
+GO:0034364,high-density lipoprotein particle,protein-containing complex,1,3.765769158350593e-05
+GO:0031379,RNA-directed RNA polymerase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0031501,mannosyltransferase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0022623,proteasome-activating nucleotidase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0044165,host cell endoplasmic reticulum,cellular anatomical entity,1,3.765769158350593e-05
+GO:0020011,apicoplast,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0070522,ERCC4-ERCC1 complex,protein-containing complex,1,3.765769158350593e-05
+GO:0042735,protein body,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:1905202,methylcrotonoyl-CoA carboxylase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0010169,thioglucosidase complex,protein-containing complex,1,3.765769158350593e-05
+GO:1990861,Ubp3-Bre5 deubiquitination complex,protein-containing complex,1,3.765769158350593e-05
+GO:0044853,plasma membrane raft,"membrane,cellular anatomical entity",1,3.765769158350593e-05
+GO:0071598,neuronal ribonucleoprotein granule,"supramolecular complex,organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0031004,potassium ion-transporting ATPase complex,protein-containing complex,1,3.765769158350593e-05
+GO:1990572,TERT-RMRP complex,protein-containing complex,1,3.765769158350593e-05
+GO:0031511,Mis6-Sim4 complex,protein-containing complex,1,3.765769158350593e-05
+GO:0001411,hyphal tip,cellular anatomical entity,1,3.765769158350593e-05
+GO:0035841,new growing cell tip,cellular anatomical entity,1,3.765769158350593e-05
+GO:0071797,LUBAC complex,protein-containing complex,1,3.765769158350593e-05
+GO:0022624,proteasome accessory complex,protein-containing complex,1,3.765769158350593e-05
+GO:0001520,outer dense fiber,"supramolecular complex,cellular anatomical entity",1,3.765769158350593e-05
+GO:0034274,Atg12-Atg5-Atg16 complex,protein-containing complex,1,3.765769158350593e-05
+GO:1902912,pyruvate kinase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0009537,proplastid,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0035657,eRF1 methyltransferase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0031475,myosin V complex,protein-containing complex,1,3.765769158350593e-05
+GO:0097356,perinucleolar compartment,cellular anatomical entity,1,3.765769158350593e-05
+GO:0061851,leading edge of lamellipodium,cellular anatomical entity,1,3.765769158350593e-05
+GO:0009842,cyanelle,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0030877,beta-catenin destruction complex,protein-containing complex,1,3.765769158350593e-05
+GO:0031253,cell projection membrane,"cellular anatomical entity,membrane",1,3.765769158350593e-05
+GO:0097450,astrocyte end-foot,cellular anatomical entity,1,3.765769158350593e-05
+GO:0005641,nuclear envelope lumen,"membrane-enclosed lumen,cellular anatomical entity",1,3.765769158350593e-05
+GO:0099572,postsynaptic specialization,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0090577,RNA polymerase IV transcription regulator complex,protein-containing complex,1,3.765769158350593e-05
+GO:0005690,U4atac snRNP,protein-containing complex,1,3.765769158350593e-05
+GO:0019029,helical viral capsid,none,1,3.765769158350593e-05
+GO:0046862,chromoplast membrane,"membrane,cellular anatomical entity",1,3.765769158350593e-05
+GO:0042585,germinal vesicle,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:1990468,NuA3b histone acetyltransferase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0043599,nuclear DNA replication factor C complex,protein-containing complex,1,3.765769158350593e-05
+GO:0045239,tricarboxylic acid cycle enzyme complex,protein-containing complex,1,3.765769158350593e-05
+GO:0031431,Dbf4-dependent protein kinase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0005838,proteasome regulatory particle,protein-containing complex,1,3.765769158350593e-05
+GO:0120205,photoreceptor proximal connecting cilium,cellular anatomical entity,1,3.765769158350593e-05
+GO:0120200,rod photoreceptor outer segment,cellular anatomical entity,1,3.765769158350593e-05
+GO:0120206,photoreceptor distal connecting cilium,cellular anatomical entity,1,3.765769158350593e-05
+GO:0035869,ciliary transition zone,cellular anatomical entity,1,3.765769158350593e-05
+GO:0036038,MKS complex,protein-containing complex,1,3.765769158350593e-05
+GO:0005955,calcineurin complex,protein-containing complex,1,3.765769158350593e-05
+GO:0005674,transcription factor TFIIF complex,protein-containing complex,1,3.765769158350593e-05
+GO:0042709,succinate-CoA ligase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0005948,acetolactate synthase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0031089,platelet dense granule lumen,"membrane-enclosed lumen,cellular anatomical entity",1,3.765769158350593e-05
+GO:0035253,ciliary rootlet,cellular anatomical entity,1,3.765769158350593e-05
+GO:0097203,phagocytic cup lip,cellular anatomical entity,1,3.765769158350593e-05
+GO:0036391,medial cortex septin ring,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0045160,myosin I complex,protein-containing complex,1,3.765769158350593e-05
+GO:0044291,cell-cell contact zone,"cell junction,cellular anatomical entity",1,3.765769158350593e-05
+GO:0098858,actin-based cell projection,cellular anatomical entity,1,3.765769158350593e-05
+GO:0070685,macropinocytic cup,cellular anatomical entity,1,3.765769158350593e-05
+GO:0045277,respiratory chain complex IV,protein-containing complex,1,3.765769158350593e-05
+GO:0044322,endoplasmic reticulum quality control compartment,cellular anatomical entity,1,3.765769158350593e-05
+GO:0043590,bacterial nucleoid,"nucleoid,organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0030931,heterotetrameric ADPG pyrophosphorylase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0033256,I-kappaB/NF-kappaB complex,protein-containing complex,1,3.765769158350593e-05
+GO:0097730,non-motile cilium,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0019822,P4 peroxisome,"organelle,cellular anatomical entity",1,3.765769158350593e-05
+GO:0032311,angiogenin-PRI complex,protein-containing complex,1,3.765769158350593e-05
+GO:0090730,Las1 complex,protein-containing complex,1,3.765769158350593e-05
+GO:0048269,methionine adenosyltransferase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0009923,fatty acid elongase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0031467,Cul7-RING ubiquitin ligase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0043036,starch grain,cellular anatomical entity,1,3.765769158350593e-05
+GO:0009326,formate dehydrogenase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0080085,"signal recognition particle, chloroplast targeting",protein-containing complex,1,3.765769158350593e-05
+GO:0045275,respiratory chain complex III,protein-containing complex,1,3.765769158350593e-05
+GO:0031462,Cul2-RING ubiquitin ligase complex,protein-containing complex,1,3.765769158350593e-05
+GO:0030867,rough endoplasmic reticulum membrane,"membrane,cellular anatomical entity",1,3.765769158350593e-05
+GO:0001651,dense fibrillar component,cellular anatomical entity,1,3.765769158350593e-05
+GO:0098892,extrinsic component of postsynaptic specialization membrane,cellular anatomical entity,1,3.765769158350593e-05
+GO:0030677,ribonuclease P complex,protein-containing complex,1,3.765769158350593e-05
+GO:0030056,hemidesmosome,"cell junction,cellular anatomical entity",1,3.765769158350593e-05
+GO:0036021,endolysosome lumen,"membrane-enclosed lumen,cellular anatomical entity",1,3.765769158350593e-05
+GO:0019866,organelle inner membrane,"cellular anatomical entity,membrane",1,3.765769158350593e-05
+GO:0009503,thylakoid light-harvesting complex,protein-containing complex,1,3.765769158350593e-05
