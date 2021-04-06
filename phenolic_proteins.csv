@@ -1,0 +1,1635 @@
+Taxon,Protein ID,Search Term,Phenolic Protein
+affinis-GVCB,TRINITY_DN197_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+affinis-GVCB,TRINITY_DN468_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+affinis-GVCB,TRINITY_DN468_c0_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+affinis-GVCB,TRINITY_DN510_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+affinis-GVCB,TRINITY_DN510_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+affinis-GVCB,TRINITY_DN510_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+affinis-GVCB,TRINITY_DN510_c1_g1_i10.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+affinis-GVCB,TRINITY_DN510_c1_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+affinis-GVCB,TRINITY_DN510_c1_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+affinis-GVCB,TRINITY_DN510_c1_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+affinis-GVCB,TRINITY_DN821_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+affinis-GVCB,TRINITY_DN821_c0_g2_i5.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+affinis-GVCB,TRINITY_DN821_c0_g2_i8.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+affinis-GVCB,TRINITY_DN821_c0_g2_i4.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+affinis-GVCB,TRINITY_DN821_c0_g2_i4.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+affinis-GVCB,TRINITY_DN821_c0_g2_i7.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+affinis-GVCB,TRINITY_DN821_c0_g2_i7.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+affinis-GVCB,TRINITY_DN1331_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+affinis-GVCB,TRINITY_DN1331_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+affinis-GVCB,TRINITY_DN1331_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+affinis-GVCB,TRINITY_DN1578_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+affinis-GVCB,TRINITY_DN2021_c0_g1_i4.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+affinis-GVCB,TRINITY_DN2021_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+affinis-GVCB,TRINITY_DN2021_c0_g2_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+affinis-GVCB,TRINITY_DN2352_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+affinis-GVCB,TRINITY_DN2799_c0_g1_i3.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+affinis-GVCB,TRINITY_DN2799_c0_g1_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+affinis-GVCB,TRINITY_DN3299_c0_g1_i3.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+affinis-GVCB,TRINITY_DN3299_c0_g1_i5.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+affinis-GVCB,TRINITY_DN3299_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+affinis-GVCB,TRINITY_DN4028_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+affinis-GVCB,TRINITY_DN4028_c1_g2_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+affinis-GVCB,TRINITY_DN4028_c1_g2_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+affinis-GVCB,TRINITY_DN4448_c0_g2_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+affinis-GVCB,TRINITY_DN7587_c0_g2_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+affinis-GVCB,TRINITY_DN8703_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+affinis-GVCB,TRINITY_DN8703_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 1
+affinis-GVCB,TRINITY_DN8703_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+affinis-GVCB,TRINITY_DN9977_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+affinis-GVCB,TRINITY_DN9977_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+affinis-GVCB,TRINITY_DN11818_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+affinis-GVCB,TRINITY_DN11891_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+affinis-GVCB,TRINITY_DN11891_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+affinis-GVCB,TRINITY_DN13086_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+affinis-GVCB,TRINITY_DN15647_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+affinis-GVCB,TRINITY_DN15647_c0_g2_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+affinis-GVCB,TRINITY_DN19973_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase
+affinis-GVCB,TRINITY_DN20775_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+affinis-GVCB,TRINITY_DN21482_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+affinis-GVCB,TRINITY_DN21837_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+affinis-GVCB,TRINITY_DN26066_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+affinis-GVCB,TRINITY_DN28504_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+argillicola-OEAR,TRINITY_DN245_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+argillicola-OEAR,TRINITY_DN245_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+argillicola-OEAR,TRINITY_DN245_c0_g1_i5.p1,Chalcone synthase,Chalcone synthase 2
+argillicola-OEAR,TRINITY_DN253_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase
+argillicola-OEAR,TRINITY_DN2129_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+argillicola-OEAR,TRINITY_DN2129_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+argillicola-OEAR,TRINITY_DN2208_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+argillicola-OEAR,TRINITY_DN2208_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+argillicola-OEAR,TRINITY_DN2208_c1_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+argillicola-OEAR,TRINITY_DN2208_c1_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+argillicola-OEAR,TRINITY_DN2588_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+argillicola-OEAR,TRINITY_DN2965_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+argillicola-OEAR,TRINITY_DN2965_c0_g1_i4.p2,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+argillicola-OEAR,TRINITY_DN2965_c0_g1_i4.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+argillicola-OEAR,TRINITY_DN3207_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+argillicola-OEAR,TRINITY_DN3207_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+argillicola-OEAR,TRINITY_DN4030_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+argillicola-OEAR,TRINITY_DN4011_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+argillicola-OEAR,TRINITY_DN4883_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+argillicola-OEAR,TRINITY_DN5469_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+argillicola-OEAR,TRINITY_DN5469_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+argillicola-OEAR,TRINITY_DN7762_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+argillicola-OEAR,TRINITY_DN14167_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+argillicola-OEAR,TRINITY_DN14559_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+argillicola-OEAR,TRINITY_DN16485_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+argillicola-OEAR,TRINITY_DN16740_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+argillicola-OEAR,TRINITY_DN20458_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+argillicola-OEAR,TRINITY_DN20458_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+argillicola-OEAR,TRINITY_DN20760_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+argillicola-OEAR,TRINITY_DN22324_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+argillicola-OEAR,TRINITY_DN26050_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+argillicola-OEAR,TRINITY_DN31211_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+argillicola-OEAR,TRINITY_DN31886_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+argillicola-OEAR,TRINITY_DN37922_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+argillicola-OEAR,TRINITY_DN45352_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+argillicola-OEAR,TRINITY_DN47455_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+argillicola-OEAR,TRINITY_DN47469_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+argillicola-OEAR,TRINITY_DN48939_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+argillicola-OEAR,TRINITY_DN52911_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+berlandieri-EQYT,TRINITY_DN261_c0_g1_i7.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+berlandieri-EQYT,TRINITY_DN261_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 3
+berlandieri-EQYT,TRINITY_DN261_c0_g1_i5.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+berlandieri-EQYT,TRINITY_DN261_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+berlandieri-EQYT,TRINITY_DN261_c0_g1_i4.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+berlandieri-EQYT,TRINITY_DN388_c0_g1_i2.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+berlandieri-EQYT,TRINITY_DN388_c0_g1_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+berlandieri-EQYT,TRINITY_DN388_c0_g1_i4.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+berlandieri-EQYT,TRINITY_DN388_c0_g1_i4.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+berlandieri-EQYT,TRINITY_DN388_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+berlandieri-EQYT,TRINITY_DN388_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+berlandieri-EQYT,TRINITY_DN467_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+berlandieri-EQYT,TRINITY_DN467_c0_g2_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+berlandieri-EQYT,TRINITY_DN890_c0_g1_i6.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+berlandieri-EQYT,TRINITY_DN890_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN890_c0_g1_i3.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+berlandieri-EQYT,TRINITY_DN890_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN1040_c0_g1_i11.p1,Chalcone synthase,Chalcone synthase 2
+berlandieri-EQYT,TRINITY_DN1040_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+berlandieri-EQYT,TRINITY_DN1040_c0_g1_i13.p1,Chalcone synthase,Chalcone synthase 2
+berlandieri-EQYT,TRINITY_DN1040_c0_g1_i9.p1,Chalcone synthase,Chalcone synthase 2
+berlandieri-EQYT,TRINITY_DN1040_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+berlandieri-EQYT,TRINITY_DN1040_c0_g1_i7.p1,Chalcone synthase,Chalcone synthase 2
+berlandieri-EQYT,TRINITY_DN1040_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+berlandieri-EQYT,TRINITY_DN1097_c0_g1_i3.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+berlandieri-EQYT,TRINITY_DN1097_c0_g1_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+berlandieri-EQYT,TRINITY_DN1097_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+berlandieri-EQYT,TRINITY_DN3057_c0_g1_i3.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+berlandieri-EQYT,TRINITY_DN3057_c0_g1_i2.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+berlandieri-EQYT,TRINITY_DN3057_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+berlandieri-EQYT,TRINITY_DN3195_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 1
+berlandieri-EQYT,TRINITY_DN3195_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+berlandieri-EQYT,TRINITY_DN3195_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 1
+berlandieri-EQYT,TRINITY_DN3195_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+berlandieri-EQYT,TRINITY_DN3522_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+berlandieri-EQYT,TRINITY_DN3522_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN3522_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN3522_c0_g1_i11.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN3522_c0_g1_i11.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN3522_c0_g1_i10.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN3522_c0_g1_i10.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN3522_c0_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN3522_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN3522_c0_g1_i4.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN3522_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+berlandieri-EQYT,TRINITY_DN3522_c0_g2_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+berlandieri-EQYT,TRINITY_DN3653_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+berlandieri-EQYT,TRINITY_DN3653_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+berlandieri-EQYT,TRINITY_DN3955_c0_g2_i5.p1,Chalcone synthase,Chalcone synthase 2
+berlandieri-EQYT,TRINITY_DN3955_c0_g2_i1.p1,Chalcone synthase,Chalcone synthase 1
+berlandieri-EQYT,TRINITY_DN3955_c0_g2_i2.p1,Chalcone synthase,Chalcone synthase 2
+berlandieri-EQYT,TRINITY_DN3955_c0_g2_i3.p1,Chalcone synthase,Chalcone synthase 3
+berlandieri-EQYT,TRINITY_DN3955_c1_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+berlandieri-EQYT,TRINITY_DN5088_c0_g1_i5.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+berlandieri-EQYT,TRINITY_DN5088_c0_g1_i4.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+berlandieri-EQYT,TRINITY_DN5088_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+berlandieri-EQYT,TRINITY_DN5088_c0_g1_i2.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+berlandieri-EQYT,TRINITY_DN5088_c0_g1_i6.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+berlandieri-EQYT,TRINITY_DN5213_c0_g1_i7.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+berlandieri-EQYT,TRINITY_DN5213_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+berlandieri-EQYT,TRINITY_DN5213_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+berlandieri-EQYT,TRINITY_DN5213_c0_g1_i8.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+berlandieri-EQYT,TRINITY_DN5213_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+berlandieri-EQYT,TRINITY_DN5947_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 4
+berlandieri-EQYT,TRINITY_DN5947_c0_g1_i15.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 4
+berlandieri-EQYT,TRINITY_DN6868_c0_g1_i2.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN6868_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN6868_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN6868_c0_g1_i3.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN6868_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN6868_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN6868_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN6975_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+berlandieri-EQYT,TRINITY_DN6975_c0_g2_i2.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+berlandieri-EQYT,TRINITY_DN7423_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+berlandieri-EQYT,TRINITY_DN7433_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+berlandieri-EQYT,TRINITY_DN9663_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN9663_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN10190_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+berlandieri-EQYT,TRINITY_DN10190_c0_g2_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+berlandieri-EQYT,TRINITY_DN10223_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase
+berlandieri-EQYT,TRINITY_DN10521_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN10521_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN10900_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+berlandieri-EQYT,TRINITY_DN10900_c0_g3_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+berlandieri-EQYT,TRINITY_DN11456_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+berlandieri-EQYT,TRINITY_DN12579_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+berlandieri-EQYT,TRINITY_DN12616_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+berlandieri-EQYT,TRINITY_DN12616_c0_g2_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+berlandieri-EQYT,TRINITY_DN12616_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+berlandieri-EQYT,TRINITY_DN12616_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+berlandieri-EQYT,TRINITY_DN13660_c0_g2_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+berlandieri-EQYT,TRINITY_DN13836_c0_g2_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+berlandieri-EQYT,TRINITY_DN13836_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+berlandieri-EQYT,TRINITY_DN19143_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+berlandieri-EQYT,TRINITY_DN22871_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+berlandieri-EQYT,TRINITY_DN23930_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+berlandieri-EQYT,TRINITY_DN25496_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+berlandieri-EQYT,TRINITY_DN28434_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+berlandieri-EQYT,TRINITY_DN28434_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+biennis-EXGW,TRINITY_DN576_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+biennis-EXGW,TRINITY_DN754_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+biennis-EXGW,TRINITY_DN754_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+biennis-EXGW,TRINITY_DN1661_c0_g1_i4.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+biennis-EXGW,TRINITY_DN1661_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+biennis-EXGW,TRINITY_DN1661_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+biennis-EXGW,TRINITY_DN1661_c0_g2_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+biennis-EXGW,TRINITY_DN1618_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+biennis-EXGW,TRINITY_DN1908_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+biennis-EXGW,TRINITY_DN2907_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+biennis-EXGW,TRINITY_DN2907_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+biennis-EXGW,TRINITY_DN2907_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+biennis-EXGW,TRINITY_DN2907_c0_g1_i3.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+biennis-EXGW,TRINITY_DN2907_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+biennis-EXGW,TRINITY_DN2907_c0_g1_i6.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+biennis-EXGW,TRINITY_DN3123_c0_g2_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+biennis-EXGW,TRINITY_DN3970_c1_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+biennis-EXGW,TRINITY_DN4229_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+biennis-EXGW,TRINITY_DN4229_c0_g1_i5.p1,Chalcone synthase,Chalcone synthase 1
+biennis-EXGW,TRINITY_DN4229_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+biennis-EXGW,TRINITY_DN4229_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+biennis-EXGW,TRINITY_DN4229_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+biennis-EXGW,TRINITY_DN4286_c1_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+biennis-EXGW,TRINITY_DN4286_c1_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+biennis-EXGW,TRINITY_DN4286_c1_g1_i13.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+biennis-EXGW,TRINITY_DN4286_c1_g1_i8.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+biennis-EXGW,TRINITY_DN4286_c1_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+biennis-EXGW,TRINITY_DN4286_c1_g1_i14.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+biennis-EXGW,TRINITY_DN4572_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+biennis-EXGW,TRINITY_DN4572_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+biennis-EXGW,TRINITY_DN4929_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+biennis-EXGW,TRINITY_DN4990_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+biennis-EXGW,TRINITY_DN4990_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 3
+biennis-EXGW,TRINITY_DN4990_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+biennis-EXGW,TRINITY_DN5385_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+biennis-EXGW,TRINITY_DN5385_c0_g1_i3.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+biennis-EXGW,TRINITY_DN5425_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+biennis-EXGW,TRINITY_DN6284_c0_g1_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+biennis-EXGW,TRINITY_DN6284_c0_g1_i3.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+biennis-EXGW,TRINITY_DN7199_c0_g1_i2.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+biennis-EXGW,TRINITY_DN7199_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+biennis-EXGW,TRINITY_DN7329_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+biennis-EXGW,TRINITY_DN7838_c0_g2_i1.p1,4-coumarate--CoA ligase,Probable 4-coumarate--CoA ligase 2
+biennis-EXGW,TRINITY_DN7838_c0_g3_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+biennis-EXGW,TRINITY_DN8615_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+biennis-EXGW,TRINITY_DN9397_c0_g2_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+biennis-EXGW,TRINITY_DN9397_c0_g2_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+biennis-EXGW,TRINITY_DN9931_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+biennis-EXGW,TRINITY_DN9931_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+biennis-EXGW,TRINITY_DN10722_c0_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+biennis-EXGW,TRINITY_DN10722_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+biennis-EXGW,TRINITY_DN10722_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+biennis-EXGW,TRINITY_DN10722_c0_g1_i4.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+biennis-EXGW,TRINITY_DN10722_c0_g1_i2.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+biennis-EXGW,TRINITY_DN14818_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+biennis-EXGW,TRINITY_DN17657_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+biennis-EXGW,TRINITY_DN21375_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+biennis-EXGW,TRINITY_DN24551_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+biennis-EXGW,TRINITY_DN31345_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+clelandii-KBRW,TRINITY_DN187_c0_g4_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+clelandii-KBRW,TRINITY_DN575_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+clelandii-KBRW,TRINITY_DN575_c1_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+clelandii-KBRW,TRINITY_DN795_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+clelandii-KBRW,TRINITY_DN795_c0_g3_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+clelandii-KBRW,TRINITY_DN795_c0_g3_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+clelandii-KBRW,TRINITY_DN1243_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+clelandii-KBRW,TRINITY_DN1744_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+clelandii-KBRW,TRINITY_DN1744_c0_g2_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+clelandii-KBRW,TRINITY_DN1744_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase class 2
+clelandii-KBRW,TRINITY_DN1744_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+clelandii-KBRW,TRINITY_DN1744_c0_g4_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+clelandii-KBRW,TRINITY_DN1963_c0_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+clelandii-KBRW,TRINITY_DN1963_c0_g2_i3.p2,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+clelandii-KBRW,TRINITY_DN1963_c0_g2_i8.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+clelandii-KBRW,TRINITY_DN2310_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+clelandii-KBRW,TRINITY_DN2499_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+clelandii-KBRW,TRINITY_DN3773_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+clelandii-KBRW,TRINITY_DN4671_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+clelandii-KBRW,TRINITY_DN4671_c0_g2_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+clelandii-KBRW,TRINITY_DN4671_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+clelandii-KBRW,TRINITY_DN4671_c0_g2_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+clelandii-KBRW,TRINITY_DN5251_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+clelandii-KBRW,TRINITY_DN5712_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+clelandii-KBRW,TRINITY_DN5921_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+clelandii-KBRW,TRINITY_DN7030_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+clelandii-KBRW,TRINITY_DN7030_c0_g1_i3.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+clelandii-KBRW,TRINITY_DN7273_c0_g1_i1.p1,4-coumarate--CoA ligase,Probable 4-coumarate--CoA ligase 2
+clelandii-KBRW,TRINITY_DN7273_c0_g2_i1.p1,4-coumarate--CoA ligase,Probable 4-coumarate--CoA ligase 2
+clelandii-KBRW,TRINITY_DN7570_c0_g1_i2.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+clelandii-KBRW,TRINITY_DN8002_c0_g2_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase
+clelandii-KBRW,TRINITY_DN8314_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+clelandii-KBRW,TRINITY_DN8314_c0_g2_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+clelandii-KBRW,TRINITY_DN9772_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+clelandii-KBRW,TRINITY_DN12368_c0_g1_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+clelandii-KBRW,TRINITY_DN14521_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+clelandii-KBRW,TRINITY_DN14521_c0_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+clelandii-KBRW,TRINITY_DN14521_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+clelandii-KBRW,TRINITY_DN19229_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+clelandii-KBRW,TRINITY_DN20078_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+clelandii-KBRW,TRINITY_DN22510_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+clelandii-KBRW,TRINITY_DN24652_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+clelandii-KBRW,TRINITY_DN26112_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+clelandii-KBRW,TRINITY_DN26405_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase
+clelandii-KBRW,TRINITY_DN27208_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+elata-AJBK,TRINITY_DN105_c0_g1_i8.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+elata-AJBK,TRINITY_DN105_c0_g1_i9.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+elata-AJBK,TRINITY_DN105_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+elata-AJBK,TRINITY_DN105_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+elata-AJBK,TRINITY_DN105_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+elata-AJBK,TRINITY_DN324_c0_g2_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+elata-AJBK,TRINITY_DN324_c0_g2_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+elata-AJBK,TRINITY_DN1042_c0_g1_i25.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+elata-AJBK,TRINITY_DN1042_c0_g1_i9.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+elata-AJBK,TRINITY_DN1042_c0_g1_i19.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+elata-AJBK,TRINITY_DN1042_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+elata-AJBK,TRINITY_DN1042_c0_g1_i14.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+elata-AJBK,TRINITY_DN1042_c0_g1_i23.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+elata-AJBK,TRINITY_DN1042_c0_g1_i11.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+elata-AJBK,TRINITY_DN1042_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+elata-AJBK,TRINITY_DN1042_c0_g2_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+elata-AJBK,TRINITY_DN1177_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase
+elata-AJBK,TRINITY_DN1177_c0_g2_i2.p1,Chalcone synthase,Chalcone synthase 1
+elata-AJBK,TRINITY_DN1177_c0_g2_i1.p1,Chalcone synthase,Chalcone synthase 2
+elata-AJBK,TRINITY_DN1177_c0_g2_i3.p1,Chalcone synthase,Chalcone synthase 1
+elata-AJBK,TRINITY_DN1177_c0_g2_i3.p2,Chalcone synthase,Chalcone synthase 1
+elata-AJBK,TRINITY_DN1177_c0_g2_i4.p1,Chalcone synthase,Chalcone synthase 1
+elata-AJBK,TRINITY_DN1177_c0_g2_i4.p2,Chalcone synthase,Chalcone synthase 1
+elata-AJBK,TRINITY_DN1177_c0_g2_i5.p1,Chalcone synthase,Chalcone synthase 1
+elata-AJBK,TRINITY_DN1177_c0_g2_i5.p2,Chalcone synthase,Chalcone synthase 1
+elata-AJBK,TRINITY_DN1177_c0_g3_i1.p1,Chalcone synthase,Chalcone synthase 2
+elata-AJBK,TRINITY_DN1177_c0_g3_i2.p1,Chalcone synthase,Chalcone synthase 2
+elata-AJBK,TRINITY_DN2777_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+elata-AJBK,TRINITY_DN2777_c0_g2_i2.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+elata-AJBK,TRINITY_DN2777_c0_g2_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+elata-AJBK,TRINITY_DN3133_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+elata-AJBK,TRINITY_DN3133_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-AJBK,TRINITY_DN3133_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-AJBK,TRINITY_DN3496_c0_g1_i2.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+elata-AJBK,TRINITY_DN3496_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+elata-AJBK,TRINITY_DN4091_c0_g1_i8.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+elata-AJBK,TRINITY_DN4091_c0_g1_i7.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+elata-AJBK,TRINITY_DN4091_c0_g1_i12.p3,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+elata-AJBK,TRINITY_DN4091_c0_g1_i12.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+elata-AJBK,TRINITY_DN4091_c0_g1_i10.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+elata-AJBK,TRINITY_DN4871_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+elata-AJBK,TRINITY_DN6668_c0_g1_i4.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+elata-AJBK,TRINITY_DN6952_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+elata-AJBK,TRINITY_DN6952_c0_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+elata-AJBK,TRINITY_DN8040_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-AJBK,TRINITY_DN8103_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+elata-AJBK,TRINITY_DN8103_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+elata-AJBK,TRINITY_DN10128_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+elata-AJBK,TRINITY_DN11356_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+elata-AJBK,TRINITY_DN11578_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-AJBK,TRINITY_DN11966_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+elata-AJBK,TRINITY_DN12114_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+elata-AJBK,TRINITY_DN12314_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+elata-AJBK,TRINITY_DN13729_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+elata-AJBK,TRINITY_DN24300_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+elata-AJBK,TRINITY_DN26193_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+elata-AJBK,TRINITY_DN26193_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+elata-AJBK,TRINITY_DN26193_c0_g1_i5.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+elata-AJBK,TRINITY_DN26415_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+elata-AJBK,TRINITY_DN27506_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+elata-AJBK,TRINITY_DN27884_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+elata-AJBK,TRINITY_DN31074_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+elata-AJBK,TRINITY_DN31074_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+elata-AJBK,TRINITY_DN32447_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+elata-AJBK,TRINITY_DN32951_c0_g1_i1.p2,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+elata-OEEE,TRINITY_DN291_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+elata-OEEE,TRINITY_DN1778_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+elata-OEEE,TRINITY_DN1778_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+elata-OEEE,TRINITY_DN1996_c1_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+elata-OEEE,TRINITY_DN1940_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+elata-OEEE,TRINITY_DN2113_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+elata-OEEE,TRINITY_DN2113_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+elata-OEEE,TRINITY_DN2783_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+elata-OEEE,TRINITY_DN2783_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+elata-OEEE,TRINITY_DN6485_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+elata-OEEE,TRINITY_DN6439_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+elata-OEEE,TRINITY_DN7350_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-OEEE,TRINITY_DN9037_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+elata-OEEE,TRINITY_DN9191_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+elata-OEEE,TRINITY_DN10345_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+elata-OEEE,TRINITY_DN13289_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+elata-OEEE,TRINITY_DN15443_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+elata-OEEE,TRINITY_DN15522_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+elata-OEEE,TRINITY_DN15633_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+elata-OEEE,TRINITY_DN17011_c0_g1_i1.p2,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+elata-OEEE,TRINITY_DN22462_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-OEEE,TRINITY_DN22596_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+elata-OEEE,TRINITY_DN22918_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-OEEE,TRINITY_DN27499_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+elata-OEEE,TRINITY_DN27886_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-OEEE,TRINITY_DN28572_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-OEEE,TRINITY_DN31056_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+elata-OEEE,TRINITY_DN33677_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-OEEE,TRINITY_DN34618_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+elata-OEEE,TRINITY_DN35332_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+elata-OEEE,TRINITY_DN35332_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+elata-OEEE,TRINITY_DN35704_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+elata-OEEE,TRINITY_DN36114_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+elata-OEEE,TRINITY_DN36800_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-OEEE,TRINITY_DN37192_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+elata-OEEE,TRINITY_DN37571_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+filiformis-JYOB,TRINITY_DN408_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+filiformis-JYOB,TRINITY_DN510_c0_g1_i7.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+filiformis-JYOB,TRINITY_DN510_c0_g1_i7.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+filiformis-JYOB,TRINITY_DN510_c0_g1_i14.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+filiformis-JYOB,TRINITY_DN510_c0_g1_i5.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+filiformis-JYOB,TRINITY_DN510_c0_g1_i9.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+filiformis-JYOB,TRINITY_DN510_c0_g1_i10.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+filiformis-JYOB,TRINITY_DN510_c0_g1_i10.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+filiformis-JYOB,TRINITY_DN510_c0_g1_i6.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+filiformis-JYOB,TRINITY_DN510_c0_g1_i3.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+filiformis-JYOB,TRINITY_DN510_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+filiformis-JYOB,TRINITY_DN510_c0_g1_i11.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+filiformis-JYOB,TRINITY_DN510_c0_g1_i11.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+filiformis-JYOB,TRINITY_DN510_c0_g1_i13.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+filiformis-JYOB,TRINITY_DN510_c0_g1_i13.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+filiformis-JYOB,TRINITY_DN510_c0_g4_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+filiformis-JYOB,TRINITY_DN818_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+filiformis-JYOB,TRINITY_DN871_c0_g2_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+filiformis-JYOB,TRINITY_DN1018_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+filiformis-JYOB,TRINITY_DN1018_c0_g1_i7.p1,Chalcone synthase,Chalcone synthase 2
+filiformis-JYOB,TRINITY_DN1018_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+filiformis-JYOB,TRINITY_DN1423_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+filiformis-JYOB,TRINITY_DN2337_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+filiformis-JYOB,TRINITY_DN2337_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+filiformis-JYOB,TRINITY_DN2462_c0_g1_i6.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+filiformis-JYOB,TRINITY_DN2462_c0_g1_i9.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+filiformis-JYOB,TRINITY_DN2462_c0_g1_i21.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+filiformis-JYOB,TRINITY_DN2462_c0_g1_i8.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+filiformis-JYOB,TRINITY_DN2462_c0_g1_i13.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+filiformis-JYOB,TRINITY_DN2462_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+filiformis-JYOB,TRINITY_DN2462_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+filiformis-JYOB,TRINITY_DN2462_c0_g1_i20.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+filiformis-JYOB,TRINITY_DN2689_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+filiformis-JYOB,TRINITY_DN2623_c0_g1_i6.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN2623_c0_g1_i2.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN2623_c0_g1_i2.p4,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN3201_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+filiformis-JYOB,TRINITY_DN3319_c0_g1_i18.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN3319_c0_g1_i12.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN3319_c0_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN3319_c0_g1_i23.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN3319_c0_g1_i16.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN3319_c0_g1_i14.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN3319_c0_g1_i19.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN3319_c0_g1_i5.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN3319_c0_g1_i3.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+filiformis-JYOB,TRINITY_DN3950_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+filiformis-JYOB,TRINITY_DN3950_c0_g1_i1.p2,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+filiformis-JYOB,TRINITY_DN4070_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+filiformis-JYOB,TRINITY_DN6297_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+filiformis-JYOB,TRINITY_DN6533_c1_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+filiformis-JYOB,TRINITY_DN6533_c1_g1_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+filiformis-JYOB,TRINITY_DN6533_c2_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+filiformis-JYOB,TRINITY_DN6803_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+filiformis-JYOB,TRINITY_DN8683_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+filiformis-JYOB,TRINITY_DN8683_c0_g2_i1.p1,4-coumarate--CoA ligase,Probable 4-coumarate--CoA ligase 2
+filiformis-JYOB,TRINITY_DN11834_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+filiformis-JYOB,TRINITY_DN11931_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+filiformis-JYOB,TRINITY_DN14316_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+filiformis-JYOB,TRINITY_DN14316_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+filiformis-JYOB,TRINITY_DN16851_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+filiformis-JYOB,TRINITY_DN21869_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+filiformis-JYOB,TRINITY_DN21948_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+gaura-JMJV,TRINITY_DN642_c0_g1_i3.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+gaura-JMJV,TRINITY_DN1519_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+gaura-JMJV,TRINITY_DN1702_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+gaura-JMJV,TRINITY_DN1702_c0_g1_i2.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+gaura-JMJV,TRINITY_DN2186_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+gaura-JMJV,TRINITY_DN2186_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+gaura-JMJV,TRINITY_DN2186_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+gaura-JMJV,TRINITY_DN2712_c0_g1_i2.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+gaura-JMJV,TRINITY_DN3040_c0_g1_i8.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+gaura-JMJV,TRINITY_DN3040_c0_g1_i4.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+gaura-JMJV,TRINITY_DN3040_c0_g1_i4.p3,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+gaura-JMJV,TRINITY_DN3040_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+gaura-JMJV,TRINITY_DN3040_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+gaura-JMJV,TRINITY_DN3040_c0_g1_i6.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+gaura-JMJV,TRINITY_DN3040_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+gaura-JMJV,TRINITY_DN3040_c1_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+gaura-JMJV,TRINITY_DN3278_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+gaura-JMJV,TRINITY_DN3519_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+gaura-JMJV,TRINITY_DN3519_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+gaura-JMJV,TRINITY_DN4109_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+gaura-JMJV,TRINITY_DN4109_c0_g2_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+gaura-JMJV,TRINITY_DN7070_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+gaura-JMJV,TRINITY_DN9002_c1_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+gaura-JMJV,TRINITY_DN9002_c1_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+gaura-JMJV,TRINITY_DN9002_c1_g1_i5.p1,Chalcone synthase,Chalcone synthase 1
+gaura-JMJV,TRINITY_DN9002_c1_g1_i12.p1,Chalcone synthase,Chalcone synthase 2
+gaura-JMJV,TRINITY_DN9002_c1_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+gaura-JMJV,TRINITY_DN9002_c1_g1_i1.p2,Chalcone synthase,Chalcone synthase 2
+gaura-JMJV,TRINITY_DN9002_c1_g1_i11.p1,Chalcone synthase,Chalcone synthase 2
+gaura-JMJV,TRINITY_DN9002_c1_g1_i8.p1,Chalcone synthase,Chalcone synthase 2
+gaura-JMJV,TRINITY_DN9514_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+gaura-JMJV,TRINITY_DN9514_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+gaura-JMJV,TRINITY_DN9514_c0_g2_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+gaura-JMJV,TRINITY_DN9514_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+gaura-JMJV,TRINITY_DN11163_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+gaura-JMJV,TRINITY_DN11163_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+gaura-JMJV,TRINITY_DN11163_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+gaura-JMJV,TRINITY_DN11170_c1_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+gaura-JMJV,TRINITY_DN14048_c0_g2_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+gaura-JMJV,TRINITY_DN17947_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+gaura-JMJV,TRINITY_DN19253_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+gaura-JMJV,TRINITY_DN19392_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+gaura-JMJV,TRINITY_DN19744_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+gaura-JMJV,TRINITY_DN24577_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+gaura-JMJV,TRINITY_DN24777_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+gaura-JMJV,TRINITY_DN25872_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+gaura-JMJV,TRINITY_DN26232_c0_g1_i1.p1,4-coumarate--CoA ligase,Probable 4-coumarate--CoA ligase 2
+gaura-JMJV,TRINITY_DN26560_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+gaura-JMJV,TRINITY_DN29516_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+glazioviana-OEGL,TRINITY_DN289_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 1
+glazioviana-OEGL,TRINITY_DN289_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+glazioviana-OEGL,TRINITY_DN289_c0_g1_i5.p1,Chalcone synthase,Chalcone synthase 1
+glazioviana-OEGL,TRINITY_DN261_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+glazioviana-OEGL,TRINITY_DN335_c0_g1_i8.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+glazioviana-OEGL,TRINITY_DN335_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+glazioviana-OEGL,TRINITY_DN335_c0_g1_i6.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+glazioviana-OEGL,TRINITY_DN1341_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+glazioviana-OEGL,TRINITY_DN1446_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+glazioviana-OEGL,TRINITY_DN1410_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+glazioviana-OEGL,TRINITY_DN1723_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+glazioviana-OEGL,TRINITY_DN2320_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+glazioviana-OEGL,TRINITY_DN2512_c0_g1_i4.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+glazioviana-OEGL,TRINITY_DN2512_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+glazioviana-OEGL,TRINITY_DN2512_c0_g1_i3.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+glazioviana-OEGL,TRINITY_DN3215_c0_g1_i6.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+glazioviana-OEGL,TRINITY_DN3335_c0_g1_i8.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+glazioviana-OEGL,TRINITY_DN3335_c0_g1_i21.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+glazioviana-OEGL,TRINITY_DN3335_c0_g1_i9.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+glazioviana-OEGL,TRINITY_DN3335_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+glazioviana-OEGL,TRINITY_DN3335_c0_g1_i18.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+glazioviana-OEGL,TRINITY_DN3335_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+glazioviana-OEGL,TRINITY_DN3335_c0_g1_i16.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+glazioviana-OEGL,TRINITY_DN3335_c0_g1_i10.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+glazioviana-OEGL,TRINITY_DN3335_c0_g1_i22.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+glazioviana-OEGL,TRINITY_DN3563_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+glazioviana-OEGL,TRINITY_DN3799_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+glazioviana-OEGL,TRINITY_DN3799_c0_g1_i7.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+glazioviana-OEGL,TRINITY_DN3799_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+glazioviana-OEGL,TRINITY_DN3799_c0_g1_i6.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+glazioviana-OEGL,TRINITY_DN3799_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+glazioviana-OEGL,TRINITY_DN3891_c0_g1_i4.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+glazioviana-OEGL,TRINITY_DN3891_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+glazioviana-OEGL,TRINITY_DN4638_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+glazioviana-OEGL,TRINITY_DN5788_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+glazioviana-OEGL,TRINITY_DN7887_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+glazioviana-OEGL,TRINITY_DN8530_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+glazioviana-OEGL,TRINITY_DN12612_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+glazioviana-OEGL,TRINITY_DN13353_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+glazioviana-OEGL,TRINITY_DN24831_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+glazioviana-OEGL,TRINITY_DN25258_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+glazioviana-OEGL,TRINITY_DN25614_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+glazioviana-OEGL,TRINITY_DN26983_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+glazioviana-OEGL,TRINITY_DN30028_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+glazioviana-OEGL,TRINITY_DN41124_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+glazioviana-OEGL,TRINITY_DN41973_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+glazioviana-OEGL,TRINITY_DN42226_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+glazioviana-OEGL,TRINITY_DN48176_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+glazioviana-OEGL,TRINITY_DN52376_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+glazioviana-OEGL,TRINITY_DN54751_c0_g1_i1.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+glazioviana-OEGL,TRINITY_DN55155_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 4
+grandiflora-MJHP,TRINITY_DN547_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+grandiflora-MJHP,TRINITY_DN547_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+grandiflora-MJHP,TRINITY_DN547_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+grandiflora-MJHP,TRINITY_DN547_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+grandiflora-MJHP,TRINITY_DN868_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+grandiflora-MJHP,TRINITY_DN935_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+grandiflora-MJHP,TRINITY_DN1593_c0_g1_i6.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+grandiflora-MJHP,TRINITY_DN1593_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+grandiflora-MJHP,TRINITY_DN1593_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+grandiflora-MJHP,TRINITY_DN1593_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+grandiflora-MJHP,TRINITY_DN1700_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+grandiflora-MJHP,TRINITY_DN1803_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+grandiflora-MJHP,TRINITY_DN1803_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+grandiflora-MJHP,TRINITY_DN2573_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+grandiflora-MJHP,TRINITY_DN2573_c0_g1_i3.p2,Chalcone synthase,Chalcone synthase 2
+grandiflora-MJHP,TRINITY_DN2573_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+grandiflora-MJHP,TRINITY_DN2573_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+grandiflora-MJHP,TRINITY_DN2573_c0_g2_i1.p1,Chalcone synthase,Chalcone synthase 2
+grandiflora-MJHP,TRINITY_DN2573_c0_g3_i1.p1,Chalcone synthase,Chalcone synthase 2
+grandiflora-MJHP,TRINITY_DN2795_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+grandiflora-MJHP,TRINITY_DN2795_c0_g1_i4.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+grandiflora-MJHP,TRINITY_DN2795_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+grandiflora-MJHP,TRINITY_DN3238_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+grandiflora-MJHP,TRINITY_DN3238_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+grandiflora-MJHP,TRINITY_DN3313_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+grandiflora-MJHP,TRINITY_DN4461_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+grandiflora-MJHP,TRINITY_DN4461_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+grandiflora-MJHP,TRINITY_DN4461_c0_g3_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+grandiflora-MJHP,TRINITY_DN8885_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+grandiflora-MJHP,TRINITY_DN9182_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+grandiflora-MJHP,TRINITY_DN9431_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+grandiflora-MJHP,TRINITY_DN9793_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+grandiflora-MJHP,TRINITY_DN10471_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+grandiflora-MJHP,TRINITY_DN11446_c0_g1_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+grandiflora-MJHP,TRINITY_DN13768_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+grandiflora-MJHP,TRINITY_DN14996_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+grandiflora-MJHP,TRINITY_DN16934_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+grandiflora-MJHP,TRINITY_DN18462_c0_g1_i1.p2,4-coumarate--CoA ligase,Probable 4-coumarate--CoA ligase 2
+grandiflora-MJHP,TRINITY_DN18462_c0_g1_i1.p1,4-coumarate--CoA ligase,Probable 4-coumarate--CoA ligase 2
+grandiflora-MJHP,TRINITY_DN18462_c0_g1_i3.p1,4-coumarate--CoA ligase,Probable 4-coumarate--CoA ligase 2
+grandiflora-MJHP,TRINITY_DN19702_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+grandiflora-MJHP,TRINITY_DN20159_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+grandiflora-MJHP,TRINITY_DN21583_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+grandiflora-MJHP,TRINITY_DN21641_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+grandiflora-MJHP,TRINITY_DN22431_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+grandiflora-MJHP,TRINITY_DN27333_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+grandis-SEMK,TRINITY_DN439_c0_g1_i5.p1,Chalcone synthase,Chalcone synthase 2
+grandis-SEMK,TRINITY_DN439_c0_g1_i7.p1,Chalcone synthase,Chalcone synthase 2
+grandis-SEMK,TRINITY_DN439_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 1
+grandis-SEMK,TRINITY_DN439_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+grandis-SEMK,TRINITY_DN439_c0_g1_i14.p1,Chalcone synthase,Chalcone synthase 1
+grandis-SEMK,TRINITY_DN439_c0_g1_i18.p1,Chalcone synthase,Chalcone synthase 2
+grandis-SEMK,TRINITY_DN439_c0_g1_i8.p1,Chalcone synthase,Chalcone synthase 2
+grandis-SEMK,TRINITY_DN439_c0_g1_i16.p1,Chalcone synthase,Chalcone synthase 1
+grandis-SEMK,TRINITY_DN439_c0_g1_i13.p1,Chalcone synthase,Chalcone synthase
+grandis-SEMK,TRINITY_DN439_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 1
+grandis-SEMK,TRINITY_DN967_c0_g2_i4.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+grandis-SEMK,TRINITY_DN967_c0_g2_i4.p2,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+grandis-SEMK,TRINITY_DN967_c0_g2_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+grandis-SEMK,TRINITY_DN967_c0_g2_i2.p2,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+grandis-SEMK,TRINITY_DN967_c0_g2_i1.p2,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+grandis-SEMK,TRINITY_DN967_c0_g2_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+grandis-SEMK,TRINITY_DN967_c0_g4_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+grandis-SEMK,TRINITY_DN2194_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+grandis-SEMK,TRINITY_DN2194_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+grandis-SEMK,TRINITY_DN2194_c0_g1_i5.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+grandis-SEMK,TRINITY_DN2255_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+grandis-SEMK,TRINITY_DN2255_c0_g2_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+grandis-SEMK,TRINITY_DN2563_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+grandis-SEMK,TRINITY_DN2796_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+grandis-SEMK,TRINITY_DN3078_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+grandis-SEMK,TRINITY_DN3078_c0_g1_i3.p4,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+grandis-SEMK,TRINITY_DN3559_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+grandis-SEMK,TRINITY_DN3687_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+grandis-SEMK,TRINITY_DN3687_c0_g1_i2.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+grandis-SEMK,TRINITY_DN3979_c1_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+grandis-SEMK,TRINITY_DN4368_c0_g1_i2.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+grandis-SEMK,TRINITY_DN4368_c0_g1_i3.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+grandis-SEMK,TRINITY_DN4368_c0_g1_i3.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+grandis-SEMK,TRINITY_DN4981_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+grandis-SEMK,TRINITY_DN4981_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+grandis-SEMK,TRINITY_DN4981_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+grandis-SEMK,TRINITY_DN5364_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+grandis-SEMK,TRINITY_DN5364_c0_g2_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+grandis-SEMK,TRINITY_DN5364_c1_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+grandis-SEMK,TRINITY_DN6049_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+grandis-SEMK,TRINITY_DN6440_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+grandis-SEMK,TRINITY_DN6913_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+grandis-SEMK,TRINITY_DN7336_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+grandis-SEMK,TRINITY_DN7336_c0_g1_i12.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+grandis-SEMK,TRINITY_DN7336_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+grandis-SEMK,TRINITY_DN7336_c0_g1_i11.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+grandis-SEMK,TRINITY_DN7336_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+grandis-SEMK,TRINITY_DN7336_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+grandis-SEMK,TRINITY_DN7336_c0_g1_i13.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+grandis-SEMK,TRINITY_DN7336_c0_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+grandis-SEMK,TRINITY_DN7964_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+grandis-SEMK,TRINITY_DN9337_c0_g2_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+grandis-SEMK,TRINITY_DN10461_c1_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+grandis-SEMK,TRINITY_DN10461_c1_g1_i7.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+grandis-SEMK,TRINITY_DN10461_c1_g1_i5.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+grandis-SEMK,TRINITY_DN10541_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+grandis-SEMK,TRINITY_DN10541_c0_g1_i6.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+grandis-SEMK,TRINITY_DN10541_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+grandis-SEMK,TRINITY_DN11409_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+grandis-SEMK,TRINITY_DN12842_c0_g1_i9.p1,Chalcone synthase,Chalcone synthase
+grandis-SEMK,TRINITY_DN12842_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase
+grandis-SEMK,TRINITY_DN12842_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase
+grandis-SEMK,TRINITY_DN12842_c0_g1_i8.p1,Chalcone synthase,Chalcone synthase
+grandis-SEMK,TRINITY_DN12842_c0_g1_i5.p1,Chalcone synthase,Chalcone synthase 2
+grandis-SEMK,TRINITY_DN12842_c0_g1_i7.p1,Chalcone synthase,Chalcone synthase
+grandis-SEMK,TRINITY_DN16042_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+grandis-SEMK,TRINITY_DN21378_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+grandis-SEMK,TRINITY_DN22055_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+grandis-SEMK,TRINITY_DN23708_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+hirsuti-OEHI,TRINITY_DN219_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+hirsuti-OEHI,TRINITY_DN342_c22_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+hirsuti-OEHI,TRINITY_DN305_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase
+hirsuti-OEHI,TRINITY_DN1230_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+hirsuti-OEHI,TRINITY_DN1230_c0_g1_i3.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+hirsuti-OEHI,TRINITY_DN1666_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+hirsuti-OEHI,TRINITY_DN1950_c0_g1_i1.p2,Chalcone synthase,Chalcone synthase 1
+hirsuti-OEHI,TRINITY_DN1950_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+hirsuti-OEHI,TRINITY_DN2145_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+hirsuti-OEHI,TRINITY_DN2145_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+hirsuti-OEHI,TRINITY_DN2145_c0_g4_i1.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+hirsuti-OEHI,TRINITY_DN2145_c1_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+hirsuti-OEHI,TRINITY_DN2145_c3_g1_i1.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+hirsuti-OEHI,TRINITY_DN2165_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+hirsuti-OEHI,TRINITY_DN2165_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+hirsuti-OEHI,TRINITY_DN2165_c0_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+hirsuti-OEHI,TRINITY_DN2165_c0_g1_i6.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+hirsuti-OEHI,TRINITY_DN2165_c0_g1_i2.p3,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+hirsuti-OEHI,TRINITY_DN2165_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+hirsuti-OEHI,TRINITY_DN2165_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+hirsuti-OEHI,TRINITY_DN2165_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+hirsuti-OEHI,TRINITY_DN5378_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+hirsuti-OEHI,TRINITY_DN5378_c0_g1_i2.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+hirsuti-OEHI,TRINITY_DN5378_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+hirsuti-OEHI,TRINITY_DN5504_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+hirsuti-OEHI,TRINITY_DN6135_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+hirsuti-OEHI,TRINITY_DN6547_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+hirsuti-OEHI,TRINITY_DN14973_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+hirsuti-OEHI,TRINITY_DN22257_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+hirsuti-OEHI,TRINITY_DN24849_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+hirsuti-OEHI,TRINITY_DN26075_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+hirsuti-OEHI,TRINITY_DN26075_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+hirsuti-OEHI,TRINITY_DN27128_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+hirsuti-OEHI,TRINITY_DN28116_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+hirsuti-OEHI,TRINITY_DN35956_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+hirsuti-OEHI,TRINITY_DN37580_c1_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+hirsuti-OEHI,TRINITY_DN42596_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+hirsuti-OEHI,TRINITY_DN42848_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+hirsuti-OEHI,TRINITY_DN44586_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+hirsuti-OEHI,TRINITY_DN47093_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+hirsuti-OEHI,TRINITY_DN47485_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+hirsuti-OEHI,TRINITY_DN47485_c0_g1_i3.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+hirsuti-OEHI,TRINITY_DN47485_c0_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+hirsuti-OEHI,TRINITY_DN49124_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+hirsuti-OEHI,TRINITY_DN58643_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+hirsuti-OEHI,TRINITY_DN61835_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+jamesii-OEJA,TRINITY_DN11_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+jamesii-OEJA,TRINITY_DN11_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+jamesii-OEJA,TRINITY_DN11_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 1
+jamesii-OEJA,TRINITY_DN258_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+jamesii-OEJA,TRINITY_DN258_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+jamesii-OEJA,TRINITY_DN451_c0_g2_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+jamesii-OEJA,TRINITY_DN451_c0_g2_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+jamesii-OEJA,TRINITY_DN888_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+jamesii-OEJA,TRINITY_DN1905_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+jamesii-OEJA,TRINITY_DN1905_c0_g1_i10.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+jamesii-OEJA,TRINITY_DN1905_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+jamesii-OEJA,TRINITY_DN1905_c0_g1_i23.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+jamesii-OEJA,TRINITY_DN1905_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+jamesii-OEJA,TRINITY_DN1905_c0_g1_i18.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+jamesii-OEJA,TRINITY_DN1905_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+jamesii-OEJA,TRINITY_DN1905_c0_g1_i24.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+jamesii-OEJA,TRINITY_DN1905_c0_g1_i12.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+jamesii-OEJA,TRINITY_DN1905_c0_g2_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+jamesii-OEJA,TRINITY_DN2490_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+jamesii-OEJA,TRINITY_DN3160_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+jamesii-OEJA,TRINITY_DN3550_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+jamesii-OEJA,TRINITY_DN5300_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+jamesii-OEJA,TRINITY_DN8134_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+jamesii-OEJA,TRINITY_DN9025_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+jamesii-OEJA,TRINITY_DN9419_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 4
+jamesii-OEJA,TRINITY_DN10591_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+jamesii-OEJA,TRINITY_DN12639_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+jamesii-OEJA,TRINITY_DN13145_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+jamesii-OEJA,TRINITY_DN13284_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+jamesii-OEJA,TRINITY_DN14442_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+jamesii-OEJA,TRINITY_DN15303_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+jamesii-OEJA,TRINITY_DN20995_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+jamesii-OEJA,TRINITY_DN21616_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+jamesii-OEJA,TRINITY_DN29924_c0_g1_i4.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+jamesii-OEJA,TRINITY_DN30213_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+jamesii-OEJA,TRINITY_DN31653_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+jamesii-OEJA,TRINITY_DN31887_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+jamesii-OEJA,TRINITY_DN35344_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+jamesii-OEJA,TRINITY_DN39062_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+jamesii-OEJA,TRINITY_DN39674_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+jamesii-OEJA,TRINITY_DN45545_c0_g1_i1.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+jamesii-OEJA,TRINITY_DN45545_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+jamesii-OEJA,TRINITY_DN48093_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+jamesii-OEJA,TRINITY_DN50954_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+jamesii-OEJA,TRINITY_DN50919_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+jamesii-OEJA,TRINITY_DN53851_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+jamesii-OEJA,TRINITY_DN54906_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+laciniata-ICUS,TRINITY_DN525_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+laciniata-ICUS,TRINITY_DN525_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+laciniata-ICUS,TRINITY_DN525_c0_g1_i2.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+laciniata-ICUS,TRINITY_DN525_c0_g1_i2.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+laciniata-ICUS,TRINITY_DN732_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+laciniata-ICUS,TRINITY_DN732_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+laciniata-ICUS,TRINITY_DN732_c0_g1_i5.p1,Chalcone synthase,Chalcone synthase
+laciniata-ICUS,TRINITY_DN732_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+laciniata-ICUS,TRINITY_DN976_c1_g1_i6.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+laciniata-ICUS,TRINITY_DN976_c1_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+laciniata-ICUS,TRINITY_DN976_c1_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+laciniata-ICUS,TRINITY_DN1132_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+laciniata-ICUS,TRINITY_DN2305_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+laciniata-ICUS,TRINITY_DN3181_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 3
+laciniata-ICUS,TRINITY_DN3181_c1_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+laciniata-ICUS,TRINITY_DN3181_c1_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+laciniata-ICUS,TRINITY_DN3149_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+laciniata-ICUS,TRINITY_DN3149_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+laciniata-ICUS,TRINITY_DN3149_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+laciniata-ICUS,TRINITY_DN4392_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+laciniata-ICUS,TRINITY_DN4392_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+laciniata-ICUS,TRINITY_DN4493_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+laciniata-ICUS,TRINITY_DN4493_c0_g1_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+laciniata-ICUS,TRINITY_DN4493_c1_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+laciniata-ICUS,TRINITY_DN4476_c1_g3_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+laciniata-ICUS,TRINITY_DN4476_c1_g3_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+laciniata-ICUS,TRINITY_DN5386_c0_g1_i2.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+laciniata-ICUS,TRINITY_DN5386_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+laciniata-ICUS,TRINITY_DN7148_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+laciniata-ICUS,TRINITY_DN7148_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+laciniata-ICUS,TRINITY_DN7759_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+laciniata-ICUS,TRINITY_DN7759_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+laciniata-ICUS,TRINITY_DN7759_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+laciniata-ICUS,TRINITY_DN7759_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+laciniata-ICUS,TRINITY_DN9384_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+laciniata-ICUS,TRINITY_DN9392_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+laciniata-ICUS,TRINITY_DN9392_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+laciniata-ICUS,TRINITY_DN9392_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+laciniata-ICUS,TRINITY_DN10034_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+laciniata-ICUS,TRINITY_DN10413_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+laciniata-ICUS,TRINITY_DN10625_c1_g2_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+laciniata-ICUS,TRINITY_DN11374_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+laciniata-ICUS,TRINITY_DN11535_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase
+laciniata-ICUS,TRINITY_DN12291_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+laciniata-ICUS,TRINITY_DN12431_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+laciniata-ICUS,TRINITY_DN12431_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+laciniata-ICUS,TRINITY_DN12850_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+laciniata-ICUS,TRINITY_DN12850_c0_g2_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+laciniata-ICUS,TRINITY_DN12812_c0_g1_i6.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+laciniata-ICUS,TRINITY_DN12812_c0_g1_i4.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+laciniata-ICUS,TRINITY_DN12812_c0_g1_i3.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+laciniata-ICUS,TRINITY_DN12812_c0_g1_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+laciniata-ICUS,TRINITY_DN12812_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+laciniata-ICUS,TRINITY_DN12812_c0_g1_i5.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+laciniata-ICUS,TRINITY_DN14437_c2_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+laciniata-ICUS,TRINITY_DN14437_c2_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+laciniata-ICUS,TRINITY_DN14437_c2_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+laciniata-ICUS,TRINITY_DN14868_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+laciniata-ICUS,TRINITY_DN16265_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 3
+laciniata-ICUS,TRINITY_DN17411_c0_g1_i9.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+laciniata-ICUS,TRINITY_DN17411_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+laciniata-ICUS,TRINITY_DN17411_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+laciniata-ICUS,TRINITY_DN17411_c0_g1_i3.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+laciniata-ICUS,TRINITY_DN17411_c0_g1_i8.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+laciniata-ICUS,TRINITY_DN17411_c0_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+laciniata-ICUS,TRINITY_DN17411_c0_g1_i14.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+laciniata-ICUS,TRINITY_DN17411_c0_g1_i10.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+laciniata-ICUS,TRINITY_DN22448_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+laciniata-ICUS,TRINITY_DN25493_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+laciniata-ICUS,TRINITY_DN27884_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+longissima-OELA,TRINITY_DN211_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+longissima-OELA,TRINITY_DN211_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+longissima-OELA,TRINITY_DN301_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+longissima-OELA,TRINITY_DN301_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 1
+longissima-OELA,TRINITY_DN428_c1_g1_i1.p1,Chalcone synthase,Chalcone synthase
+longissima-OELA,TRINITY_DN544_c0_g5_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+longissima-OELA,TRINITY_DN544_c0_g6_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+longissima-OELA,TRINITY_DN645_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+longissima-OELA,TRINITY_DN645_c0_g1_i8.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+longissima-OELA,TRINITY_DN645_c0_g1_i4.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+longissima-OELA,TRINITY_DN645_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+longissima-OELA,TRINITY_DN645_c0_g1_i7.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+longissima-OELA,TRINITY_DN645_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+longissima-OELA,TRINITY_DN645_c0_g1_i5.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+longissima-OELA,TRINITY_DN645_c0_g1_i6.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+longissima-OELA,TRINITY_DN645_c2_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+longissima-OELA,TRINITY_DN1452_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+longissima-OELA,TRINITY_DN1463_c1_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+longissima-OELA,TRINITY_DN2072_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+longissima-OELA,TRINITY_DN2024_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+longissima-OELA,TRINITY_DN2678_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+longissima-OELA,TRINITY_DN3341_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+longissima-OELA,TRINITY_DN3341_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+longissima-OELA,TRINITY_DN3341_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+longissima-OELA,TRINITY_DN6268_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+longissima-OELA,TRINITY_DN12743_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+longissima-OELA,TRINITY_DN13906_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+longissima-OELA,TRINITY_DN14208_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+longissima-OELA,TRINITY_DN15200_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+longissima-OELA,TRINITY_DN19556_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+longissima-OELA,TRINITY_DN19658_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase
+longissima-OELA,TRINITY_DN20952_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+longissima-OELA,TRINITY_DN21381_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+longissima-OELA,TRINITY_DN29786_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+longissima-OELA,TRINITY_DN35338_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+longissima-OELA,TRINITY_DN35709_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+longissima-OELA,TRINITY_DN37407_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+longissima-OELA,TRINITY_DN37642_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+longissima-OELA,TRINITY_DN38186_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+longissima-OELA,TRINITY_DN39291_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+longissima-OELA,TRINITY_DN41372_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+longissima-OELA,TRINITY_DN45319_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+longissima-OELA,TRINITY_DN46364_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+longissima-OELA,TRINITY_DN48560_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+longissima-OELA,TRINITY_DN48810_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+longissima-OELA,TRINITY_DN50408_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+longissima-OELA,TRINITY_DN51248_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+longissima-OELA,TRINITY_DN52018_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+longituba-HPNZ,TRINITY_DN17_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+longituba-HPNZ,TRINITY_DN130_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+longituba-HPNZ,TRINITY_DN442_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+longituba-HPNZ,TRINITY_DN442_c0_g1_i3.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+longituba-HPNZ,TRINITY_DN442_c0_g3_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+longituba-HPNZ,TRINITY_DN593_c1_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+longituba-HPNZ,TRINITY_DN550_c0_g1_i10.p2,Chalcone synthase,Chalcone synthase 2
+longituba-HPNZ,TRINITY_DN550_c0_g1_i10.p1,Chalcone synthase,Chalcone synthase 2
+longituba-HPNZ,TRINITY_DN550_c0_g1_i12.p1,Chalcone synthase,Chalcone synthase 2
+longituba-HPNZ,TRINITY_DN550_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+longituba-HPNZ,TRINITY_DN550_c0_g1_i5.p1,Chalcone synthase,Chalcone synthase 2
+longituba-HPNZ,TRINITY_DN550_c0_g1_i11.p1,Chalcone synthase,Chalcone synthase 2
+longituba-HPNZ,TRINITY_DN521_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+longituba-HPNZ,TRINITY_DN617_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+longituba-HPNZ,TRINITY_DN617_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+longituba-HPNZ,TRINITY_DN617_c0_g1_i11.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+longituba-HPNZ,TRINITY_DN617_c0_g1_i19.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+longituba-HPNZ,TRINITY_DN617_c0_g1_i9.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+longituba-HPNZ,TRINITY_DN617_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+longituba-HPNZ,TRINITY_DN1389_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+longituba-HPNZ,TRINITY_DN1389_c0_g2_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+longituba-HPNZ,TRINITY_DN2002_c2_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+longituba-HPNZ,TRINITY_DN2682_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+longituba-HPNZ,TRINITY_DN2656_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+longituba-HPNZ,TRINITY_DN2656_c0_g3_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+longituba-HPNZ,TRINITY_DN4167_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+longituba-HPNZ,TRINITY_DN4167_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+longituba-HPNZ,TRINITY_DN4343_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+longituba-HPNZ,TRINITY_DN4343_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+longituba-HPNZ,TRINITY_DN6093_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+longituba-HPNZ,TRINITY_DN6130_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 3
+longituba-HPNZ,TRINITY_DN6130_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+longituba-HPNZ,TRINITY_DN6130_c1_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+longituba-HPNZ,TRINITY_DN6130_c1_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 3
+longituba-HPNZ,TRINITY_DN6130_c1_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+longituba-HPNZ,TRINITY_DN6810_c1_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+longituba-HPNZ,TRINITY_DN13498_c2_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+longituba-HPNZ,TRINITY_DN14494_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+longituba-HPNZ,TRINITY_DN15957_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+longituba-HPNZ,TRINITY_DN15957_c0_g2_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+longituba-HPNZ,TRINITY_DN21070_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+longituba-HPNZ,TRINITY_DN25518_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+longituba-HPNZ,TRINITY_DN25722_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+longituba-HPNZ,TRINITY_DN28028_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+longituba-HPNZ,TRINITY_DN28230_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+longituba-HPNZ,TRINITY_DN29191_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+nana-CJGZ,TRINITY_DN248_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+nana-CJGZ,TRINITY_DN248_c0_g1_i5.p1,Chalcone synthase,Chalcone synthase 1
+nana-CJGZ,TRINITY_DN248_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+nana-CJGZ,TRINITY_DN335_c0_g3_i3.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+nana-CJGZ,TRINITY_DN335_c0_g3_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+nana-CJGZ,TRINITY_DN335_c0_g3_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+nana-CJGZ,TRINITY_DN646_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 3
+nana-CJGZ,TRINITY_DN1086_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+nana-CJGZ,TRINITY_DN1086_c0_g2_i1.p1,4-coumarate--CoA ligase,Probable 4-coumarate--CoA ligase 2
+nana-CJGZ,TRINITY_DN1458_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nana-CJGZ,TRINITY_DN1779_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+nana-CJGZ,TRINITY_DN1779_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+nana-CJGZ,TRINITY_DN1779_c0_g3_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+nana-CJGZ,TRINITY_DN2129_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+nana-CJGZ,TRINITY_DN2129_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+nana-CJGZ,TRINITY_DN3543_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+nana-CJGZ,TRINITY_DN3543_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+nana-CJGZ,TRINITY_DN3543_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+nana-CJGZ,TRINITY_DN3543_c0_g2_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+nana-CJGZ,TRINITY_DN5010_c0_g1_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+nana-CJGZ,TRINITY_DN5010_c0_g1_i4.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+nana-CJGZ,TRINITY_DN5330_c2_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+nana-CJGZ,TRINITY_DN5330_c2_g3_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+nana-CJGZ,TRINITY_DN5707_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+nana-CJGZ,TRINITY_DN6553_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 3
+nana-CJGZ,TRINITY_DN6553_c0_g1_i6.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+nana-CJGZ,TRINITY_DN6553_c0_g1_i5.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+nana-CJGZ,TRINITY_DN6553_c0_g1_i4.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+nana-CJGZ,TRINITY_DN6553_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+nana-CJGZ,TRINITY_DN6553_c0_g2_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+nana-CJGZ,TRINITY_DN6858_c0_g1_i7.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+nana-CJGZ,TRINITY_DN6858_c0_g1_i9.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+nana-CJGZ,TRINITY_DN6858_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+nana-CJGZ,TRINITY_DN6858_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+nana-CJGZ,TRINITY_DN6858_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+nana-CJGZ,TRINITY_DN6858_c0_g1_i6.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+nana-CJGZ,TRINITY_DN6858_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+nana-CJGZ,TRINITY_DN11298_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+nana-CJGZ,TRINITY_DN11298_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+nana-CJGZ,TRINITY_DN11828_c0_g2_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+nana-CJGZ,TRINITY_DN12075_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+nana-CJGZ,TRINITY_DN12663_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+nana-CJGZ,TRINITY_DN13251_c1_g5_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+nana-CJGZ,TRINITY_DN15153_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nana-CJGZ,TRINITY_DN15287_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+nana-CJGZ,TRINITY_DN15839_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+nana-CJGZ,TRINITY_DN17544_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+nana-CJGZ,TRINITY_DN17544_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+nana-CJGZ,TRINITY_DN18164_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+nana-CJGZ,TRINITY_DN19742_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+nana-CJGZ,TRINITY_DN22087_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nana-CJGZ,TRINITY_DN23729_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+nana-CJGZ,TRINITY_DN26832_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+nana-CJGZ,TRINITY_DN28758_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nana-CJGZ,TRINITY_DN30516_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+nutans-OENU,TRINITY_DN1314_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+nutans-OENU,TRINITY_DN2511_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+nutans-OENU,TRINITY_DN2656_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+nutans-OENU,TRINITY_DN2881_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+nutans-OENU,TRINITY_DN2881_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+nutans-OENU,TRINITY_DN2881_c1_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+nutans-OENU,TRINITY_DN2843_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+nutans-OENU,TRINITY_DN3202_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+nutans-OENU,TRINITY_DN4591_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+nutans-OENU,TRINITY_DN4563_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+nutans-OENU,TRINITY_DN4563_c0_g1_i3.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+nutans-OENU,TRINITY_DN5049_c1_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+nutans-OENU,TRINITY_DN6431_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+nutans-OENU,TRINITY_DN6431_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+nutans-OENU,TRINITY_DN6507_c0_g1_i3.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nutans-OENU,TRINITY_DN6507_c0_g1_i3.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nutans-OENU,TRINITY_DN6507_c0_g1_i2.p3,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nutans-OENU,TRINITY_DN6507_c0_g1_i2.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nutans-OENU,TRINITY_DN6507_c0_g1_i2.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nutans-OENU,TRINITY_DN7438_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+nutans-OENU,TRINITY_DN7438_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 1
+nutans-OENU,TRINITY_DN7438_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+nutans-OENU,TRINITY_DN9145_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nutans-OENU,TRINITY_DN9870_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+nutans-OENU,TRINITY_DN10753_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+nutans-OENU,TRINITY_DN11444_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase
+nutans-OENU,TRINITY_DN15592_c0_g1_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+nutans-OENU,TRINITY_DN17237_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+nutans-OENU,TRINITY_DN17842_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+nutans-OENU,TRINITY_DN19674_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+nutans-OENU,TRINITY_DN23178_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+nutans-OENU,TRINITY_DN23178_c0_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+nutans-OENU,TRINITY_DN23468_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+nutans-OENU,TRINITY_DN25635_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+nutans-OENU,TRINITY_DN25986_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nutans-OENU,TRINITY_DN27560_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+nutans-OENU,TRINITY_DN28035_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+nutans-OENU,TRINITY_DN45517_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+nutans-OENU,TRINITY_DN46446_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+nutans-OENU,TRINITY_DN46637_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+nutans-OENU,TRINITY_DN48353_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+nutans-OENU,TRINITY_DN48702_c0_g1_i1.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+oakesiana-OEOA,TRINITY_DN845_c1_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+oakesiana-OEOA,TRINITY_DN1442_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+oakesiana-OEOA,TRINITY_DN2669_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+oakesiana-OEOA,TRINITY_DN2669_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+oakesiana-OEOA,TRINITY_DN3454_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+oakesiana-OEOA,TRINITY_DN3454_c0_g1_i6.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+oakesiana-OEOA,TRINITY_DN3454_c0_g1_i4.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+oakesiana-OEOA,TRINITY_DN3456_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+oakesiana-OEOA,TRINITY_DN3456_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+oakesiana-OEOA,TRINITY_DN3456_c0_g1_i2.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+oakesiana-OEOA,TRINITY_DN3456_c0_g1_i2.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+oakesiana-OEOA,TRINITY_DN3706_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+oakesiana-OEOA,TRINITY_DN3706_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+oakesiana-OEOA,TRINITY_DN3872_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+oakesiana-OEOA,TRINITY_DN3872_c0_g1_i8.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+oakesiana-OEOA,TRINITY_DN3872_c0_g1_i9.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+oakesiana-OEOA,TRINITY_DN3872_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+oakesiana-OEOA,TRINITY_DN3992_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+oakesiana-OEOA,TRINITY_DN4134_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+oakesiana-OEOA,TRINITY_DN4242_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+oakesiana-OEOA,TRINITY_DN4569_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+oakesiana-OEOA,TRINITY_DN4569_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+oakesiana-OEOA,TRINITY_DN4569_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 1
+oakesiana-OEOA,TRINITY_DN4569_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase
+oakesiana-OEOA,TRINITY_DN4569_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+oakesiana-OEOA,TRINITY_DN4569_c1_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+oakesiana-OEOA,TRINITY_DN5906_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+oakesiana-OEOA,TRINITY_DN5906_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+oakesiana-OEOA,TRINITY_DN6156_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+oakesiana-OEOA,TRINITY_DN6720_c0_g2_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+oakesiana-OEOA,TRINITY_DN6720_c0_g2_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+oakesiana-OEOA,TRINITY_DN6720_c0_g2_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+oakesiana-OEOA,TRINITY_DN7180_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+oakesiana-OEOA,TRINITY_DN10450_c0_g1_i4.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+oakesiana-OEOA,TRINITY_DN10450_c0_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+oakesiana-OEOA,TRINITY_DN10825_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+oakesiana-OEOA,TRINITY_DN11243_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+oakesiana-OEOA,TRINITY_DN13495_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+oakesiana-OEOA,TRINITY_DN18023_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+oakesiana-OEOA,TRINITY_DN25545_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+oakesiana-OEOA,TRINITY_DN25880_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+oakesiana-OEOA,TRINITY_DN26452_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+oakesiana-OEOA,TRINITY_DN26702_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+oakesiana-OEOA,TRINITY_DN30292_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+oakesiana-OEOA,TRINITY_DN37598_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+oakesiana-OEOA,TRINITY_DN41346_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+oakesiana-OEOA,TRINITY_DN41435_c0_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+oakesiana-OEOA,TRINITY_DN45980_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+oakesiana-OEOA,TRINITY_DN47350_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+oakesiana-OEOA,TRINITY_DN48958_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+oakesiana-OEOA,TRINITY_DN51234_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+oakesiana-OEOA,TRINITY_DN52644_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+parviflora-OEPA,TRINITY_DN647_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+parviflora-OEPA,TRINITY_DN1113_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+parviflora-OEPA,TRINITY_DN1177_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+parviflora-OEPA,TRINITY_DN1102_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+parviflora-OEPA,TRINITY_DN1102_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+parviflora-OEPA,TRINITY_DN1102_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+parviflora-OEPA,TRINITY_DN1102_c0_g1_i4.p3,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+parviflora-OEPA,TRINITY_DN1102_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+parviflora-OEPA,TRINITY_DN1102_c0_g1_i1.p3,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+parviflora-OEPA,TRINITY_DN2967_c0_g1_i7.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+parviflora-OEPA,TRINITY_DN2967_c0_g1_i5.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+parviflora-OEPA,TRINITY_DN2967_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 3
+parviflora-OEPA,TRINITY_DN2967_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 3
+parviflora-OEPA,TRINITY_DN2967_c0_g1_i9.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+parviflora-OEPA,TRINITY_DN2967_c1_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+parviflora-OEPA,TRINITY_DN3102_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+parviflora-OEPA,TRINITY_DN3370_c0_g1_i5.p1,Chalcone synthase,Chalcone synthase 2
+parviflora-OEPA,TRINITY_DN3370_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 1
+parviflora-OEPA,TRINITY_DN3370_c0_g1_i7.p1,Chalcone synthase,Chalcone synthase 1
+parviflora-OEPA,TRINITY_DN3370_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+parviflora-OEPA,TRINITY_DN3370_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+parviflora-OEPA,TRINITY_DN3370_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+parviflora-OEPA,TRINITY_DN4003_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+parviflora-OEPA,TRINITY_DN4003_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+parviflora-OEPA,TRINITY_DN4003_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+parviflora-OEPA,TRINITY_DN4003_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+parviflora-OEPA,TRINITY_DN4692_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+parviflora-OEPA,TRINITY_DN4701_c0_g1_i2.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+parviflora-OEPA,TRINITY_DN4701_c0_g1_i2.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+parviflora-OEPA,TRINITY_DN4960_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+parviflora-OEPA,TRINITY_DN4960_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+parviflora-OEPA,TRINITY_DN4960_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+parviflora-OEPA,TRINITY_DN4986_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+parviflora-OEPA,TRINITY_DN4918_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+parviflora-OEPA,TRINITY_DN7379_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+parviflora-OEPA,TRINITY_DN7379_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+parviflora-OEPA,TRINITY_DN7379_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+parviflora-OEPA,TRINITY_DN7379_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+parviflora-OEPA,TRINITY_DN7379_c0_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+parviflora-OEPA,TRINITY_DN7379_c0_g2_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+parviflora-OEPA,TRINITY_DN8331_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+parviflora-OEPA,TRINITY_DN8405_c0_g1_i4.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+parviflora-OEPA,TRINITY_DN8405_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+parviflora-OEPA,TRINITY_DN8405_c0_g1_i8.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+parviflora-OEPA,TRINITY_DN8405_c0_g1_i5.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+parviflora-OEPA,TRINITY_DN8405_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+parviflora-OEPA,TRINITY_DN8622_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+parviflora-OEPA,TRINITY_DN8842_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+parviflora-OEPA,TRINITY_DN8926_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+parviflora-OEPA,TRINITY_DN10273_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+parviflora-OEPA,TRINITY_DN10530_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+parviflora-OEPA,TRINITY_DN11502_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+parviflora-OEPA,TRINITY_DN20968_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+parviflora-OEPA,TRINITY_DN22771_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+parviflora-OEPA,TRINITY_DN25492_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+parviflora-OEPA,TRINITY_DN27059_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+parviflora-OEPA,TRINITY_DN33880_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+parviflora-OEPA,TRINITY_DN41888_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+parviflora-OEPA,TRINITY_DN47252_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+parviflora-OEPA,TRINITY_DN47447_c0_g1_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+parviflora-OEPA,TRINITY_DN47447_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+parviflora-OEPA,TRINITY_DN51978_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+picensis-DZLN,TRINITY_DN50_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 1
+picensis-DZLN,TRINITY_DN50_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+picensis-DZLN,TRINITY_DN50_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+picensis-DZLN,TRINITY_DN50_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+picensis-DZLN,TRINITY_DN144_c0_g2_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+picensis-DZLN,TRINITY_DN144_c0_g1_i9.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+picensis-DZLN,TRINITY_DN144_c0_g1_i3.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+picensis-DZLN,TRINITY_DN144_c0_g3_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+picensis-DZLN,TRINITY_DN338_c0_g1_i9.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+picensis-DZLN,TRINITY_DN338_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+picensis-DZLN,TRINITY_DN338_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+picensis-DZLN,TRINITY_DN338_c0_g1_i10.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+picensis-DZLN,TRINITY_DN338_c0_g1_i8.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+picensis-DZLN,TRINITY_DN338_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+picensis-DZLN,TRINITY_DN442_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+picensis-DZLN,TRINITY_DN442_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+picensis-DZLN,TRINITY_DN577_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+picensis-DZLN,TRINITY_DN647_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+picensis-DZLN,TRINITY_DN647_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+picensis-DZLN,TRINITY_DN647_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+picensis-DZLN,TRINITY_DN647_c0_g1_i2.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+picensis-DZLN,TRINITY_DN1886_c0_g2_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+picensis-DZLN,TRINITY_DN2793_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+picensis-DZLN,TRINITY_DN2793_c0_g2_i1.p4,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+picensis-DZLN,TRINITY_DN2802_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+picensis-DZLN,TRINITY_DN3485_c0_g1_i14.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+picensis-DZLN,TRINITY_DN3485_c0_g1_i10.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+picensis-DZLN,TRINITY_DN3485_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+picensis-DZLN,TRINITY_DN3485_c0_g1_i13.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+picensis-DZLN,TRINITY_DN3485_c0_g2_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+picensis-DZLN,TRINITY_DN3485_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+picensis-DZLN,TRINITY_DN3485_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+picensis-DZLN,TRINITY_DN3485_c0_g4_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+picensis-DZLN,TRINITY_DN3485_c1_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+picensis-DZLN,TRINITY_DN3959_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+picensis-DZLN,TRINITY_DN3959_c0_g2_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+picensis-DZLN,TRINITY_DN3959_c0_g2_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+picensis-DZLN,TRINITY_DN3959_c0_g2_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+picensis-DZLN,TRINITY_DN3959_c0_g2_i8.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+picensis-DZLN,TRINITY_DN3959_c0_g2_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+picensis-DZLN,TRINITY_DN3959_c0_g2_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+picensis-DZLN,TRINITY_DN6254_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+picensis-DZLN,TRINITY_DN6254_c0_g2_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+picensis-DZLN,TRINITY_DN6254_c1_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase F3H2 {ECO:0000305}
+picensis-DZLN,TRINITY_DN8139_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+picensis-DZLN,TRINITY_DN8387_c0_g1_i3.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+picensis-DZLN,TRINITY_DN8387_c0_g1_i6.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+picensis-DZLN,TRINITY_DN8459_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+picensis-DZLN,TRINITY_DN11022_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+picensis-DZLN,TRINITY_DN12026_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+picensis-DZLN,TRINITY_DN16582_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+picensis-DZLN,TRINITY_DN16988_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+picensis-DZLN,TRINITY_DN20873_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+picensis-DZLN,TRINITY_DN21547_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+picensis-DZLN,TRINITY_DN22847_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+picensis-DZLN,TRINITY_DN22860_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+picensis-DZLN,TRINITY_DN25822_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+picensis-DZLN,TRINITY_DN29024_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+rhombipetala-YHLF,TRINITY_DN133_c1_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+rhombipetala-YHLF,TRINITY_DN260_c0_g1_i7.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+rhombipetala-YHLF,TRINITY_DN260_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+rhombipetala-YHLF,TRINITY_DN519_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+rhombipetala-YHLF,TRINITY_DN619_c1_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+rhombipetala-YHLF,TRINITY_DN768_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+rhombipetala-YHLF,TRINITY_DN768_c0_g3_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+rhombipetala-YHLF,TRINITY_DN768_c0_g3_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+rhombipetala-YHLF,TRINITY_DN754_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rhombipetala-YHLF,TRINITY_DN754_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+rhombipetala-YHLF,TRINITY_DN1078_c1_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rhombipetala-YHLF,TRINITY_DN1078_c1_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rhombipetala-YHLF,TRINITY_DN1078_c1_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rhombipetala-YHLF,TRINITY_DN1078_c1_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+rhombipetala-YHLF,TRINITY_DN1078_c1_g1_i9.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+rhombipetala-YHLF,TRINITY_DN1010_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+rhombipetala-YHLF,TRINITY_DN1010_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+rhombipetala-YHLF,TRINITY_DN1010_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+rhombipetala-YHLF,TRINITY_DN1617_c0_g1_i2.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+rhombipetala-YHLF,TRINITY_DN1617_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+rhombipetala-YHLF,TRINITY_DN1617_c0_g2_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rhombipetala-YHLF,TRINITY_DN1617_c0_g2_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rhombipetala-YHLF,TRINITY_DN2169_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+rhombipetala-YHLF,TRINITY_DN2169_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+rhombipetala-YHLF,TRINITY_DN2169_c0_g1_i9.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+rhombipetala-YHLF,TRINITY_DN2169_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+rhombipetala-YHLF,TRINITY_DN2169_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+rhombipetala-YHLF,TRINITY_DN2247_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+rhombipetala-YHLF,TRINITY_DN2776_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+rhombipetala-YHLF,TRINITY_DN2776_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+rhombipetala-YHLF,TRINITY_DN3052_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+rhombipetala-YHLF,TRINITY_DN3624_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rhombipetala-YHLF,TRINITY_DN3892_c0_g1_i1.p2,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+rhombipetala-YHLF,TRINITY_DN4538_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+rhombipetala-YHLF,TRINITY_DN4538_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+rhombipetala-YHLF,TRINITY_DN5627_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+rhombipetala-YHLF,TRINITY_DN6624_c1_g2_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+rhombipetala-YHLF,TRINITY_DN7453_c1_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+rhombipetala-YHLF,TRINITY_DN9461_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+rhombipetala-YHLF,TRINITY_DN11137_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+rhombipetala-YHLF,TRINITY_DN11137_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rhombipetala-YHLF,TRINITY_DN13728_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rhombipetala-YHLF,TRINITY_DN13728_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rhombipetala-YHLF,TRINITY_DN13979_c0_g4_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+rhombipetala-YHLF,TRINITY_DN14191_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+rhombipetala-YHLF,TRINITY_DN18222_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+rhombipetala-YHLF,TRINITY_DN22277_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+rhombipetala-YHLF,TRINITY_DN24381_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+rhombipetala-YHLF,TRINITY_DN25436_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+rhombipetala-YHLF,TRINITY_DN25681_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+rhombipetala-YHLF,TRINITY_DN25885_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rhombipetala-YHLF,TRINITY_DN26338_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+rosea-FXJC,TRINITY_DN1090_c0_g1_i2.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rosea-FXJC,TRINITY_DN1090_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rosea-FXJC,TRINITY_DN1090_c0_g1_i5.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rosea-FXJC,TRINITY_DN1090_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rosea-FXJC,TRINITY_DN1090_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rosea-FXJC,TRINITY_DN1090_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rosea-FXJC,TRINITY_DN1090_c0_g1_i1.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+rosea-FXJC,TRINITY_DN1321_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+rosea-FXJC,TRINITY_DN1321_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+rosea-FXJC,TRINITY_DN1652_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rosea-FXJC,TRINITY_DN1652_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rosea-FXJC,TRINITY_DN1652_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+rosea-FXJC,TRINITY_DN1652_c0_g3_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rosea-FXJC,TRINITY_DN1652_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rosea-FXJC,TRINITY_DN1652_c0_g3_i1.p2,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rosea-FXJC,TRINITY_DN1652_c1_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rosea-FXJC,TRINITY_DN1713_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+rosea-FXJC,TRINITY_DN1713_c0_g1_i5.p1,Chalcone synthase,Chalcone synthase 2
+rosea-FXJC,TRINITY_DN1713_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+rosea-FXJC,TRINITY_DN1713_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 1
+rosea-FXJC,TRINITY_DN1901_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+rosea-FXJC,TRINITY_DN1901_c0_g2_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+rosea-FXJC,TRINITY_DN2014_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+rosea-FXJC,TRINITY_DN2014_c0_g1_i4.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+rosea-FXJC,TRINITY_DN2168_c0_g2_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+rosea-FXJC,TRINITY_DN2168_c0_g2_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+rosea-FXJC,TRINITY_DN2168_c0_g2_i5.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+rosea-FXJC,TRINITY_DN2168_c0_g2_i5.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+rosea-FXJC,TRINITY_DN2168_c0_g2_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+rosea-FXJC,TRINITY_DN2168_c0_g1_i3.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+rosea-FXJC,TRINITY_DN2168_c0_g1_i4.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+rosea-FXJC,TRINITY_DN5008_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+rosea-FXJC,TRINITY_DN6031_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+rosea-FXJC,TRINITY_DN7348_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+rosea-FXJC,TRINITY_DN7348_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+rosea-FXJC,TRINITY_DN8519_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+rosea-FXJC,TRINITY_DN8519_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+rosea-FXJC,TRINITY_DN9349_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+rosea-FXJC,TRINITY_DN10799_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+rosea-FXJC,TRINITY_DN10957_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+rosea-FXJC,TRINITY_DN11293_c0_g1_i1.p1,4-coumarate--CoA ligase,Probable 4-coumarate--CoA ligase 2
+rosea-FXJC,TRINITY_DN11293_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+rosea-FXJC,TRINITY_DN13286_c1_g1_i25.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+rosea-FXJC,TRINITY_DN17780_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+rosea-FXJC,TRINITY_DN17832_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+rosea-FXJC,TRINITY_DN20752_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+rosea-FXJC,TRINITY_DN20730_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+rosea-FXJC,TRINITY_DN25407_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+rosea-FXJC,TRINITY_DN26227_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+rosea-FXJC,TRINITY_DN27710_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+speciosa-XZAQ,TRINITY_DN1147_c1_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+speciosa-XZAQ,TRINITY_DN1147_c1_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+speciosa-XZAQ,TRINITY_DN1147_c1_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+speciosa-XZAQ,TRINITY_DN1147_c1_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+speciosa-XZAQ,TRINITY_DN1202_c0_g2_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+speciosa-XZAQ,TRINITY_DN1202_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+speciosa-XZAQ,TRINITY_DN1202_c1_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+speciosa-XZAQ,TRINITY_DN1202_c1_g3_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+speciosa-XZAQ,TRINITY_DN1202_c1_g3_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase G1
+speciosa-XZAQ,TRINITY_DN1202_c1_g4_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+speciosa-XZAQ,TRINITY_DN1687_c0_g1_i4.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+speciosa-XZAQ,TRINITY_DN1687_c0_g1_i6.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+speciosa-XZAQ,TRINITY_DN1687_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+speciosa-XZAQ,TRINITY_DN1687_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+speciosa-XZAQ,TRINITY_DN2157_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 1
+speciosa-XZAQ,TRINITY_DN2157_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+speciosa-XZAQ,TRINITY_DN2157_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+speciosa-XZAQ,TRINITY_DN2580_c0_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+speciosa-XZAQ,TRINITY_DN2580_c0_g1_i9.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+speciosa-XZAQ,TRINITY_DN2580_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+speciosa-XZAQ,TRINITY_DN2580_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+speciosa-XZAQ,TRINITY_DN2580_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+speciosa-XZAQ,TRINITY_DN2580_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+speciosa-XZAQ,TRINITY_DN2719_c0_g1_i3.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+speciosa-XZAQ,TRINITY_DN2719_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+speciosa-XZAQ,TRINITY_DN3771_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+speciosa-XZAQ,TRINITY_DN3999_c0_g1_i4.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+speciosa-XZAQ,TRINITY_DN3999_c0_g1_i10.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+speciosa-XZAQ,TRINITY_DN3999_c0_g1_i9.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+speciosa-XZAQ,TRINITY_DN3999_c0_g1_i6.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+speciosa-XZAQ,TRINITY_DN3999_c0_g1_i3.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+speciosa-XZAQ,TRINITY_DN3999_c0_g1_i8.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+speciosa-XZAQ,TRINITY_DN3999_c0_g1_i11.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+speciosa-XZAQ,TRINITY_DN5092_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+speciosa-XZAQ,TRINITY_DN5296_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+speciosa-XZAQ,TRINITY_DN5296_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+speciosa-XZAQ,TRINITY_DN5296_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+speciosa-XZAQ,TRINITY_DN5436_c0_g2_i4.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+speciosa-XZAQ,TRINITY_DN5436_c0_g2_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+speciosa-XZAQ,TRINITY_DN5922_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+speciosa-XZAQ,TRINITY_DN5922_c0_g1_i7.p1,Chalcone synthase,Chalcone synthase
+speciosa-XZAQ,TRINITY_DN5922_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase
+speciosa-XZAQ,TRINITY_DN5922_c0_g1_i9.p1,Chalcone synthase,Chalcone synthase
+speciosa-XZAQ,TRINITY_DN5922_c0_g1_i8.p1,Chalcone synthase,Chalcone synthase
+speciosa-XZAQ,TRINITY_DN5922_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+speciosa-XZAQ,TRINITY_DN5922_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase
+speciosa-XZAQ,TRINITY_DN6868_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+speciosa-XZAQ,TRINITY_DN7197_c0_g1_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+speciosa-XZAQ,TRINITY_DN7197_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+speciosa-XZAQ,TRINITY_DN7197_c0_g1_i4.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+speciosa-XZAQ,TRINITY_DN7197_c0_g2_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+speciosa-XZAQ,TRINITY_DN7197_c1_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+speciosa-XZAQ,TRINITY_DN7244_c0_g2_i1.p1,Chalcone synthase,Chalcone synthase 2
+speciosa-XZAQ,TRINITY_DN7244_c0_g3_i2.p1,Chalcone synthase,Chalcone synthase 2
+speciosa-XZAQ,TRINITY_DN7244_c0_g3_i1.p1,Chalcone synthase,Chalcone synthase 2
+speciosa-XZAQ,TRINITY_DN9386_c1_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+speciosa-XZAQ,TRINITY_DN10374_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+speciosa-XZAQ,TRINITY_DN10374_c0_g1_i7.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+speciosa-XZAQ,TRINITY_DN10374_c0_g1_i4.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+speciosa-XZAQ,TRINITY_DN10374_c0_g1_i9.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+speciosa-XZAQ,TRINITY_DN10919_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+speciosa-XZAQ,TRINITY_DN15662_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+speciosa-XZAQ,TRINITY_DN18630_c0_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+speciosa-XZAQ,TRINITY_DN18630_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+speciosa-XZAQ,TRINITY_DN23519_c0_g1_i1.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+speciosa-XZAQ,TRINITY_DN24661_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+speciosa-XZAQ,TRINITY_DN27248_c0_g1_i2.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+speciosa-XZAQ,TRINITY_DN27248_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+speciosa-XZAQ,TRINITY_DN27754_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+speciosa-XZAQ,TRINITY_DN27954_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+speciosa-XZAQ,TRINITY_DN28761_c0_g1_i2.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+speciosa-XZAQ,TRINITY_DN28761_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+speciosa-XZAQ,TRINITY_DN29611_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+speciosa-XZAQ,TRINITY_DN29739_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+speciosa-XZAQ,TRINITY_DN32265_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+stuchii-OEST,TRINITY_DN992_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+stuchii-OEST,TRINITY_DN2304_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+stuchii-OEST,TRINITY_DN2304_c0_g1_i3.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+stuchii-OEST,TRINITY_DN2304_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+stuchii-OEST,TRINITY_DN2396_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+stuchii-OEST,TRINITY_DN2396_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+stuchii-OEST,TRINITY_DN2588_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+stuchii-OEST,TRINITY_DN2588_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+stuchii-OEST,TRINITY_DN2588_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+stuchii-OEST,TRINITY_DN2588_c1_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+stuchii-OEST,TRINITY_DN2588_c1_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+stuchii-OEST,TRINITY_DN3199_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+stuchii-OEST,TRINITY_DN3199_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+stuchii-OEST,TRINITY_DN3199_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+stuchii-OEST,TRINITY_DN3199_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+stuchii-OEST,TRINITY_DN3155_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+stuchii-OEST,TRINITY_DN3268_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+stuchii-OEST,TRINITY_DN3268_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+stuchii-OEST,TRINITY_DN3268_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+stuchii-OEST,TRINITY_DN3370_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+stuchii-OEST,TRINITY_DN3376_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+stuchii-OEST,TRINITY_DN5541_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+stuchii-OEST,TRINITY_DN5903_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+stuchii-OEST,TRINITY_DN6991_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+stuchii-OEST,TRINITY_DN7700_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+stuchii-OEST,TRINITY_DN12747_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+stuchii-OEST,TRINITY_DN13068_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+stuchii-OEST,TRINITY_DN14629_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+stuchii-OEST,TRINITY_DN15838_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+stuchii-OEST,TRINITY_DN16627_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+stuchii-OEST,TRINITY_DN20613_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+stuchii-OEST,TRINITY_DN22011_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+stuchii-OEST,TRINITY_DN23420_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+stuchii-OEST,TRINITY_DN25025_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+stuchii-OEST,TRINITY_DN30683_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+stuchii-OEST,TRINITY_DN31032_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+stuchii-OEST,TRINITY_DN32189_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+stuchii-OEST,TRINITY_DN34709_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+stuchii-OEST,TRINITY_DN37199_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+stuchii-OEST,TRINITY_DN38509_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+stuchii-OEST,TRINITY_DN39836_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+stuchii-OEST,TRINITY_DN40370_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+stuchii-OEST,TRINITY_DN41455_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+suffulta-JKNQ,TRINITY_DN359_c0_g1_i4.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+suffulta-JKNQ,TRINITY_DN359_c0_g1_i5.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+suffulta-JKNQ,TRINITY_DN359_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+suffulta-JKNQ,TRINITY_DN359_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+suffulta-JKNQ,TRINITY_DN434_c0_g1_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+suffulta-JKNQ,TRINITY_DN434_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+suffulta-JKNQ,TRINITY_DN1229_c0_g1_i2.p3,Chalcone synthase,Chalcone synthase 1
+suffulta-JKNQ,TRINITY_DN1229_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 1
+suffulta-JKNQ,TRINITY_DN1229_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 2
+suffulta-JKNQ,TRINITY_DN1229_c0_g1_i6.p1,Chalcone synthase,Chalcone synthase 2
+suffulta-JKNQ,TRINITY_DN1229_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+suffulta-JKNQ,TRINITY_DN1229_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+suffulta-JKNQ,TRINITY_DN1276_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+suffulta-JKNQ,TRINITY_DN1221_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+suffulta-JKNQ,TRINITY_DN1221_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+suffulta-JKNQ,TRINITY_DN1221_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+suffulta-JKNQ,TRINITY_DN1221_c0_g1_i5.p2,Chalcone synthase,Chalcone synthase 2
+suffulta-JKNQ,TRINITY_DN1579_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+suffulta-JKNQ,TRINITY_DN1625_c0_g1_i5.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+suffulta-JKNQ,TRINITY_DN1625_c0_g1_i2.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+suffulta-JKNQ,TRINITY_DN1721_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+suffulta-JKNQ,TRINITY_DN1721_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+suffulta-JKNQ,TRINITY_DN1721_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+suffulta-JKNQ,TRINITY_DN1721_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+suffulta-JKNQ,TRINITY_DN2066_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+suffulta-JKNQ,TRINITY_DN2066_c0_g1_i5.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+suffulta-JKNQ,TRINITY_DN2066_c0_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase F3H2 {ECO:0000305}
+suffulta-JKNQ,TRINITY_DN2199_c1_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+suffulta-JKNQ,TRINITY_DN2126_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+suffulta-JKNQ,TRINITY_DN2791_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+suffulta-JKNQ,TRINITY_DN2791_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+suffulta-JKNQ,TRINITY_DN3839_c0_g1_i1.p1,4-coumarate--CoA ligase,Probable 4-coumarate--CoA ligase 2
+suffulta-JKNQ,TRINITY_DN3839_c0_g2_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+suffulta-JKNQ,TRINITY_DN3839_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+suffulta-JKNQ,TRINITY_DN4528_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+suffulta-JKNQ,TRINITY_DN5924_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+suffulta-JKNQ,TRINITY_DN5924_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+suffulta-JKNQ,TRINITY_DN6093_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+suffulta-JKNQ,TRINITY_DN6217_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+suffulta-JKNQ,TRINITY_DN6217_c0_g1_i3.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+suffulta-JKNQ,TRINITY_DN6467_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+suffulta-JKNQ,TRINITY_DN7341_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+suffulta-JKNQ,TRINITY_DN7376_c0_g1_i1.p2,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+suffulta-JKNQ,TRINITY_DN7376_c0_g1_i3.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+suffulta-JKNQ,TRINITY_DN7376_c0_g1_i2.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+suffulta-JKNQ,TRINITY_DN7376_c0_g2_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+suffulta-JKNQ,TRINITY_DN7893_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+suffulta-JKNQ,TRINITY_DN8657_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+suffulta-JKNQ,TRINITY_DN8806_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+suffulta-JKNQ,TRINITY_DN8986_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+suffulta-JKNQ,TRINITY_DN8986_c0_g2_i2.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+suffulta-JKNQ,TRINITY_DN17910_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+suffulta-JKNQ,TRINITY_DN19007_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+suffulta-JKNQ,TRINITY_DN22327_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+suffulta-JKNQ,TRINITY_DN29066_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villaricae-HKMQ,TRINITY_DN325_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villaricae-HKMQ,TRINITY_DN325_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villaricae-HKMQ,TRINITY_DN868_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+villaricae-HKMQ,TRINITY_DN868_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+villaricae-HKMQ,TRINITY_DN1012_c0_g2_i3.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+villaricae-HKMQ,TRINITY_DN1012_c0_g2_i6.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+villaricae-HKMQ,TRINITY_DN1012_c0_g2_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+villaricae-HKMQ,TRINITY_DN1515_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villaricae-HKMQ,TRINITY_DN1515_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villaricae-HKMQ,TRINITY_DN1515_c0_g2_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+villaricae-HKMQ,TRINITY_DN1515_c0_g3_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+villaricae-HKMQ,TRINITY_DN1515_c0_g4_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villaricae-HKMQ,TRINITY_DN1515_c0_g5_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villaricae-HKMQ,TRINITY_DN1515_c0_g5_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villaricae-HKMQ,TRINITY_DN1515_c1_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+villaricae-HKMQ,TRINITY_DN1672_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+villaricae-HKMQ,TRINITY_DN1660_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+villaricae-HKMQ,TRINITY_DN1988_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+villaricae-HKMQ,TRINITY_DN2005_c0_g1_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+villaricae-HKMQ,TRINITY_DN2250_c0_g2_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+villaricae-HKMQ,TRINITY_DN2326_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+villaricae-HKMQ,TRINITY_DN2685_c0_g1_i2.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+villaricae-HKMQ,TRINITY_DN3987_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+villaricae-HKMQ,TRINITY_DN3987_c0_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+villaricae-HKMQ,TRINITY_DN3987_c0_g1_i9.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+villaricae-HKMQ,TRINITY_DN3987_c0_g1_i8.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+villaricae-HKMQ,TRINITY_DN3987_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+villaricae-HKMQ,TRINITY_DN3987_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+villaricae-HKMQ,TRINITY_DN3987_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+villaricae-HKMQ,TRINITY_DN5230_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+villaricae-HKMQ,TRINITY_DN5230_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 2
+villaricae-HKMQ,TRINITY_DN8496_c0_g2_i3.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+villaricae-HKMQ,TRINITY_DN8496_c0_g5_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+villaricae-HKMQ,TRINITY_DN8610_c0_g3_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+villaricae-HKMQ,TRINITY_DN8610_c0_g4_i2.p3,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villaricae-HKMQ,TRINITY_DN8610_c0_g4_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villaricae-HKMQ,TRINITY_DN11640_c0_g1_i2.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+villaricae-HKMQ,TRINITY_DN12336_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+villaricae-HKMQ,TRINITY_DN12759_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+villaricae-HKMQ,TRINITY_DN13147_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+villaricae-HKMQ,TRINITY_DN18160_c0_g2_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villaricae-HKMQ,TRINITY_DN18160_c0_g2_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villaricae-HKMQ,TRINITY_DN18160_c0_g2_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villaricae-HKMQ,TRINITY_DN22642_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+villaricae-HKMQ,TRINITY_DN22642_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+villaricae-HKMQ,TRINITY_DN22893_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+villaricae-HKMQ,TRINITY_DN23246_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+villaricae-HKMQ,TRINITY_DN25256_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+villosa_strigosa-OEVS,TRINITY_DN206_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+villosa_strigosa-OEVS,TRINITY_DN206_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 1
+villosa_strigosa-OEVS,TRINITY_DN206_c1_g1_i1.p1,Chalcone synthase,Chalcone synthase
+villosa_strigosa-OEVS,TRINITY_DN1101_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+villosa_strigosa-OEVS,TRINITY_DN1257_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+villosa_strigosa-OEVS,TRINITY_DN1963_c0_g1_i1.p2,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+villosa_strigosa-OEVS,TRINITY_DN1963_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+villosa_strigosa-OEVS,TRINITY_DN2006_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+villosa_strigosa-OEVS,TRINITY_DN2006_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+villosa_strigosa-OEVS,TRINITY_DN2006_c0_g1_i6.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villosa_strigosa-OEVS,TRINITY_DN2006_c0_g1_i4.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+villosa_strigosa-OEVS,TRINITY_DN2006_c1_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+villosa_strigosa-OEVS,TRINITY_DN2222_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+villosa_strigosa-OEVS,TRINITY_DN2986_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villosa_strigosa-OEVS,TRINITY_DN3274_c0_g1_i5.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villosa_strigosa-OEVS,TRINITY_DN3274_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villosa_strigosa-OEVS,TRINITY_DN3274_c0_g1_i2.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villosa_strigosa-OEVS,TRINITY_DN3274_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villosa_strigosa-OEVS,TRINITY_DN3274_c0_g1_i7.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villosa_strigosa-OEVS,TRINITY_DN3393_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+villosa_strigosa-OEVS,TRINITY_DN3601_c0_g1_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+villosa_strigosa-OEVS,TRINITY_DN3852_c0_g1_i3.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+villosa_strigosa-OEVS,TRINITY_DN3852_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+villosa_strigosa-OEVS,TRINITY_DN3852_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+villosa_strigosa-OEVS,TRINITY_DN4120_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+villosa_strigosa-OEVS,TRINITY_DN4263_c0_g2_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+villosa_strigosa-OEVS,TRINITY_DN4263_c0_g2_i2.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+villosa_strigosa-OEVS,TRINITY_DN4729_c0_g1_i2.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+villosa_strigosa-OEVS,TRINITY_DN4729_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+villosa_strigosa-OEVS,TRINITY_DN4729_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+villosa_strigosa-OEVS,TRINITY_DN4977_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villosa_strigosa-OEVS,TRINITY_DN5442_c0_g1_i12.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villosa_strigosa-OEVS,TRINITY_DN5442_c0_g1_i5.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villosa_strigosa-OEVS,TRINITY_DN5442_c0_g1_i8.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villosa_strigosa-OEVS,TRINITY_DN5442_c0_g1_i6.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villosa_strigosa-OEVS,TRINITY_DN7221_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+villosa_strigosa-OEVS,TRINITY_DN7659_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+villosa_strigosa-OEVS,TRINITY_DN7684_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+villosa_strigosa-OEVS,TRINITY_DN8705_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+villosa_strigosa-OEVS,TRINITY_DN15694_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase
+villosa_strigosa-OEVS,TRINITY_DN20641_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+villosa_strigosa-OEVS,TRINITY_DN32473_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+villosa_strigosa-OEVS,TRINITY_DN35473_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+villosa_strigosa-OEVS,TRINITY_DN38780_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+villosa_strigosa-OEVS,TRINITY_DN41501_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+villosa_strigosa-OEVS,TRINITY_DN42115_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+villosa_strigosa-OEVS,TRINITY_DN48131_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase"
+wolfii-OEWO,TRINITY_DN58_c0_g1_i2.p1,Chalcone synthase,Chalcone synthase 2
+wolfii-OEWO,TRINITY_DN58_c0_g1_i3.p1,Chalcone synthase,Chalcone synthase 2
+wolfii-OEWO,TRINITY_DN58_c0_g1_i4.p1,Chalcone synthase,Chalcone synthase 1
+wolfii-OEWO,TRINITY_DN58_c0_g1_i1.p1,Chalcone synthase,Chalcone synthase 1
+wolfii-OEWO,TRINITY_DN527_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+wolfii-OEWO,TRINITY_DN722_c0_g1_i2.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
+wolfii-OEWO,TRINITY_DN722_c0_g1_i3.p3,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+wolfii-OEWO,TRINITY_DN722_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+wolfii-OEWO,TRINITY_DN1214_c0_g1_i2.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+wolfii-OEWO,TRINITY_DN1214_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+wolfii-OEWO,TRINITY_DN1214_c0_g1_i7.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+wolfii-OEWO,TRINITY_DN1214_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+wolfii-OEWO,TRINITY_DN1214_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+wolfii-OEWO,TRINITY_DN2133_c5_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+wolfii-OEWO,TRINITY_DN2133_c5_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 6
+wolfii-OEWO,TRINITY_DN2520_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+wolfii-OEWO,TRINITY_DN3578_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 2
+wolfii-OEWO,TRINITY_DN4337_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+wolfii-OEWO,TRINITY_DN4337_c0_g1_i1.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+wolfii-OEWO,TRINITY_DN4337_c0_g1_i4.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+wolfii-OEWO,TRINITY_DN4337_c0_g1_i3.p2,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+wolfii-OEWO,TRINITY_DN4337_c0_g1_i3.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+wolfii-OEWO,TRINITY_DN4337_c1_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i6.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i6.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i14.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i20.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i7.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i13.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i4.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i28.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i19.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i26.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i5.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 1"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i11.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i11.p2,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i1.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4428_c0_g1_i23.p1,"Flavonoid 3',5'-hydroxylase","Flavonoid 3',5'-hydroxylase 2"
+wolfii-OEWO,TRINITY_DN4623_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+wolfii-OEWO,TRINITY_DN4876_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 3 {ECO:0000305}
+wolfii-OEWO,TRINITY_DN5403_c0_g1_i2.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+wolfii-OEWO,TRINITY_DN5403_c0_g1_i1.p1,Flavanone 3-dioxygenase,Flavanone 3-dioxygenase 2 {ECO:0000305}
+wolfii-OEWO,TRINITY_DN7595_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+wolfii-OEWO,TRINITY_DN8159_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 9
+wolfii-OEWO,TRINITY_DN8490_c0_g1_i1.p1,Chalcone--flavonone isomerase,Chalcone--flavonone isomerase
+wolfii-OEWO,TRINITY_DN8912_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 3
+wolfii-OEWO,TRINITY_DN11781_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+wolfii-OEWO,TRINITY_DN18802_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+wolfii-OEWO,TRINITY_DN19400_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+wolfii-OEWO,TRINITY_DN19878_c0_g1_i1.p1,Flavonoid 3'-monooxygenase,Flavonoid 3'-monooxygenase CYP75B137 {ECO:0000305}
+wolfii-OEWO,TRINITY_DN20513_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+wolfii-OEWO,TRINITY_DN23705_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+wolfii-OEWO,TRINITY_DN25100_c0_g1_i1.p2,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+wolfii-OEWO,TRINITY_DN25120_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase
+wolfii-OEWO,TRINITY_DN27360_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase 1
+wolfii-OEWO,TRINITY_DN28299_c0_g1_i2.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+wolfii-OEWO,TRINITY_DN28984_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+wolfii-OEWO,TRINITY_DN32877_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 5
+wolfii-OEWO,TRINITY_DN35077_c0_g1_i1.p1,"Naringenin,2-oxoglutarate 3-dioxygenase","Naringenin,2-oxoglutarate 3-dioxygenase"
+wolfii-OEWO,TRINITY_DN35338_c0_g1_i1.p1,Flavonol synthase/flavanone 3-hydroxylase,Flavonol synthase/flavanone 3-hydroxylase
+wolfii-OEWO,TRINITY_DN35614_c0_g1_i1.p1,4-coumarate--CoA ligase,4-coumarate--CoA ligase-like 7
+wolfii-OEWO,TRINITY_DN38676_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 2
+wolfii-OEWO,TRINITY_DN39479_c0_g1_i1.p1,Trans-cinnamate 4-monooxygenase,Trans-cinnamate 4-monooxygenase
+wolfii-OEWO,TRINITY_DN46062_c0_g1_i1.p1,Phenylalanine ammonia-lyase,Phenylalanine ammonia-lyase 1
