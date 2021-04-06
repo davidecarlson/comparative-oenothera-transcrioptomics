@@ -1,0 +1,10 @@
+fastqs:
+    "/datahome/oenothera/transcripts/assemblies/snakemake-trinity/fastqs"
+results_loc:
+        "/datahome/oenothera/transcripts/assemblies/snakemake-trinity/results"
+test:
+    "/datahome/oenothera/transcripts/assemblies/snakemake-trinity/test"
+TRANSDECODER:
+    "/home/progs/TransDecoder-TransDecoder-v5.5.0"
+DB:
+    "/datahome/public/trinotate"
