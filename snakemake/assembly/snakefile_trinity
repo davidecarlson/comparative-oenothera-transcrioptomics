@@ -34,7 +34,10 @@ rule all:
         expand(RESULTS + "/transdecoder/{sample}/longest_orfs.pep", sample=SAMPLES),
         expand(RESULTS + "/blastp/{sample}.blastp.outfmt6", sample=SAMPLES),
         expand(RESULTS + "/hmmer/{sample}.PFAM.out", sample=SAMPLES),
-        expand(RESULTS + "/transdecoder/{sample}/{sample}.longestiso.Trinity.fasta.transdecoder.pep", sample=SAMPLES)
+        expand(RESULTS + "/transdecoder/{sample}/{sample}.longestiso.Trinity.fasta.transdecoder.pep", sample=SAMPLES),
+        expand(RESULTS + "/coreGF/{sample}.blastx.outfmt6", sample=SAMPLES),
+        expand(RESULTS + "/coreGF/{sample}.coreGFscore.txt", sample=SAMPLES)
+
 	
 include:        "rules/fastp.smk"
 include:        "rules/trinity.smk"
@@ -48,6 +51,7 @@ include:        "rules/trans_longest.smk"
 include:        "rules/blastp.smk"
 include:        "rules/hmmer.smk"
 include:        "rules/trans_predict.smk"
+include:        "rules/coreGF.smk"
 
 onsuccess:
 	print("Transcriptome assembly finished!")
